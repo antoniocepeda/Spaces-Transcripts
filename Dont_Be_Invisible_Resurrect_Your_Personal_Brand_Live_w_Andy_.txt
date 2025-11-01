@@ -1,0 +1,818 @@
+[SPEAKER_02]: All right, good afternoon.
+[SPEAKER_02]: It is Friday the 31st of October.
+[SPEAKER_02]: It is Halloween.
+[SPEAKER_02]: This is episode number 60 of the Live with Andy show.
+[SPEAKER_02]: We're going to talk about not being invisible, resurrect your personal brand.
+[SPEAKER_02]: Some people have them.
+[SPEAKER_02]: Some people don't.
+[SPEAKER_02]: Some people are interested in how they work.
+[SPEAKER_02]: Some people don't have any idea.
+[SPEAKER_02]: And let's just get into it today.
+[SPEAKER_02]: I've got all of my
+[SPEAKER_02]: Other work done, I went through a big Halloween activity earlier today.
+[SPEAKER_02]: And so now I'm ready to do some work with all of you guys.
+[SPEAKER_02]: How is it going?
+[SPEAKER_02]: Let's get some folks up here.
+[SPEAKER_02]: And I see, thank you for joining.
+[SPEAKER_02]: Hey Malcolm, Razvan, Pixel TVD, what's going on TVD?
+[SPEAKER_02]: Nice to see everybody here today.
+[SPEAKER_02]: We'll get some other folks here.
+[SPEAKER_02]: I'm sure they'll trickle in like they normally do.
+[SPEAKER_02]: But here's the crazy thing.
+[SPEAKER_02]: If you don't have a personal brand, meaning when I say personal brand, you guys know I mean like a digital presence, a digital persona, right?
+[SPEAKER_02]: That's what I mean by a personal brand in the context of what we're talking about.
+[SPEAKER_02]: If you're going to do it in person, you're going to stand up on stage and talk to people in person.
+[SPEAKER_02]: You have to, you know, look nice.
+[SPEAKER_02]: You got to take a shower.
+[SPEAKER_02]: You might want to smell
+[SPEAKER_02]: Not like you've been out working in the yard for the last five hours in the heat and humidity.
+[SPEAKER_02]: You might want to wear some nice clothes.
+[SPEAKER_02]: You might want to smile, shine your shoes.
+[SPEAKER_02]: And then when you say the things that you want to say, when you present the details, that's when your personal brand takes place.
+[SPEAKER_02]: But what we typically talk about is your online digital presence.
+[SPEAKER_02]: Razvan, how you doing?
+[SPEAKER_02]: You have a question today or a comment or something to talk about.
+[SPEAKER_02]: How are you today on this Halloween?
+[SPEAKER_06]: Hey Andy, nice to catch up the space.
+[SPEAKER_06]: I was about to call it a day and to wind down but I saw that you started the space and I thought I could join for a couple of minutes because I think the subject of the space is really interesting because I've been trying to like resurrect my personal branding
+[SPEAKER_06]: these days as well.
+[SPEAKER_06]: I've been experimenting on a lot of platforms, trying to post on everything, trying to test a lot of things, and somehow I need to like
+[SPEAKER_06]: resurrect or try to concentrate or focus only on some particular things.
+[SPEAKER_06]: I'm still trying to figure out these and I'm super curious about your ideas, about what do you think about this and what would be your suggestions to be rather spread across all the platforms or focused on maybe only some of them or some particular channels.
+[SPEAKER_02]: Well, let me ask you a question.
+[SPEAKER_02]: What is your purpose?
+[SPEAKER_02]: What is it that you want to accomplish if we did all of that?
+[SPEAKER_02]: What would be your result?
+[SPEAKER_06]: In my case, I started last year building my own apps, my own products.
+[SPEAKER_06]: And the purpose of the personal branding is mainly to connect with other indie makers, developers, people in tech in general.
+[SPEAKER_06]: That would be the number one goal.
+[SPEAKER_06]: and also to try to, I don't know, have like a voice in this field.
+[SPEAKER_06]: I'm thinking about also maybe participating to some conferences, collaborating on different open source projects, things like this.
+[SPEAKER_06]: The whole indie making and selling the apps, that's like another story.
+[SPEAKER_06]: I think I should try to sell the apps in their individual channels.
+[SPEAKER_06]: But my personal branding related to be in the making and all that I'm doing it's mainly focused on Connecting with other people in tech coding building app startups tech in general Okay, so
+[SPEAKER_02]: The first advice I would give you is when I ask you a question that you have a direct answer.
+[SPEAKER_02]: And it's okay if you don't have that today.
+[SPEAKER_02]: But the first thing that I would give you some advice on is have a clear objective in mind that you could say in one sentence.
+[SPEAKER_02]: Right?
+[SPEAKER_02]: I want to be the go-to expert in X. I want to get on panels.
+[SPEAKER_02]: I would like to be on a podcast.
+[SPEAKER_02]: I would like to have a further reach.
+[SPEAKER_02]: Whatever your choice is, that's fine.
+[SPEAKER_02]: Right?
+[SPEAKER_02]: And it's totally okay.
+[SPEAKER_02]: You can have whatever you want.
+[SPEAKER_02]: But I would suggest you think about it for the next time when I ask you again.
+[SPEAKER_02]: Next time you can just, you can be more direct and clear.
+[SPEAKER_02]: Okay?
+[SPEAKER_02]: Okay, so the answer to your question is essentially you would like to be found when people search for either your name or the topics and things about your name or the topics and things that you're interested in.
+[SPEAKER_02]: Yes, okay.
+[SPEAKER_02]: So there are lots of ways to do that.
+[SPEAKER_02]: And if you ask everyone in the world, they're going to give you different answers.
+[SPEAKER_02]: Here's my answer.
+[SPEAKER_02]: Okay.
+[SPEAKER_02]: My answer is you need to figure out what the result is.
+[SPEAKER_02]: Clearly one result, not 10 results, one result.
+[SPEAKER_02]: You want to be on podcasts.
+[SPEAKER_02]: You want to be able to speak.
+[SPEAKER_02]: You want to be the go-to expert for creating applications in the area that you want to know.
+[SPEAKER_02]: You want to be known for that particular application.
+[SPEAKER_02]: whatever it is, pick that one thing, and then it's kind of easier to move the Google algorithm, because that's really what we're talking about.
+[SPEAKER_02]: We're talking about promoting you as a product.
+[SPEAKER_02]: If you think of it that way, it's a lot easier.
+[SPEAKER_02]: This is why the same advice applies to personal branding as it does to sales and marketing.
+[SPEAKER_02]: Here's what I mean.
+[SPEAKER_02]: You need to get attention.
+[SPEAKER_02]: and then you need people to go from I have attention to I want to engage with you somehow.
+[SPEAKER_02]: I want to talk to you.
+[SPEAKER_02]: I want to buy your book.
+[SPEAKER_02]: I want to read your stuff.
+[SPEAKER_02]: I want to go to your blog.
+[SPEAKER_02]: Whatever it is, you want to drive them to some activity that they're going to do.
+[SPEAKER_02]: The best way to do it is to create and so I'll jump to the end of the story.
+[SPEAKER_02]: Here's what I found to be the most effective and to go from
+[SPEAKER_02]: not known or known a little bit to known much more.
+[SPEAKER_02]: Number one, you create a blog in your name, your first name, your last name, as close as you can get.
+[SPEAKER_02]: If you have to put a middle name in or a middle word, fine.
+[SPEAKER_02]: Put that in.
+[SPEAKER_02]: Find a .com email address.
+[SPEAKER_02]: Use something like Bluehost or Porkbun.
+[SPEAKER_02]: It's very inexpensive, about $1 per month.
+[SPEAKER_02]: Second thing is,
+[SPEAKER_02]: get an email in that same domain, right?
+[SPEAKER_02]: So, andywirgitall.com, andy at andywirgitall.com, okay?
+[SPEAKER_02]: Something like that.
+[SPEAKER_02]: Second thing is, because you've chosen to be known for a particular thing, you now can pick a particular group of individuals that you want to target as your ideal customers.
+[SPEAKER_02]: And the ideal customers could vary in lots of ways.
+[SPEAKER_02]: I'll give you some of the examples of the people I'm working with.
+[SPEAKER_02]: One executive wants only to target other board members so that he can become, when he retires, that he can become in the circle of their influence so he can then petition and work into becoming a board member when he retires from being a CEO of a company.
+[SPEAKER_02]: Another one just wants to be known as a security and investigative expert because they have a security and investigative company.
+[SPEAKER_02]: And so he's got lots of background.
+[SPEAKER_02]: But if you search for investigative blah, blah, blah, you don't find him.
+[SPEAKER_02]: And so we're moving him up the ranks in that.
+[SPEAKER_02]: And the same technique applies to everyone.
+[SPEAKER_02]: But the point is you need to pick a target audience
+[SPEAKER_02]: a target audience.
+[SPEAKER_02]: One group of people I'm working with, they're currently employees, they want to get a job at a different place.
+[SPEAKER_02]: Or they're solo contractors, they're solopreneurs, they're basically independent consultants like I've been for 30 years and they just want to be known.
+[SPEAKER_02]: They just want when somebody Googles their name, when they submit an application, or they submit a proposal, or they talk to somebody about providing services, when they search for their name, they're gonna find them.
+[SPEAKER_02]: Unfortunately, well fortunately for me, my name is unique.
+[SPEAKER_02]: There are very few people who have my last name in the world.
+[SPEAKER_02]: I know them all, they're family.
+[SPEAKER_02]: But if you have a more common name that has lots of people, you know, 20, 30, 40 people with that last name,
+[SPEAKER_02]: you're going to have to do something to differentiate yourself so that the algorithm can find you.
+[SPEAKER_02]: So that when people search you, because perplexity uses the Google data.
+[SPEAKER_02]: or the Bing data, or the DuckDuckGo data, or there's a bunch of other backend search data that they use to get the information.
+[SPEAKER_02]: So when ChatGPT does it, it goes to the indexes, and it doesn't just go scroll the internet at the time when you ask it, it goes to where the indexes are and finds the most likely result of the index it already has, or the indexes it can easily just ask one time.
+[SPEAKER_02]: like Google, or Bing, or DuckDuckGo, et cetera, right?
+[SPEAKER_02]: So, create a blog in your name, target your audience, and I would target about 10,000 people.
+[SPEAKER_02]: Not 100,000, not a million people, but just...
+[SPEAKER_02]: Okay, Angel, thanks for coming up.
+[SPEAKER_02]: I'm gonna mute you for a second.
+[SPEAKER_02]: We're gonna come to you in a minute.
+[SPEAKER_02]: But I would find 10,000 people and target them.
+[SPEAKER_02]: And here's the reason why it's 10,000, not 100,000 or a million, because if you have
+[SPEAKER_03]: Okay, thanks for coming.
+[SPEAKER_02]: Appreciate that, Angel.
+[SPEAKER_02]: We'll move you down to listeners and then if you want you can, you know, come back again another time.
+[SPEAKER_02]: So, Razvan, if you pick 10,000 people, here's why.
+[SPEAKER_02]: You can reach out to 100 people a day for 100 days in a row.
+[SPEAKER_02]: That's 10,000 people.
+[SPEAKER_02]: And you do that, if you cycle through that for the entire year and you reach out to those 100 people a day, you'll do that three times.
+[SPEAKER_02]: Within three times, if everyone has about a 2% to 3% engagement rate,
+[SPEAKER_02]: Each day you do that 365 days times three people is about 1000 1500 people total.
+[SPEAKER_02]: You put 1500 people on an email list, you'll have a significant group of warm contacts that you can continuously connect with.
+[SPEAKER_02]: Okay?
+[SPEAKER_02]: So that's the manual grinding way to do it.
+[SPEAKER_02]: If you do that, okay, so you have
+[SPEAKER_02]: First, you have a blog in your name.
+[SPEAKER_02]: Second, you pick a group of 10,000 people that you can talk to.
+[SPEAKER_02]: Third, you pick your superpowers.
+[SPEAKER_02]: I am known for and do the following three or four things.
+[SPEAKER_02]: I do this, I do this, I do this.
+[SPEAKER_02]: That's it.
+[SPEAKER_02]: Three max four.
+[SPEAKER_02]: And you simply produce content that talks about something to do about that topic.
+[SPEAKER_02]: I talk about personal branding.
+[SPEAKER_02]: So I talk about how do you find it?
+[SPEAKER_02]: What do you do?
+[SPEAKER_02]: Why do you need it?
+[SPEAKER_02]: Why are you invisible?
+[SPEAKER_02]: If you're invisible, how are you not invisible?
+[SPEAKER_02]: How do you use this platform?
+[SPEAKER_02]: How do you use that platform?
+[SPEAKER_02]: I have experience in all of that.
+[SPEAKER_02]: And I can show you how I've done it, how I've helped other people do it, and I can show you examples
+[SPEAKER_02]: like organic, millions of views organically, and all that kind of stuff, right?
+[SPEAKER_02]: Okay, so you have those three things, which I call the brand blueprint, your voice, your audience, your superpowers.
+[SPEAKER_02]: Then you produce content for that.
+[SPEAKER_02]: And you just repeat every day for about 90 days.
+[SPEAKER_02]: And the algorithms will go, oh,
+[SPEAKER_02]: Roswell does this and the way that I actually do it is I create a blog article call I call that like the spine or the hub and the spokes the spokes are linked in X threads
+[SPEAKER_02]: Instagram, TikTok, and you just produce the same content everywhere.
+[SPEAKER_02]: And here's the exact formula on how I do it.
+[SPEAKER_02]: I write the article, and I use the blueprint I just told you about.
+[SPEAKER_02]: I create a seed file of 30 ideas.
+[SPEAKER_02]: I take one of those ideas, I write an article, I run it through my little editor, it creates a blog post.
+[SPEAKER_02]: I chop and reformat that blog post into a LinkedIn post.
+[SPEAKER_02]: Then I send the LinkedIn post to LinkedIn and I create one picture of whatever the thing is.
+[SPEAKER_02]: And I post the same picture on every one of the posts.
+[SPEAKER_02]: So you create a blog post with a picture.
+[SPEAKER_02]: Then you create a LinkedIn with the same picture.
+[SPEAKER_02]: And at the bottom of your LinkedIn article, it links back to your blog post.
+[SPEAKER_02]: Right, so it's a summary, it's a chunk, it's a teaser, it's an appetizer of the whole thing, and then it links back to your blog.
+[SPEAKER_02]: And then you go and you do the same thing and you talk about the topic and the idea on X and threads, okay?
+[SPEAKER_02]: And the method to do this is, and then once you have it on X, you've got a post on X that's about the topic you're talking about, you can go to,
+[SPEAKER_02]: I don't remember the tool.
+[SPEAKER_02]: I just have a link to it.
+[SPEAKER_02]: I'll find it in a second.
+[SPEAKER_02]: You go to this tool.
+[SPEAKER_02]: It's called tweethunter.io and you put your post in there and it creates a screenshot.
+[SPEAKER_02]: And then you copy the screenshot and you write some more stuff and you post that screenshot on X or you post that screenshot with your text.
+[SPEAKER_02]: on LinkedIn and threads and Instagram and TikTok with some music behind it.
+[SPEAKER_02]: That's the easiest way.
+[SPEAKER_02]: If you don't wanna put your face, that's the easiest way.
+[SPEAKER_02]: The second best way is take your phone, turn the camera on, take the thread idea, talk about it for 10 seconds to 30 seconds, copy, you know, save it.
+[SPEAKER_02]: put it on Instagram, put in captions, put the text behind it, including the article on your blog, and post it.
+[SPEAKER_02]: And do that five, 10 times a day.
+[SPEAKER_02]: That's the whole thing.
+[SPEAKER_02]: If you do all of that, if you do all of that, if you pay me and you do all of that,
+[SPEAKER_02]: I'll give you all your money back if you don't get any traction because I've never seen it not work, never.
+[SPEAKER_02]: But what I've seen like 80 times out of 100, people go, yeah, great idea.
+[SPEAKER_02]: Yeah, great idea.
+[SPEAKER_02]: And they take the recipe and then they only do part of it.
+[SPEAKER_02]: They don't do the whole thing.
+[SPEAKER_02]: If you do the whole thing and you do it consistently, you will get traction.
+[SPEAKER_02]: You will get people to follow you and you will get people to engage with you.
+[SPEAKER_02]: And then once you start to get some traction, at the bottom of every one of the posts, every one of the articles, and every one of the links, you go click here to get something free, Lead Magnet, in exchange for their email.
+[SPEAKER_02]: And you put them on your email list.
+[SPEAKER_02]: And if you do that consistently for 90 days,
+[SPEAKER_02]: First, you're going to end up with an email list of more than 100 people.
+[SPEAKER_02]: Secondly, you're going to have a bunch of warm contacts.
+[SPEAKER_02]: Third, every single place that you currently started with and ended with in Google search or whatever, you're going to be found better and easier with more parameters.
+[SPEAKER_02]: And the way that I track that is, every time I get a client, I have an audit, I start with their audit, I run their audit, it gives them a whole list of all the stuff, you get a score, and then if you subscribe and you buy the services, what happens is you get that every single month.
+[SPEAKER_02]: So you can just go, last month it was a 21, this month it's a 32.
+[SPEAKER_02]: I've been doing this for a long time.
+[SPEAKER_02]: Mine's like in the 70s and 80s.
+[SPEAKER_02]: Not a hundred.
+[SPEAKER_02]: I'm not perfect.
+[SPEAKER_02]: I still have a lot to do.
+[SPEAKER_02]: I don't have an automated Instagram feed, plus a TikTok feed, plus a threads feed.
+[SPEAKER_02]: And in addition to that, you know, by the way, I didn't know this, but you can, when you post on Instagram, turn on and it will automatically post to Facebook and to threads as well.
+[SPEAKER_02]: So you can do that one time.
+[SPEAKER_02]: There are some other tools on the way to do it now.
+[SPEAKER_02]: We're talking about the methods, but okay That's the big giant playbook.
+[SPEAKER_02]: This is recorded.
+[SPEAKER_02]: You can go listen to it again.
+[SPEAKER_02]: You can go listen to it grab the Transcript put it into chat GPT and said just give me a thing or you can just DM me and I'll send it to you but and then there are things like Taking every one of your profiles and making all your bios the same making your bios align with your ICP and your your
+[SPEAKER_02]: your superpowers.
+[SPEAKER_02]: It all aligns together.
+[SPEAKER_02]: It's a big overall, usually it's like a full on makeover, social media makeover where we start with a couple ideas, we start then tracking those things and we start making all of your social media properties
+[SPEAKER_02]: all the same, the same headshot everywhere, the same banner everywhere, the same bio everywhere, the same updates everywhere, the same content structure.
+[SPEAKER_02]: So every single day your content, let's say today we're talking about don't be invisible.
+[SPEAKER_02]: Resurrect your personal brand.
+[SPEAKER_02]: So you have something, but it's not what you like.
+[SPEAKER_02]: Okay, that's what we're gonna talk about.
+[SPEAKER_02]: Look at my posts, they're all about
+[SPEAKER_02]: Resurrecting stuff making it better.
+[SPEAKER_02]: How do you create a network?
+[SPEAKER_02]: How do you build right?
+[SPEAKER_02]: So all of it aligns on the daily top anyway That's a deeper dive than normal.
+[SPEAKER_02]: But is that helping?
+[SPEAKER_02]: Do you have any follow-up questions
+[SPEAKER_06]: I'm going to release in the space.
+[SPEAKER_06]: I tried to note down some things I lost at the half of it or something like that.
+[SPEAKER_06]: So I'll definitely release in the space.
+[SPEAKER_06]: But one thing that you mentioned, and now that you're saying this, it was super important.
+[SPEAKER_06]: Pick one thing.
+[SPEAKER_06]: I think Tim also mentioned this a couple of times.
+[SPEAKER_06]: Pick one thing, one ICP, one channel, one thing and start from there.
+[SPEAKER_06]: So thank you for all the insights.
+[SPEAKER_02]: Yes, you're welcome the I got the one I I really got I mean I've heard the one one Topic one idea concept a lot from lots of different people But the only time it actually made sense to me was when I was listening to Alex Ramos II and Alex Ramos II basically said If you if you don't hate money do this
+[SPEAKER_02]: Sell exclusive things to talk about the one thing that you've done that people want done for themselves.
+[SPEAKER_02]: And just do one thing, solve one problem for one group of people on one platform, and just keep doing the one thing until you get to a million dollars a year.
+[SPEAKER_02]: I'm like, okay, I can do that.
+[SPEAKER_02]: Sometimes I think, you know, when you look in the mirror, you think you're smart, and then you realize you're probably not that smart.
+[SPEAKER_02]: Okay.
+[SPEAKER_02]: Right.
+[SPEAKER_02]: But you know what, every one of us is good at one or two things.
+[SPEAKER_02]: And there is everything you should possibly do.
+[SPEAKER_02]: If you're good at one thing, you should just go, I'm good at this one thing.
+[SPEAKER_02]: I've done it.
+[SPEAKER_02]: I've done it a bunch of times.
+[SPEAKER_02]: I do it in my sleep.
+[SPEAKER_02]: I don't worry about it.
+[SPEAKER_02]: I never stressed about it because it's so easy for me to do.
+[SPEAKER_02]: Let me show you how to do that.
+[SPEAKER_02]: Oh, you don't know how to do that?
+[SPEAKER_02]: Here, I'll show you.
+[SPEAKER_02]: Oh, you don't want to do it.
+[SPEAKER_02]: You're not capable.
+[SPEAKER_02]: You just want me to do it for you?
+[SPEAKER_02]: Okay.
+[SPEAKER_02]: Here's how you do that.
+[SPEAKER_02]: And that's how you get the whole thing up.
+[SPEAKER_02]: So that's it.
+[SPEAKER_02]: That's it.
+[SPEAKER_02]: I've decided that my one thing is personal branding.
+[SPEAKER_02]: And it was because I did a lot of self-reflection and audits in the past six months, I realized that since, let's see, 2003, so for 22 years,
+[SPEAKER_02]: People have been reaching out to me saying, this is happening, this are the things over here, what do I do about it?
+[SPEAKER_02]: And I've had hundreds of lunches and conversations about, well, just do this kind of thing, create some details here, post more stuff here, this is how the whole thing works, so this is how you can use it.
+[SPEAKER_02]: And so finally, with a lot of prompting from Justin and Jim and other people, it just occurred to me that this is the one thing that I do well, and I'm just going to help other people do it.
+[SPEAKER_02]: So that's where we're at.
+[SPEAKER_02]: Okay, that's 20 minute answer.
+[SPEAKER_02]: Thank you for the question.
+[SPEAKER_02]: Let's go to Jim.
+[SPEAKER_02]: Hey, Jim, how are you today?
+[SPEAKER_02]: Happy Halloween.
+[SPEAKER_02]: Maybe Jim's not available, yes.
+[SPEAKER_02]: You're usually eating, so sorry if I interrupted your lunch.
+[SPEAKER_01]: Yeah, I'm eating, so.
+[SPEAKER_01]: Yeah, Razvan, I hope you enjoyed drinking out of that fire hose.
+[SPEAKER_01]: But yeah, I mean, he's...
+[SPEAKER_01]: Parmosi is right.
+[SPEAKER_01]: It's one platform, one piece of content.
+[SPEAKER_01]: That's it.
+[SPEAKER_01]: That's all you need.
+[SPEAKER_01]: I don't use any AI at all.
+[SPEAKER_01]: I'm one platform, one type of content, and up to 30,000 a month.
+[SPEAKER_01]: So, um, I listened to a bunch of content this morning.
+[SPEAKER_01]: I think the other spaces and people are having a little bit of challenges, like a launch that didn't make any money, spending a hundred dollars a month for Claude or whatever.
+[SPEAKER_01]: Like you don't need, like, I, I don't know how to be more clear.
+[SPEAKER_01]: People are going into a hundred different directions when they haven't even mastered one.
+[SPEAKER_01]: Like, it's not very difficult.
+[SPEAKER_01]: Or Mosey, Gary Vee, Jeff Walker, on and on, Cardone, they all talk about the same thing.
+[SPEAKER_01]: And I don't know why people are going into a hundred directions when everyone says the same thing.
+[SPEAKER_01]: It's very simple step-by-step to make money.
+[SPEAKER_01]: I mean, assuming you want to make money.
+[SPEAKER_01]: If you don't want to make money with social media and you're just doing it for personal development, that's a different story.
+[SPEAKER_01]: Nothing wrong with that.
+[SPEAKER_01]: Make content as much as you want.
+[SPEAKER_01]: You make content.
+[SPEAKER_01]: I don't care what platform you choose.
+[SPEAKER_01]: Really don't care.
+[SPEAKER_01]: Irrelevant.
+[SPEAKER_01]: Agnostic.
+[SPEAKER_01]: Make one piece of content, right?
+[SPEAKER_01]: You're making content, and then people will read it, watch it, whatever.
+[SPEAKER_01]: You offer them something of value to download in exchange for their email.
+[SPEAKER_01]: Step two.
+[SPEAKER_01]: Not difficult.
+[SPEAKER_01]: If they like your content, if they want more, they'll give you an email and then you deliver to them what you, the extra value you provide.
+[SPEAKER_01]: If you're not getting emails, your content offers no value.
+[SPEAKER_01]: So you got to go back, fix up your content, do it again.
+[SPEAKER_01]: So then you start getting emails.
+[SPEAKER_01]: Very simple.
+[SPEAKER_01]: And it's very simple.
+[SPEAKER_01]: If you're not getting emails, we have like over 60,000 emails right now.
+[SPEAKER_01]: And all these big guys have like hundreds of thousands, if not millions.
+[SPEAKER_01]: And it's not a hard process.
+[SPEAKER_01]: One channel.
+[SPEAKER_01]: The email comes in.
+[SPEAKER_01]: So now then the only thing you care about you don't care about anything.
+[SPEAKER_01]: I don't care about anything else.
+[SPEAKER_01]: I don't care about likes, follows, forwards, reposts.
+[SPEAKER_01]: I DM nobody.
+[SPEAKER_01]: I follow nobody.
+[SPEAKER_01]: I don't waste my time.
+[SPEAKER_01]: These are non-productive.
+[SPEAKER_01]: These are non-productive activities.
+[SPEAKER_01]: I don't respond to anyone.
+[SPEAKER_01]: So
+[SPEAKER_01]: the email comes in, they grow, okay?
+[SPEAKER_01]: So and again, if their email is not growing, go back to your free content because you're not providing any value.
+[SPEAKER_01]: As soon as you provide more value in your content, in your one single channel, whatever that is, the emails will increase.
+[SPEAKER_01]: So then you start collecting emails and you're collecting emails.
+[SPEAKER_01]: When you have a thousand emails,
+[SPEAKER_01]: then you literally pick up the book by Jeff Walker called Launch, and you launch a product or service.
+[SPEAKER_01]: 1,000 people at a 1% to 2% conversion rate is 10 to 20 customers.
+[SPEAKER_01]: If you follow this step, you should have, at the end of your 10-day launch, five days pre-launch, five days launch, you should have 10 to 20 customers.
+[SPEAKER_01]: for whatever you're selling after you have an email list of about 1,000.
+[SPEAKER_01]: If, again, going backwards, you don't have 10 to 20 customers on your launch, something failed in your launch process.
+[SPEAKER_01]: So you've got to diagnose your launch process because you're converting lower than typical.
+[SPEAKER_01]: So maybe, you know, your copywriting wasn't very good.
+[SPEAKER_01]: So you've got to call Kevin.
+[SPEAKER_01]: Say, Kevin, my copywriting sucks.
+[SPEAKER_01]: Can you help me with my copywriting?
+[SPEAKER_01]: Right?
+[SPEAKER_01]: They'll fix up your copywriting.
+[SPEAKER_01]: And then the next launch you do with the next thousand emails that you get should get 10 to 20 customers.
+[SPEAKER_01]: And then that's it.
+[SPEAKER_01]: And all you do is you launch every time you have a thousand emails.
+[SPEAKER_01]: That's it.
+[SPEAKER_01]: And then money comes in.
+[SPEAKER_01]: So when I hear people who say, I spent a hundred bucks on it, I spent nothing.
+[SPEAKER_01]: to get up to $10,000 a month in sales.
+[SPEAKER_01]: Nothing.
+[SPEAKER_01]: Zero.
+[SPEAKER_01]: You don't need to spend that much money.
+[SPEAKER_01]: And anyone who breaks this process, one channel, free content, email,
+[SPEAKER_01]: I mean, a thousand emails launch makes money.
+[SPEAKER_01]: And from what I can tell, all these people who are not making money have diverted from that to do something else.
+[SPEAKER_01]: And that's fine.
+[SPEAKER_01]: If it's for personal development, you can do that.
+[SPEAKER_01]: But I'm here to monetize, not to sort of waste time on DMs and be a reply guy.
+[SPEAKER_01]: And like, I don't do any of that stuff.
+[SPEAKER_01]: I follow nobody.
+[SPEAKER_01]: So anyway, that's my long winded 20 minute speech.
+[SPEAKER_01]: Sorry, it took so much time.
+[SPEAKER_01]: I'll end it here.
+[SPEAKER_02]: You only took 10 minutes.
+[SPEAKER_02]: I took 20.
+[SPEAKER_02]: You're way better at this than I am.
+[SPEAKER_02]: So I appreciate that.
+[SPEAKER_02]: That's great.
+[SPEAKER_02]: Thanks, Jim.
+[SPEAKER_02]: Razvan, you got any questions?
+[SPEAKER_06]: Nope.
+[SPEAKER_06]: I noted down that thing as well.
+[SPEAKER_06]: I'll definitely revise the space.
+[SPEAKER_06]: Thank you for all the tips.
+[SPEAKER_06]: And I think this is nice joining this space to be able to ask the dumb questions and receive 20 plus 10, I think, 30 minutes of master class information.
+[SPEAKER_06]: So thank you.
+[SPEAKER_02]: Yeah, if we just go back to, here's the simplest way to describe it.
+[SPEAKER_02]: Decide what you want to say.
+[SPEAKER_02]: Decide who wants to hear it.
+[SPEAKER_02]: Go say it over and over and over again, 10, 12 times a day.
+[SPEAKER_02]: and offer them something of value in exchange for their email address.
+[SPEAKER_02]: Okay, so number one, pick the thing you wanna talk about.
+[SPEAKER_02]: Number two, go talk about it 10, 12 times a day.
+[SPEAKER_02]: And then number three, every time you talk about it, offer something in exchange for their email.
+[SPEAKER_02]: When you get to 1,000 emails, run the launch sequence and figure out what they wanna buy and sell them something.
+[SPEAKER_02]: and you should get 10 to 20 customers.
+[SPEAKER_02]: I would love that this time slot is about how do we do this more, better, newer, differently, like repeat it, faster, whatever, but the bottom line is create content, give it in exchange for an email,
+[SPEAKER_02]: When you get a thousand emails, run your launch sequence every month, every two months, whatever it is, and make money.
+[SPEAKER_02]: That's what I'm doing.
+[SPEAKER_02]: That's exactly what I'm doing.
+[SPEAKER_02]: And my one thing to talk about is personal branding.
+[SPEAKER_02]: Everybody knows they need it.
+[SPEAKER_02]: Everybody wants it.
+[SPEAKER_02]: Nobody said, no, I don't really want that.
+[SPEAKER_02]: I mean, I've actually talked to a guy who said, no, I'm good.
+[SPEAKER_02]: And I said, don't you want any money?
+[SPEAKER_02]: He goes, no, I have enough money, I'm fine.
+[SPEAKER_02]: I'm like, okay, fine, cool.
+[SPEAKER_02]: But every other person I've ever talked to has said, yeah, I want more.
+[SPEAKER_02]: Give me more attention, give me more people, give me more customers, give me more activity, give me more leads.
+[SPEAKER_02]: Everybody said, please give me more.
+[SPEAKER_02]: So, that's what we're doing.
+[SPEAKER_02]: Okay, let's go to Hoops.
+[SPEAKER_02]: What's going on, Hoops?
+[SPEAKER_02]: Fantastic, it's a beautiful Thanksgiving.
+[SPEAKER_02]: I mean a Halloween.
+[SPEAKER_02]: Haha.
+[SPEAKER_00]: Sorry I blew that one So with organic with organic traffic on on your Organic traffic on your newsletter and then How are you?
+[SPEAKER_00]: like for instance you have you have a
+[SPEAKER_00]: leads already in like an email account, and what about cyphering those off and stacking them in your newsletter?
+[SPEAKER_00]: Is that something you advise or you would prefer building that organically?
+[SPEAKER_02]: You know, that is a really good technical question that I don't know the answer to.
+[SPEAKER_02]: I know what they say.
+[SPEAKER_02]: Let me tell you what I'm doing, okay?
+[SPEAKER_02]: Here's the content you're going to see.
+[SPEAKER_02]: Andy's going to talk to you about personal branding.
+[SPEAKER_02]: If you want, the first thing you need to do is figure out where you actually are.
+[SPEAKER_02]: It's kind of like step on the scale, write down the number, whatever it is.
+[SPEAKER_02]: If you like the number, cool.
+[SPEAKER_02]: If you want it to be less, then you need to figure out how to lose weight, okay?
+[SPEAKER_02]: But the first goal is step on the scale and write down the number.
+[SPEAKER_02]: I've created an audit, personal brand audit.
+[SPEAKER_02]: If you want, by the way, everybody can just DM me their email.
+[SPEAKER_02]: That's all you need.
+[SPEAKER_02]: Name and email, send it to me, and I will run the audit and send you back a response.
+[SPEAKER_02]: When you get the response, it says, here's all the stuff we found, here's all the things, here's how we think it works together.
+[SPEAKER_02]: And by the way, if you want suggestions on how to fix it, updates and things, engage in my
+[SPEAKER_02]: Subscriber only newsletter and get this every month Just click here and sign up for the $97 a month program you also get a
+[SPEAKER_02]: you know, a group coaching session with Andy where everybody who's in the subscriber list gets invited to.
+[SPEAKER_02]: You get a special email where all I do is talk about this exact process and how you define what your audience, what your type is, what your voice is.
+[SPEAKER_02]: How do you make your voice more refined?
+[SPEAKER_02]: How do you refine your audience down?
+[SPEAKER_02]: That's typically where I spend most of my time.
+[SPEAKER_02]: People want their audience to be too big.
+[SPEAKER_02]: You need to scale it down to a smaller number.
+[SPEAKER_02]: And in addition to that, because as a bonus, you get 30 days of content ideas, a seed file, personalized to your voice, customized for your audience, and only talking about the ideas in your superpower.
+[SPEAKER_02]: All of that you get if you sign up for 97 bucks a month.
+[SPEAKER_02]: That's it, there you go, that's my intro.
+[SPEAKER_02]: First, free lead magnet to find out an audit of your personal brand.
+[SPEAKER_02]: And then if you want the fixes and you want that, cancel anytime you want.
+[SPEAKER_02]: That's it.
+[SPEAKER_02]: And by the way, that's worth a lot.
+[SPEAKER_02]: Because normally I charge like $1,500 for a full glow up of here's all the stuff you have, here's everything you need, here's how it all works, here's what you need to fix.
+[SPEAKER_02]: Just exactly what I talked to Razvan about.
+[SPEAKER_02]: If you go back and listen to the recording,
+[SPEAKER_02]: You can hear I give layout step by step by step by step everything you can do to become known in your area for whatever it is that you want to be known for.
+[SPEAKER_02]: And then once I get to 1,000 people on that list, then I will hit up the next step which is, by the way, if you like this stuff and you take the seed files, you can either write stuff and we'll do the editing or we'll produce content for you too.
+[SPEAKER_02]: And that's an upsell.
+[SPEAKER_02]: And I even have a full upsell where if you really want, I will fly a team of people and photographers, videographers to your location.
+[SPEAKER_02]: We will set up a live podcast.
+[SPEAKER_02]: We'll do a live podcast.
+[SPEAKER_02]: We'll record you.
+[SPEAKER_02]: We'll track, manage, drop, cut up, and edit, and produce, and deliver, and then schedule all of your social media content for an entire year.
+[SPEAKER_02]: But that's really expensive.
+[SPEAKER_02]: Like, really expensive.
+[SPEAKER_02]: But if you want it, I have a team.
+[SPEAKER_02]: We'll get on a plane and come to see you.
+[SPEAKER_02]: So there's my whole plan.
+[SPEAKER_02]: That's the everything.
+[SPEAKER_02]: I've decided I'm not holding anything back.
+[SPEAKER_02]: If you ask me, I'll tell you exactly how and what we're doing.
+[SPEAKER_02]: Like today, I spent two and a half hours this morning working on the audit prompt.
+[SPEAKER_02]: The audit is great, but I thought it
+[SPEAKER_02]: Would it be better if I expanded it to look into more in different places?
+[SPEAKER_02]: And yeah, but there's a diminishing return.
+[SPEAKER_02]: So in other words, the core four social media apps, or let's say seven, but the core four are, for a business, you wanna do business?
+[SPEAKER_02]: Facebook, LinkedIn, X, and Threads, plus Instagram and TikTok.
+[SPEAKER_02]: There you go.
+[SPEAKER_02]: That's it.
+[SPEAKER_02]: Do all of those.
+[SPEAKER_02]: That's the everything.
+[SPEAKER_02]: The seventh one, by the way, is your personal blog.
+[SPEAKER_02]: So if you add all those things together, that's how the whole thing works.
+[SPEAKER_02]: If you do consistently produce content like I just said, it works.
+[SPEAKER_02]: I know it works.
+[SPEAKER_02]: And the content system I built, it works too.
+[SPEAKER_02]: And the editing system works even better because I've generated 2 million organic page views.
+[SPEAKER_02]: Organic, no production, no promotion, no ads.
+[SPEAKER_02]: And by the way, I feel stupid about that.
+[SPEAKER_02]: You want to know why I'm stupid?
+[SPEAKER_02]: Two million clicks on a website and I didn't even ask one person in a year and a half for an email address.
+[SPEAKER_02]: Millions of page views and I didn't even ask, can I get your email address?
+[SPEAKER_02]: Would you like me to send this to you, you know, so you don't have to come click here anyway?
+[SPEAKER_02]: Yeah, we all learn.
+[SPEAKER_02]: So does that answer your question?
+[SPEAKER_02]: Oops.
+[SPEAKER_00]: Yes, sir.
+[SPEAKER_00]: Yes, sir.
+[SPEAKER_00]: Appreciate it.
+[SPEAKER_02]: Thank you.
+[SPEAKER_02]: I want everyone to do the same thing.
+[SPEAKER_02]: I really, honestly, in my heart, want each and every one of you listening now, listening live.
+[SPEAKER_02]: listening to the recording today, tomorrow, in the future, whenever it is, I want every single one of you to build one of these funnels for yourself.
+[SPEAKER_02]: For you to take your little awesome superpower and turn it into money for you and your family.
+[SPEAKER_02]: For two reasons.
+[SPEAKER_02]: One, if you build something on your own, you own that thing on your own.
+[SPEAKER_02]: Your blog and your newsletter, you own that audience.
+[SPEAKER_02]: Everything else is rented space.
+[SPEAKER_02]: X can decide, Andy's a terrible guy.
+[SPEAKER_02]: X, boom, he's out.
+[SPEAKER_02]: Cancel his account, and I'm out.
+[SPEAKER_02]: LinkedIn can decide, right?
+[SPEAKER_02]: TikTok can decide.
+[SPEAKER_02]: But if you're on my email list, I decide.
+[SPEAKER_02]: And that's a huge difference.
+[SPEAKER_02]: And here's the second reason why.
+[SPEAKER_02]: And this is the most important one.
+[SPEAKER_02]: There are people right now on their hands and knees begging God to give them some answer to help them.
+[SPEAKER_02]: Most of the time, it's either with their health or with their money.
+[SPEAKER_02]: Possibly relationships.
+[SPEAKER_02]: But I'm not able to help you with your health.
+[SPEAKER_02]: But if you follow this process, I'll help you with getting some more money.
+[SPEAKER_02]: And if we can help everybody make a little more money, it takes the pressure off.
+[SPEAKER_02]: I don't think money is happiness.
+[SPEAKER_02]: But money sure is choices.
+[SPEAKER_02]: And here's the thing about choices.
+[SPEAKER_02]: If you're choosing between paying credit card company one the money or credit card company two the money, you have to spend a lot of energy to figure out which one is best.
+[SPEAKER_02]: But if you've paid off your credit cards and you're deciding whether to spend $50 more on advertising or $500 more on advertising, that's a massively different choice.
+[SPEAKER_02]: And the pressure on your shoulders is way different.
+[SPEAKER_02]: Right?
+[SPEAKER_02]: And I know Hoops is a basketball player, and I know that he played at a high level in lots of places all over the world.
+[SPEAKER_02]: So it goes like this.
+[SPEAKER_02]: You're only tired when you're losing and playing defense.
+[SPEAKER_02]: You are never tired when you are winning and playing defense.
+[SPEAKER_02]: And that's the truth.
+[SPEAKER_02]: And so I want everyone to win financially.
+[SPEAKER_02]: And I want each of you to build your own funnels.
+[SPEAKER_02]: And I want each of you to build your own personal brand.
+[SPEAKER_02]: And to sell the thing that you're awesome at.
+[SPEAKER_02]: Every single one of you.
+[SPEAKER_02]: And the reason I want that is because I want you to be successful.
+[SPEAKER_02]: I want you and your family to be successful.
+[SPEAKER_02]: But also, there's a whole bunch of people in the world that don't even know that we're talking.
+[SPEAKER_02]: They're just on their hands and knees praying to God, somebody help them.
+[SPEAKER_02]: You, you're their help.
+[SPEAKER_02]: You're their answer.
+[SPEAKER_00]: And I'm going to assign four newsletters that I want to amplify through my newsletter.
+[SPEAKER_00]: So I just made those four choices.
+[SPEAKER_00]: That's pretty cool.
+[SPEAKER_00]: So yeah, I'll be linked to four.
+[SPEAKER_00]: You and Kevin are one.
+[SPEAKER_00]: And Timo and Crystal are the other two.
+[SPEAKER_02]: Awesome.
+[SPEAKER_02]: That's fantastic.
+[SPEAKER_02]: Yeah.
+[SPEAKER_02]: I've pivoted my Andy Unfiltered email.
+[SPEAKER_02]: That's going to be my personal
+[SPEAKER_02]: blog email.
+[SPEAKER_02]: It's going to be all of my thoughts.
+[SPEAKER_02]: It's going to be unfiltered, but it's going to be more than just business.
+[SPEAKER_02]: It's going to be me and my faith and my fatherhood and watching things.
+[SPEAKER_02]: Nothing political, but mostly about how do you become the best man that you can possibly be.
+[SPEAKER_02]: That's what that one's going to be about.
+[SPEAKER_02]: And it's going to be the unfiltered view.
+[SPEAKER_02]: And then my other email list that I have is, it was called the CEO of your life, and now I've changed it to the brand blueprint builders.
+[SPEAKER_02]: So this is all about creating your personal brand.
+[SPEAKER_02]: You need to build your own blueprint.
+[SPEAKER_02]: And that's those three things I talked about.
+[SPEAKER_02]: Your voice, your audience, and your superpowers.
+[SPEAKER_02]: Use those three things.
+[SPEAKER_02]: and we can then leverage that to do all kinds of amazing things.
+[SPEAKER_02]: You can hire editors, you can hire copywriters, you can give it to a PR firm, you can use it with a social media marketing agency.
+[SPEAKER_02]: You can say, here, this is me, this is what I wanna do, and this is what my call to actions are.
+[SPEAKER_02]: And then other people can help you.
+[SPEAKER_02]: Me or someone else, doesn't matter.
+[SPEAKER_02]: But you gotta build your own brand blueprint.
+[SPEAKER_02]: You have to choose what your voice is and choose who your audience is, who you're gonna serve.
+[SPEAKER_02]: And then you need to serve them in the things that you've already done that you do easily and better and have done consistently for some time.
+[SPEAKER_00]: And I just figured out, I just figured out that.
+[SPEAKER_00]: And that's, I guess that's why I've moved because for me, I guess everything is time, right?
+[SPEAKER_00]: Because, and then things, things trigger on the timeline and the, the whole,
+[SPEAKER_00]: The approach for my newsletter was what I needed, that angle.
+[SPEAKER_00]: And I think I found it when I started thinking athletic entrepreneur, athletic entrepreneur, you're an athlete, you're unbecoming an entrepreneur.
+[SPEAKER_00]: That's a good, because now I can tie in my athletics.
+[SPEAKER_00]: I can tie in all the film stuff I'm learning, the coding that I'm learning.
+[SPEAKER_00]: Vibe coding, AI, I can tie everything under that and create a ton of different articles and incorporate my background, my basketball core competence background into all of that.
+[SPEAKER_00]: And I figured, yeah, because that's what you are.
+[SPEAKER_00]: You're an athletic entrepreneur.
+[SPEAKER_00]: But at the same time, the dot-com wasn't available, but
+[SPEAKER_00]: Entrepreneur athletic was available.
+[SPEAKER_00]: So that's the that's the You got it you got to lean into your own Awesomeness, right?
+[SPEAKER_02]: I mean I've done things you have no idea about but you've done things I've got no clue about and that's awesome.
+[SPEAKER_02]: And that's why I like talking to people that's why I like having all these conversations because you
+[SPEAKER_02]: The stories that hoops tells see there is one commonality hoops, and I have both lived all over the world and We've lived in places.
+[SPEAKER_02]: We've lived in lived in hotels like six months at a time where you Wake up in a hotel room and have to go somewhere to find food because if there isn't any in your room right and
+[SPEAKER_02]: If you've done that, cool, right?
+[SPEAKER_02]: You're one of the few people who've done that.
+[SPEAKER_02]: And if you haven't, it's always interesting to hear about.
+[SPEAKER_02]: So it's, it's, you know, there are things where we all overlap.
+[SPEAKER_02]: But again, don't be invisible.
+[SPEAKER_02]: Take your personal brand and amplify it.
+[SPEAKER_02]: And you know, somebody asked me, I remember where it was, a day or so, maybe, you know what, could have been yesterday, last week, somebody asked me, and they go, Andy, how do you really look at people?
+[SPEAKER_02]: And I go, what do you mean?
+[SPEAKER_02]: And they go, well, they gave me this discussion.
+[SPEAKER_02]: And I said, you know what, the way I look at people is like this.
+[SPEAKER_02]: When you were six, seven years old, you truly believed you could do anything.
+[SPEAKER_02]: You were like, just give me a cape.
+[SPEAKER_02]: I'm Batman.
+[SPEAKER_02]: I can do it all.
+[SPEAKER_02]: Like awesome.
+[SPEAKER_02]: Okay.
+[SPEAKER_02]: And there's, and when I look at people, I see that little fire, that little burning fire of awesomeness of whatever their specialness is.
+[SPEAKER_02]: Okay.
+[SPEAKER_02]: And then I look at people as they age and at various stages in their life.
+[SPEAKER_02]: And I asked myself this question when I look at them, is the fire still out?
+[SPEAKER_02]: Is the fire still there?
+[SPEAKER_02]: Is it flickering?
+[SPEAKER_02]: Is it burning?
+[SPEAKER_02]: Is it a bonfire?
+[SPEAKER_02]: Or has it gone out?
+[SPEAKER_02]: And there are some people I know that you look at them and that burning fire of inspiration in their heart, it's been put out.
+[SPEAKER_02]: And they let it get put out.
+[SPEAKER_02]: And if there's one thing that I'm never ever going to do and never ever going to let happen anywhere when I'm around them, is to ever let anybody's fire go out.
+[SPEAKER_02]: In fact,
+[SPEAKER_02]: My goal is to put gasoline, whatever causes that fire to flare up and expand and get bigger, that is what I am here to do.
+[SPEAKER_02]: That is what I'm here to serve, is how can I make your fire, that fire you have inside you, how do you make that bigger?
+[SPEAKER_02]: And so when I look at people, I typically look at people through the eyes of the lens, how big is their fire?
+[SPEAKER_02]: Is it still a little spark?
+[SPEAKER_02]: Then there's hope.
+[SPEAKER_02]: If there's still hope, then we can ignite it.
+[SPEAKER_02]: If it's on fire, can we make it bigger?
+[SPEAKER_02]: Because the bigger your fire, the more impact you have on the world, especially for men.
+[SPEAKER_02]: So I'm here for that.
+[SPEAKER_02]: That's why I'm here.
+[SPEAKER_02]: And I make no apologies for it.
+[SPEAKER_02]: Justin how is happy Halloween?
+[SPEAKER_02]: Are you in your Ronin outfit?
+[SPEAKER_02]: Are you got like your you know swords out and everything?
+[SPEAKER_04]: Yeah, not yet I just left my daughter's school for like a little Halloween thing they did but now I'm driving back to my home office to Continue working.
+[SPEAKER_04]: But yeah, great to hear you dropping some fire today on this Friday Andy on the personal brand side and yeah, I love the
+[SPEAKER_04]: Love the analogy you shared about adding gasoline to people's fire so they can keep it going.
+[SPEAKER_04]: So yeah, man.
+[SPEAKER_04]: Yeah, really enjoying what you're dropping here.
+[SPEAKER_04]: And yeah, I'm definitely going to be dressing up as the Ronin tonight.
+[SPEAKER_04]: So yeah, keep an eye on the timeline if you want some entertaining pictures.
+[SPEAKER_04]: But yeah, good to see you, Kevin, Andy, Hoops.
+[SPEAKER_02]: Always love that.
+[SPEAKER_04]: Everyone down below, yeah, happy Friday.
+[SPEAKER_04]: Happy Halloween, everyone.
+[SPEAKER_02]: Thanks, Justin.
+[SPEAKER_02]: What's going on, Kevin?
+[SPEAKER_02]: Hey, by the way, everybody, everybody should follow Kevin.
+[SPEAKER_02]: He's the founder of the Startup Circle, the place where we all get a huge benefit from the 6,000 plus members.
+[SPEAKER_02]: So every time we start a space, all the 6,000 members get a notice that we started a space or dropped some whatever.
+[SPEAKER_02]: So thanks.
+[SPEAKER_02]: Hey, Kevin, what's going on?
+[SPEAKER_02]: Happy Halloween.
+[SPEAKER_03]: Happy Halloween, Justin.
+[SPEAKER_03]: Oh, it's getting crazy out here in Mexico tomorrow.
+[SPEAKER_03]: as well as Sunday is Day of the Dead.
+[SPEAKER_03]: It's the biggest holiday down here in Mexico.
+[SPEAKER_03]: They celebrate it on the 1st and the 2nd of November, including Halloween.
+[SPEAKER_03]: It is the biggest thing right now.
+[SPEAKER_03]: I'm actually going to be going out later tonight.
+[SPEAKER_03]: Got my family going out.
+[SPEAKER_03]: We're going to spend some good time there.
+[SPEAKER_03]: I haven't been to any of these parties myself personally.
+[SPEAKER_03]: I missed it last year, but we're definitely going this time.
+[SPEAKER_03]: So things are heating up here, absolutely, but in
+[SPEAKER_03]: Light of the topic, though, my rule of building a personal brand or building authority in anything that we're doing is to always own your audience.
+[SPEAKER_03]: And I really like what you were mentioning earlier, Andy, as well, right?
+[SPEAKER_03]: You made a really good point.
+[SPEAKER_03]: You reached, and this isn't to rub it in your face, right?
+[SPEAKER_03]: You said you reached 2.1 million page views.
+[SPEAKER_03]: Was it something like that?
+[SPEAKER_02]: It's 2.6 now.
+[SPEAKER_03]: On my blog, yeah.
+[SPEAKER_02]: Yeah, and you haven't collected a single email, which is something that... Yeah, up to 2.5 million, I didn't collect a single page or an email.
+[SPEAKER_02]: And then I realized, oh, I'm so stupid.
+[SPEAKER_02]: I could literally just put a JavaScript pop-up that says, click here.
+[SPEAKER_02]: Oh, my God.
+[SPEAKER_02]: And I built that in like five minutes.
+[SPEAKER_03]: Kristina will literally punish you for that.
+[SPEAKER_03]: She's always in our necks about building those funnels as well.
+[SPEAKER_03]: And she's absolutely true to write like building a funnel.
+[SPEAKER_03]: You get what you put out, right?
+[SPEAKER_03]: It's it's as simple as building.
+[SPEAKER_03]: It's as simple as putting in a buy me a coffee link into your bio, right?
+[SPEAKER_03]: All of a sudden you'll be getting buy me a coffee, you know, donations or purchases or whatever it may be.
+[SPEAKER_03]: So building those funnels are crucial, but to the whole authority thing as well.
+[SPEAKER_03]: Uh, yeah.
+[SPEAKER_03]: Owning your audience.
+[SPEAKER_03]: Absolutely.
+[SPEAKER_03]: That's the number one thing I've found that to really be most important.
+[SPEAKER_03]: And there's many ways to really do it, but I like email marketing.
+[SPEAKER_03]: I like having a newsletter.
+[SPEAKER_03]: I like having an email list.
+[SPEAKER_03]: Because it's direct marketing and direct authority building with an audience as well.
+[SPEAKER_03]: You could do communities like this one, you could do communities off-platform, things like WAP or Patreon, and I know Justin also started on Buy Me a Coffee, things like that.
+[SPEAKER_03]: Because at the end of the day, X or any social media platform is just rented land.
+[SPEAKER_03]: Anything can happen.
+[SPEAKER_03]: Audience is rented, doesn't matter.
+[SPEAKER_03]: and
+[SPEAKER_03]: You could get hacked.
+[SPEAKER_03]: I mean Andy was hacked.
+[SPEAKER_02]: I think twice maybe even once for sure Yeah, the other one I got fixed.
+[SPEAKER_02]: I I cut him off, but yeah, definitely got hacked and you know to your point I had a big following like fat 10,000 people follow me on postress and then postress got acquired by a different company and they just turned it off.
+[SPEAKER_03]: Oh Wow, I don't even know what that is to be honest, but that absolutely sucks.
+I
+[SPEAKER_02]: It's just the way it is, right?
+[SPEAKER_02]: I'm not, you know, I'm not bitter about it at all.
+[SPEAKER_02]: It's just, it made it clear to me that, oh, I need to own my own audience.
+[SPEAKER_02]: And that's why I recommend that to Rosvon and Jeff and Brenda and everyone, including by the way, shout out to Heather down below.
+[SPEAKER_02]: She's a homeschooler of seven kids.
+[SPEAKER_02]: She's got seven kids, homeschooling seven kids, and she's still here listening.
+[SPEAKER_02]: So you got to give her like major props for that.
+[SPEAKER_03]: That's absolutely amazing.
+[SPEAKER_03]: I have my hand up for one more thing too, just to give a notice to people as well.
+[SPEAKER_03]: So, you know, of course, you know, your, your email list is going to be your own audience.
+[SPEAKER_03]: That's property that you, you end up owning at the end of the day, but I've come to a situation where now twice I actually had my email list hack hacked.
+[SPEAKER_03]: Thankfully got it back within 48 hours the first time.
+[SPEAKER_03]: And then the second time I got it back within like 10 hours, because support was like extremely like, you know, on about it ever since then.
+[SPEAKER_03]: And I recommend, right, if you're building a newsletter, if you're on Beehive, or if you're on ConvertKit, or if you're on Substack, MailChimp, doesn't matter what it is, you'll have access to a CVS file, which is essentially just a file containing all your emails and everything that is actually on there of your customers.
+[SPEAKER_03]: What I recommend everybody start doing until this day is to save that CVS file, maybe once a month, put it in an email, put it in a doc,
+[SPEAKER_03]: Doesn't matter what it is, and then keep that away privately, separately.
+[SPEAKER_03]: Because that's when you truly, truly have that kind of stuff secured as well.
+[SPEAKER_03]: I feel a lot of people aren't doing this.
+[SPEAKER_03]: And when things like this occur, where people get hacked and they end up losing their emails, then a lot of things can really happen.
+[SPEAKER_03]: I was very fortunate, actually, in being able to not come across that situation where my emails were deleted or anything.
+[SPEAKER_03]: The guy was actually trying to bargain me out of $10,000.
+[SPEAKER_03]: Naturally, I converted Kit.
+[SPEAKER_03]: They got everything sorted, and we've been good ever since.
+[SPEAKER_03]: So no emails lost there.
+[SPEAKER_03]: Yeah, what's up, Justin?
+[SPEAKER_04]: Yeah, I want to share a pro tip, because you just said downloading the CSV real quick.
+[SPEAKER_04]: So yeah, once your email list gets big enough, you can actually upload it to Google and Facebook and do retargeting ads.
+[SPEAKER_04]: Because here's the reality.
+[SPEAKER_04]: If you want more conversions, you've got to have multiple touch points to convert people.
+[SPEAKER_04]: So retargeting ads is like, you know, one-on-one.
+[SPEAKER_04]: So yeah, you just need to build that list and then you can do a lot of things with it.
+[SPEAKER_04]: So yeah, that's a good pro tip there from Kevin.
+[SPEAKER_05]: Hi, Andy.
+[SPEAKER_05]: Hi, Kevin.
+[SPEAKER_05]: Hi, everyone.
+[SPEAKER_02]: Hey, Tushar, you got a question?
+[SPEAKER_02]: Go quick.
+[SPEAKER_02]: We only have five minutes left.
+[SPEAKER_05]: yeah i have a little question like i'm working on one of my startup so if i have to raise some funds regarding the startup so how like is there any opportunity that i can raise the funds like get the funding for my startup like any opinion from your end
+[SPEAKER_02]: Funding for a startup.
+[SPEAKER_02]: Okay, we talk about that but just not in this space but go ahead and hit me up in the DMS and I can show you where there's actually a space usually on Sundays where we we we talk about how to get in front of investors how to get in front of other people so that you can make your pitch and Then get people to consider funding you so hit me up in the DMS and we'll talk about that at another time.
+[SPEAKER_05]: Okay?
+[SPEAKER_02]: Yeah
+[SPEAKER_02]: Yep, great.
+[SPEAKER_02]: OK, so we've got four minutes left.
+[SPEAKER_02]: Time for one more question.
+[SPEAKER_02]: If you've got a quick question, you can ask.
+[SPEAKER_02]: If not, we'll just go right to the end of the story and right to the closeout.
+[SPEAKER_02]: All right, let's go to the closeout.
+[SPEAKER_02]: Let's go to Justin for a minute, and then Kevin for a minute, and then I'll close this up for today.
+[SPEAKER_04]: Yeah, thank you, Andy.
+[SPEAKER_04]: Thank you, Kevin, Hoops.
+[SPEAKER_04]: Good to see everyone again, and wishing everyone a great Halloween.
+[SPEAKER_04]: Yeah, I'll just share.
+[SPEAKER_04]: I just posted a really good video post on, you know, the importance of building your personal brand and I'll highlight it for everyone.
+[SPEAKER_04]: It's a great little thread here.
+[SPEAKER_04]: And, uh, and yeah, guys, just, it's all about execution at the end of the day, execution is everything.
+[SPEAKER_04]: So just 80% of success is showing up.
+[SPEAKER_04]: and then just keep executing and don't stop like Andy said don't let that flame burn out and I'm two years into this journey every day and I'm not going anywhere so thanks for riding with me Andy, Kevin, Hoops, everyone else down below and let's keep riding so much love.
+[SPEAKER_03]: Thank you so much Justin and Andy for you as well for hosting these
+[SPEAKER_03]: with the Startup Circle, incredible stuff too.
+[SPEAKER_03]: I was mostly listening in on what's going on, managed to hop in near the end as well.
+[SPEAKER_03]: But if you guys are innovators, entrepreneurs, business owners, or really looking to network with anybody here, this Startup Circle is the best and most perfect place to be here as well, as we're all dedicated into our careers and our businesses.
+[SPEAKER_03]: Thank you guys.
+[SPEAKER_03]: And thanks again, Andy.
+[SPEAKER_02]: Hey, that's fine.
+[SPEAKER_02]: Andy, Ani, cool.
+[SPEAKER_02]: She's awesome.
+[SPEAKER_02]: So that's fine.
+[SPEAKER_02]: So thank you, Kevin, by the way.
+[SPEAKER_02]: Yeah, I did 200 episodes at this time slot with John on AI in business.
+[SPEAKER_02]: And now we've done 60 episodes on personal branding.
+[SPEAKER_02]: And we're not going to stop.
+[SPEAKER_02]: We're just going to keep going.
+[SPEAKER_02]: If you want your
+[SPEAKER_02]: you are looking to get to figure out what you need to do or where you are in your social media or just just DM me audit we'd send me your email and I will I Will do run my audit tool and send it to you shortly I will get it automated and fixed and then they'll just be a landing page you can just go to and Then you'll get the whole entire thing all format and everything but right now just send me DM me audit and your email and I will send it to you so the
+[SPEAKER_02]: There are two reasons why we do this.
+[SPEAKER_02]: Number one...
+[SPEAKER_02]: We do it because I believe every single person should have a side hustle.
+[SPEAKER_02]: If you want, turn your side hustle into making some money.
+[SPEAKER_02]: If you can make some money, you can make a little bit, you can make more.
+[SPEAKER_02]: Eventually, you can do it where you can be your own boss and be autonomous and sovereign in your own world as much as possible.
+[SPEAKER_02]: And if you can do that, then you don't have to be dependent upon the rest of the economy or the world or everything else.
+[SPEAKER_02]: And I believe that is the very best way you should live.
+[SPEAKER_02]: Secondly,
+[SPEAKER_02]: Because you have some special, you have something special in you, something that you do well, easily, without effort that everyone else needs.
+[SPEAKER_02]: And you may not recognize what it is yet.
+[SPEAKER_02]: Keep coming and you'll figure it out.
+[SPEAKER_02]: But there is somebody right now on their hands and knees somewhere in the world, literally on their knees begging God for the answer that you have.
+[SPEAKER_02]: And so what we're doing is we're giving you the tools.
+[SPEAKER_02]: We're giving you a platform and a way to stand up and build your own thing so that you can go serve that person who's on their knees begging God for your answer.
+[SPEAKER_02]: And so you have the answer to somebody out there's problem and you don't even know it yet.
+[SPEAKER_02]: And so we're giving you that tool.
+[SPEAKER_02]: That's why I keep coming every day.
+[SPEAKER_02]: That's why I keep showing up.
+[SPEAKER_02]: Thank you so much.
+[SPEAKER_02]: So the world is a cold, dark place.
+[SPEAKER_02]: Grab your torch.
+[SPEAKER_02]: Light it up and walk out into the cold, dark world.
+[SPEAKER_02]: People need hope and they need you.
+[SPEAKER_02]: Thanks.
+[SPEAKER_02]: See you guys on Monday.
+[SPEAKER_02]: Take care, bye.
