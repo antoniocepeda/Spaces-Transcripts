@@ -1,0 +1,222 @@
+[SPEAKER_00]: Hello everybody, thanks for joining in.
+[SPEAKER_00]: We'll begin shortly in about 2 to 3 minutes.
+[SPEAKER_00]: I'll check if my.
+[SPEAKER_01]: We can immediately begin.
+[SPEAKER_00]: Okay, so I have messaged my co-host.
+[SPEAKER_00]: Apparently, he's in a meeting right now and we shall begin.
+[SPEAKER_00]: Nevertheless, this is a recorded space.
+[SPEAKER_00]: So, hello to everybody inside the space right now and to the people who will be listening in the future.
+[SPEAKER_00]: Let's start the topic.
+[SPEAKER_00]: of how to express your knowledge and how to build a business online.
+[SPEAKER_00]: So let's begin.
+[SPEAKER_00]: I'll start with a little bit of context about myself where I'd like to say that about two months ago, 66 days to be precise, I had no product that had to be launched, zero product.
+[SPEAKER_00]: Today I have a $4.99 offer that is about 52% built according to my AI.
+[SPEAKER_00]: Three bonuses that I have drafted for myself and I'm starting my validation process as well.
+[SPEAKER_00]: Everything comes from the notes I captured while I read.
+[SPEAKER_00]: And here's exactly how the system works.
+[SPEAKER_00]: This matters because most people read about 20 plus books a year.
+[SPEAKER_00]: They capture hundreds of notes and they build absolutely nothing.
+[SPEAKER_00]: The gap is not motivation.
+[SPEAKER_00]: It's the system between capture and creation.
+[SPEAKER_00]: That is the gap.
+[SPEAKER_00]: It's not the motivation.
+[SPEAKER_00]: It's not even the knowledge.
+[SPEAKER_00]: People have abundance of knowledge in this day of Internet, right?
+[SPEAKER_00]: AI, there's abundance of knowledge out there through YouTube, through podcasts, through Wikipedia or anything as such.
+[SPEAKER_00]: So today I will show you the exact daily loop that turned my reading into eventual revenue and we shall be covering about why firstly your notes die.
+[SPEAKER_00]: That's the real problem.
+[SPEAKER_00]: The three system stack, we'll be talking about the atomic habits, we'll be talking about building a second brain, we'll be talking about how to execute your notes as well.
+[SPEAKER_00]: And of course, I will be talking a little bit about my 66 day journey of this product creation with bonuses as well as validation as well as the daily loop you can start today.
+[SPEAKER_00]: Guys, for the people who have joined in, please like and reshare the post, reshare the space.
+[SPEAKER_00]: It will help promote it and of course, it will help people join in as well.
+[SPEAKER_00]: I will actually put in inside the Jumbotron a thread.
+[SPEAKER_00]: I actually created a thread on this just before hosting the space.
+[SPEAKER_00]: So I figured I could put it in the Jumbotron.
+[SPEAKER_00]: Just give me a moment.
+[SPEAKER_00]: There you go.
+[SPEAKER_00]: So in the Jumbotron, there's a thread about what we are going to be talking about.
+[SPEAKER_00]: So if you guys, while listening, you can read about what we are listening to as well.
+[SPEAKER_00]: I would recommend you bookmark this thread so that you can come back to it later.
+[SPEAKER_00]: And probably implement it on your AI, maybe chat GPT and build a product ideation for yourself.
+[SPEAKER_00]: You can paste the entire thread in your chat GPT and ask it to create an idea for your product or your business module, anything as such.
+[SPEAKER_00]: Let's begin.
+[SPEAKER_00]: The problem is why, the first problem we will discuss is why your captured notes die, right?
+[SPEAKER_00]: The capture trap, they call it.
+[SPEAKER_00]: People will be highlighting 50 passages in a book, articles, they will save 20 articles for later, they will screenshot 15 frameworks and then nothing, right?
+[SPEAKER_00]: They sit in a folder forever.
+[SPEAKER_00]: The reason it happens is because there is no output goal when capturing.
+[SPEAKER_00]: You save interesting things, but not useful for current project things.
+[SPEAKER_00]: Capturing feels productive, but it's just, you know, hoarding knowledge.
+[SPEAKER_00]: It's just overwhelming your notes app.
+[SPEAKER_00]: Let me put it that way.
+[SPEAKER_00]: For example, if you save everything,
+[SPEAKER_00]: You used to save everything.
+[SPEAKER_00]: I used to save everything.
+[SPEAKER_00]: But now I only save what connects to my 12 favorite problems as well as what is connecting to my current product.
+[SPEAKER_00]: These are the things that I save in my notes.
+[SPEAKER_00]: I don't save anything else because I don't want to overwhelm myself with a lot of information.
+[SPEAKER_00]: And what are the things that people do is they capture their notes by source and not by action.
+[SPEAKER_00]: For example, you capture notes based on book titles or the date of capture, probably when you need them.
+[SPEAKER_00]: You can't really find them.
+[SPEAKER_00]: Right.
+[SPEAKER_00]: And this is what most people do.
+[SPEAKER_00]: I used to do that as well.
+[SPEAKER_00]: I used to capture notes based on book titles.
+[SPEAKER_00]: But now I capture based on a formula called Para, P-A-R-A.
+[SPEAKER_00]: And Para is basically projects, areas, resource, and of course, archives.
+[SPEAKER_00]: That's the full form of Para.
+[SPEAKER_00]: Let me pull that and actually put it into this Jumbotron as well.
+[SPEAKER_00]: I will pull it right now.
+[SPEAKER_00]: And there you go.
+[SPEAKER_00]: So I wrote a thread on that as well a couple of days ago.
+[SPEAKER_00]: So you can go through this kind of this information, which is on the Jumbotron.
+[SPEAKER_00]: And also, I would recommend you save it for later so that you can use it on your chat GPT and simply just ask your chat GPT to be like, hey, man, using the Para framework, help me organize my notes in my notes app.
+[SPEAKER_00]: And you will find an answer on how to organize your notes as well as use your notes to eventually create income.
+[SPEAKER_00]: um but yes do not uh but yes that's the that's the main thing don't kind of save notes without having kind of a formula for saving your notes which is the para formula most used and discussed in uh the book building a second brain now this
+[SPEAKER_00]: is the second problem that people have.
+[SPEAKER_00]: The first problem is no goal when you capture notes.
+[SPEAKER_00]: Second problem is no, your notes are not organized by action, but they are organized by source, for example, book titles, et cetera.
+[SPEAKER_00]: And the third problem is people don't have this expressing habit.
+[SPEAKER_00]: where they capture notes they even let's say organize their notes right maybe not through the para system but they do organize their notes but they stop after that the whole point is to have an output but most people never really get over there people will be having about 200 highlights on their notebooks or their books that they're reading
+[SPEAKER_00]: but use maybe five of them right they post one or two online and boom that's pretty much it what about the rest of the highlights right the core issue is basically consumption addiction disguised as productivity people think that when you consume information it's equivalent to productivity but that is simply not true
+[SPEAKER_00]: It feels like productivity, but the only productivity is real action.
+[SPEAKER_00]: I'd like to say a quick hi to Ram Nimbalkar, who has joined in.
+[SPEAKER_00]: Thank you for joining in, Ram.
+[SPEAKER_00]: And please feel free to come on the speaker section to discuss the points if you feel the need to.
+[SPEAKER_00]: But let's move on to the system part of this space now, where the system is basically connecting atomic habits.
+[SPEAKER_00]: and connecting building a second brain to eventual execution, right?
+[SPEAKER_00]: And how do you connect atomic habits?
+[SPEAKER_00]: Let's talk about that first.
+[SPEAKER_00]: People say things like, I'm an aspiring entrepreneur, right?
+[SPEAKER_00]: I, I'm aspiring to be so and so.
+[SPEAKER_00]: And that's, that's the wrong, let's say connection.
+[SPEAKER_00]: People say I'm someone who reads a lot.
+[SPEAKER_00]: I'm someone who's trying to read a lot or I'm someone who's trying to quit smoking.
+[SPEAKER_00]: That's kind of like the wrong phrase to tell yourself.
+[SPEAKER_00]: The phrase to actually tell yourself is I'm someone who doesn't smoke.
+[SPEAKER_00]: I'm a creator who turns knowledge into products.
+[SPEAKER_00]: Something like that, right?
+[SPEAKER_00]: The reason this matters is because identity drives behavior automatically.
+[SPEAKER_00]: Once
+[SPEAKER_00]: I saw myself as a creator and an entrepreneur capturing notes without expressing felt wrong.
+[SPEAKER_00]: Before I used to be capturing notes in my notes app called Cortex.
+[SPEAKER_00]: But before I got the identity of an entrepreneur, but then it led to absolutely nothing.
+[SPEAKER_00]: Right.
+[SPEAKER_00]: Now, once you get that particular identity is when you I started realizing that there's no point of capturing notes without
+[SPEAKER_00]: actually talking about it without actually expressing my notes.
+[SPEAKER_00]: Right.
+[SPEAKER_00]: So once I saw myself as an entrepreneur, capturing notes without expressing felt absolutely wrong.
+[SPEAKER_00]: I want to say a quick hi to Navneet.
+[SPEAKER_00]: I see Navneet in the audience section is joined.
+[SPEAKER_00]: Hello, my friend.
+[SPEAKER_00]: Thanks for joining in.
+[SPEAKER_00]: Feel free to jump to the speaker section if you if you feel like chiming in.
+[SPEAKER_00]: That being said,
+[SPEAKER_00]: I changed my perspective from just someone who captures notes or someone who thinks that this is a cool insight to someone
+[SPEAKER_00]: to thinking, how do I actually use this note?
+[SPEAKER_00]: Right.
+[SPEAKER_00]: And the four laws from atomic habits that I apply to note taking is law number one, it's called make it obvious.
+[SPEAKER_00]: Law number two is called make it attractive.
+[SPEAKER_00]: Law number three is make it easy.
+[SPEAKER_00]: Law number four is make it satisfying.
+[SPEAKER_00]: So how do you make notes attractive?
+[SPEAKER_00]: Right.
+[SPEAKER_00]: How do you make notes obvious?
+[SPEAKER_00]: The first thing is have your Notes app always open on your desktop or on your phone.
+[SPEAKER_00]: Have an implementation intention, right?
+[SPEAKER_00]: For your Notes app, for example, if you're someone who reads books, you should say to yourself that after I read for, let's say, one hour, I write and create for 30 minutes.
+[SPEAKER_00]: Have that implementation intention.
+[SPEAKER_00]: This is taken directly from Atomic Habits.
+[SPEAKER_00]: By the way, guys, the implementation formula is
+[SPEAKER_00]: After I do a certain habit, I do another habit, right?
+[SPEAKER_00]: That's when it becomes a kind of a chain habits.
+[SPEAKER_00]: How do you connect habits?
+[SPEAKER_00]: This is how.
+[SPEAKER_00]: After you do a certain habit, you connect it with another habit.
+[SPEAKER_00]: So for me, it became like after I read for one hour, I write one post and I start engaging on X for about 15 minutes.
+[SPEAKER_00]: That's how I implemented my habits.
+[SPEAKER_00]: and my current project folder front and center.
+[SPEAKER_00]: So I made it obvious.
+[SPEAKER_00]: The current project that I'm working on, it's always in front of me in my laptop on one side of the screen.
+[SPEAKER_00]: In the middle of my screen is my notes app.
+[SPEAKER_00]: On the left side of my screen is my X app.
+[SPEAKER_00]: So three things at once, I'm always looking at makes it easier for me to show up on X, makes it easier for me to jot down notes, makes it easier for me to read books as well.
+[SPEAKER_00]: So make it obvious.
+[SPEAKER_00]: That's the first law of atomic habits.
+[SPEAKER_00]: OK, now the second law from atomic habits is making it attractive.
+[SPEAKER_00]: So.
+[SPEAKER_00]: What do you how do you make things attractive?
+[SPEAKER_00]: You can pair it or do it through temptation bundling from taken directly from atomic habits.
+[SPEAKER_00]: And what it says is, let's say temptation bundling is perhaps you want to
+[SPEAKER_00]: uh read the next chapter right or you want to perhaps eat uh or watch that one netflix episode right you should if you want to watch one netflix episode you should tell yourself okay i will watch that netflix episode but only after i let's say engage on x for 30 minutes or 15 minutes
+[SPEAKER_00]: That's called temptation bundling, right?
+[SPEAKER_00]: Taken directly from atomic habits.
+[SPEAKER_00]: So for me, the temptation bundling was basically I wanted to go through one chapter and then immediately the next chapter and then immediately the third chapter.
+[SPEAKER_00]: But that's not the right way to read books, right?
+[SPEAKER_00]: That's not the right way to retain information.
+[SPEAKER_00]: So I told myself that I can only read the next chapter after I process yesterday's notes.
+[SPEAKER_00]: And the best way for me to process yesterday's notes is to actually write a post on X and also read through my highlights, so on and so forth.
+[SPEAKER_00]: So that's about 10 minutes, which helps me recollect what I read yesterday.
+[SPEAKER_00]: And of course, helps me retain the information longer and longer and actually apply it in my product.
+[SPEAKER_00]: Right.
+[SPEAKER_00]: For the people who are just joining in, by the way, I would recommend you go through the Jumbotron.
+[SPEAKER_00]: The Jumbotron is where I have written down the thread based on what I'm talking about today.
+[SPEAKER_00]: I would recommend you bookmark it for later as well so that you can use it on chat GPT.
+[SPEAKER_00]: And on GPT, you can actually give a command.
+[SPEAKER_00]: You can actually give a command that help me convert this piece of information
+[SPEAKER_00]: to apply it on my current project or a product that you are working on or anything that you are working on.
+[SPEAKER_00]: You can also tell it use this framework to help me organize my notes and it'll give you a good kind of result that probably you're not using right now.
+[SPEAKER_00]: So yes, so make it attractive.
+[SPEAKER_00]: I made it attractive that OK, I will go through the next chapter only by if I after I finish yesterday's notes and let's say 10 minutes of engagement, something like that.
+[SPEAKER_00]: and make it easy that's the third law from atomic habits is make it easy and the simplest way to make it easy is applying the two minute rule what's the two minute rule is whenever you want to adopt a new habit let's say you want to adopt a habit of reading right you don't tell yourself that i'm going to read one full chapter today or i'm going to read let's say 10 chapters today or 10 pages today you tell yourself
+[SPEAKER_00]: If you're if you're absolutely new at reading, you tell yourself that, OK, let me start by reading maybe one page, even smaller.
+[SPEAKER_00]: OK, let me start by reading two paragraphs.
+[SPEAKER_00]: OK, so once you that's a two minute rule where you read for two minutes and then the momentum will carry you forward for the next 10, 15, 20 minutes.
+[SPEAKER_00]: Right.
+[SPEAKER_00]: So that is how you make it easy by applying the two minute rule.
+[SPEAKER_00]: So for you to apply the two minute rule, let's say for if you want to show up on X or write content on X, you don't tell yourself that, OK, I'm going to write an entire thread today.
+[SPEAKER_00]: You can tell yourself that.
+[SPEAKER_00]: Let me write one line of a post based on what I read yesterday.
+[SPEAKER_00]: Just one line.
+[SPEAKER_00]: That one line becomes two lines.
+[SPEAKER_00]: And if you're someone who's building a product like me, the two minute rule can apply in this format that maybe I'll just write one module outline.
+[SPEAKER_00]: I'm not going to tell myself that I'm going to write the entire product right now.
+[SPEAKER_00]: That's going to be kind of difficult and absolutely overwhelming for me.
+[SPEAKER_00]: So what I would do is I will tell that, okay, today let me start off the product, actually product creation by writing one module inside the product's outline.
+[SPEAKER_00]: That's pretty much it.
+[SPEAKER_00]: You make it easy by also reducing friction to doing that habit.
+[SPEAKER_00]: For example, if you're someone who wants to do the habit of writing every day, like we discussed earlier, you keep your notebook open on your desk so that as soon as you wake up, you see that notebook and a pen also open, so you're ready to write immediately.
+[SPEAKER_00]: If you're someone who wants to go to the gym, create a habit of going to the gym or go for a run,
+[SPEAKER_00]: You keep your shoes ready.
+[SPEAKER_00]: I think Navneet will relate to this.
+[SPEAKER_00]: You keep your shoes ready so that you can immediately tie up your shoes and just go for that run.
+[SPEAKER_00]: Right?
+[SPEAKER_00]: You reduce your friction.
+[SPEAKER_00]: and of course to make things easy you make sure that you are in the right environment right if you are in an environment of somebody who is or people in the environment are bodybuilders right if you join that if you're in an environment of bodybuilders then
+[SPEAKER_00]: It's going to be easy for you to go to the gym.
+[SPEAKER_00]: It's going to be easy for you to eat the right diet.
+[SPEAKER_00]: It's going to be easy for you to hydrate yourself.
+[SPEAKER_00]: Right.
+[SPEAKER_00]: So make sure that the environment that you are in is also filtered.
+[SPEAKER_00]: For example, X has many kinds of environment.
+[SPEAKER_00]: There's environments for politics, environments for
+[SPEAKER_00]: football, other kind of sports, there's environments for bitcoins, web3s, environments for builders, environments for crypto, everything as such, right?
+[SPEAKER_00]: Choose the right kind of environment and show up in that kind of environment, which makes it easy for you to achieve your goals.
+[SPEAKER_00]: For example, my goal is to build a business online, so I am making it a point
+[SPEAKER_00]: to host spaces regarding this, to join spaces regarding this, to follow people who talk about this, right?
+[SPEAKER_00]: I'm not going to engage, I'm not going to fill my head with other kind of noise because noise is everywhere, right?
+[SPEAKER_00]: I'm sure people can relate to this.
+[SPEAKER_00]: So, that is the third law from the atomic habits.
+[SPEAKER_00]: The fourth law is make it satisfying.
+[SPEAKER_00]: OK, how do you make things satisfying?
+[SPEAKER_00]: For example, you have a difficult habit that you want to do.
+[SPEAKER_00]: Right.
+[SPEAKER_00]: Let's say you finished reading one chapter.
+[SPEAKER_00]: Now, after you finish reading one chapter, you have to make it satisfying for yourself because once you make it satisfying, it's easier for you to go back to that habit.
+[SPEAKER_00]: So let's say you read one chapter in a book.
+[SPEAKER_00]: Right now, you mark it down on a tracker that you have probably created for yourself.
+[SPEAKER_00]: And then 10 days of reading that book, you've marked it down for 10 days.
+[SPEAKER_00]: Now the 11th day, you do not want to break that streak.
+[SPEAKER_00]: So it becomes easier for you to go ahead with that reading habit because now you just don't want to break that streak and it's become a part of you as well after 10 days.
+[SPEAKER_00]: create a habit tracker if you guys haven't there are multiple habit tracker apps on your phone other ways to kind of make it satisfying is let's say you have this you want to watch this netflix episode right but you of course have to tell it to yourself that i'll watch this netflix episode probably after 30 minutes of writing right after 30 minutes of writing i will treat myself to a 15-20 minutes of watching netflix
+[SPEAKER_00]: That's how you kind of.

@@ -1,0 +1,737 @@
+[SPEAKER_02]: All right, good afternoon.
+[SPEAKER_02]: It is Tuesday, November 4th.
+[SPEAKER_02]: It's election day.
+[SPEAKER_02]: One of those election days, the first Tuesday in November in the United States.
+[SPEAKER_02]: And we're gonna talk about lots of interesting things today.
+[SPEAKER_02]: Today we're gonna talk about your voice print.
+[SPEAKER_02]: So as part of the brand blueprint, what I call the brand blueprint, each one of us has to create our own individual voice.
+[SPEAKER_02]: And that voice can be used for lots of different purposes.
+[SPEAKER_02]: But the primary purpose we're going to use it for is to talk about how to create a personal brand.
+[SPEAKER_02]: And the three steps of your personal brand are your voice, targeted towards your audience, and talking about the things that you do super well.
+[SPEAKER_02]: And today we're going to talk about voice.
+[SPEAKER_02]: How do you figure out what your voice is?
+[SPEAKER_02]: You can always just record yourself,
+[SPEAKER_02]: and talk about it and then copy the voice or the transcript put it into your LLM and say give me a voice and that's true and that works but there are a few things we can do that make things even better and so let's let's go ahead and get started talking about that while we get some other people to join the call today so the
+[SPEAKER_02]: The most critical part of your voice is to be authentic.
+[SPEAKER_02]: And that's really difficult.
+[SPEAKER_02]: It is very difficult to be authentic.
+[SPEAKER_02]: And the reason is because when I ask you to be authentic, you instantly change the way you say things.
+[SPEAKER_02]: If you ask somebody, hey, tell me something that you would never tell anybody else, they're instantly going to filter and change the way they actually speak.
+[SPEAKER_02]: Why do they actually speak?
+[SPEAKER_02]: Because humans, we all have this amazing ability to talk to different groups of people in different types of voices.
+[SPEAKER_02]: And here's what I mean.
+[SPEAKER_02]: When you are talking to your boys, right, and you're talking about the game, you have a certain set of vocabulary and a certain way of speaking.
+[SPEAKER_02]: When you turn and speak to your parents, you have a different way of speaking.
+[SPEAKER_02]: If you speak to your boss, or if you're a boss and you speak to your employees, or if you are a leader and you speak to the people you're leading, it comes across a certain way.
+[SPEAKER_02]: And we all learn how those things work.
+[SPEAKER_02]: Either we learn them because somebody told us, or we learn them because we screwed up enough to figure out what actually works and what doesn't work.
+[SPEAKER_02]: So when I ask you to create, what is your authentic voice?
+[SPEAKER_02]: It's difficult.
+[SPEAKER_02]: It is extremely difficult, which is why personal branding is so challenging.
+[SPEAKER_02]: It's challenging because we don't know.
+[SPEAKER_02]: how to express ourselves.
+[SPEAKER_02]: We don't know which one of the voices we have is the one that we need to use for our digital presence.
+[SPEAKER_02]: Because your personal brand is really your digital presence.
+[SPEAKER_02]: So what we need to figure out is which one of those voices, which tonality, which vocabulary, right?
+[SPEAKER_02]: I was told a long time ago
+[SPEAKER_02]: When you're speaking to accountants, you have to use the vocabulary of accountants.
+[SPEAKER_02]: When you speak to attorneys, you have to use the language and vocabulary of attorneys.
+[SPEAKER_02]: They're different.
+[SPEAKER_02]: When you're speaking to construction guys, you have to use the language and vocabulary of the construction guys.
+[SPEAKER_02]: That one truth, which everyone who's listening is nodding their head going, yeah, of course it makes sense.
+[SPEAKER_02]: That's the reason why you must choose a very narrow audience.
+[SPEAKER_02]: You must choose a very small group of people so that you can establish your language specifically for and targeted to that audience.
+[SPEAKER_02]: So if you are trying to sell
+[SPEAKER_02]: I don't know.
+[SPEAKER_02]: Let's say you want to sell hammers Well, even better you want to I've used this before you want to sell swimming pools to people who live in apartments And nobody's gonna buy because first of all, they don't have a property secondly They live in an apartment Either the apartment has a swimming pool or not.
+[SPEAKER_02]: They don't have any land.
+[SPEAKER_02]: There's nowhere to put it even if they bought it There's nowhere for it to go.
+[SPEAKER_02]: So
+[SPEAKER_02]: you have to pick the right audience to make the right offer.
+[SPEAKER_02]: But if you do that, if you pick the right audience and you provide the right kind of offer to them, ooh, there is, there is a, it increases your capability and your, the likelihood of success massively.
+[SPEAKER_02]: So,
+[SPEAKER_02]: I see we've got Mullet and Antonio, Elisha, and a bunch of other folks here.
+[SPEAKER_02]: Hello, Heather just joined us.
+[SPEAKER_02]: Thank you for joining.
+[SPEAKER_02]: Go ahead.
+[SPEAKER_02]: If you are interested in being a co-host, give me a wave and I'll make you a co-host for today.
+[SPEAKER_02]: You don't have to do anything.
+[SPEAKER_02]: You can just be a co-host and just sit there.
+[SPEAKER_02]: and uh... listen and that works and then if you want to speak go ahead and just uh... you know raise your hand or click the little button down that says i want to speak and then you can do that cool thing come up ask some questions get some information by the way there is no dumb question there's no dumb question you can ask whatever you want i try to target these talks each day
+[SPEAKER_02]: to go from level zero to level one.
+[SPEAKER_02]: If you know nothing, and you show up today, the first few minutes is going to give you a base understanding of what we're talking about.
+[SPEAKER_02]: And today we're talking about your voice.
+[SPEAKER_02]: When you create a personal brand, what is the voice you use?
+[SPEAKER_02]: And, and that is, that is a very challenging thing.
+[SPEAKER_02]: Anyway, thanks Mullet for being a co host.
+[SPEAKER_02]: I really appreciate that.
+[SPEAKER_02]: How are you today?
+[SPEAKER_00]: Hey, yeah, thanks for letting me join you.
+[SPEAKER_00]: I'm doing pretty well.
+[SPEAKER_00]: Thanks.
+[SPEAKER_00]: I'm just at work.
+[SPEAKER_00]: I saw your space popped up and figured I'd jump in here.
+[SPEAKER_00]: I love what you're talking about.
+[SPEAKER_00]: It's interesting.
+[SPEAKER_00]: I did door-to-door sales for a long time, and I always caught myself, like, sometimes talking in a different way, like what you were just saying, and I couldn't figure out why I did that sometimes, but I thought that was interesting that you brought that up.
+[SPEAKER_02]: Well, it's not talking in a different way.
+[SPEAKER_02]: It's using the language of the audience, and language meaning
+[SPEAKER_02]: what they are most receptive to, right?
+[SPEAKER_02]: I don't really speak any other languages, but I can definitely speak to attorneys and business leaders and bankers and accountants and sales people and solo entrepreneurs and IT people and technology because that's what my primary job has been for the last 30 years as a consultant.
+[SPEAKER_02]: And my primary job as a consultant and a project manager or program manager, scrum master, you know, that whole executive coach kind of guy.
+[SPEAKER_02]: My entire job has been making sure everybody understands the same thing.
+[SPEAKER_02]: And it's, it's really interesting.
+[SPEAKER_02]: So what, what, tell us about your, tell us about your sales that you did.
+[SPEAKER_02]: door-to-door.
+[SPEAKER_02]: What were you selling and what kind of area?
+[SPEAKER_00]: Yeah, I did door-to-door for DirecTV for about four to five years.
+[SPEAKER_00]: I've covered a lot of states from Minnesota down to Mississippi over to California and up to Washington.
+[SPEAKER_00]: It was a good experience for sure.
+[SPEAKER_00]: I love the traveling.
+[SPEAKER_00]: I got to meet a lot of cool people and then I worked at a lot of state fairs in between there as well.
+[SPEAKER_02]: Did you target
+[SPEAKER_02]: Let's talk about areas of town by income.
+[SPEAKER_02]: Did you target low-income areas, medium-income areas, or high-income areas, or all of the above?
+[SPEAKER_00]: Yeah, that's a great question.
+[SPEAKER_00]: I know a lot of door-to-door sales guys like different areas.
+[SPEAKER_00]: Some people find the lower-income areas better for them.
+[SPEAKER_00]: I like mid-to-upper, personally, myself, because those people are more likely to qualify than some of the other people.
+[SPEAKER_00]: But yeah, yeah, I mean, yeah, but yeah, no, it was it was really cool.
+[SPEAKER_00]: I learned a lot of cool things from doing it and I had a fun time doing it.
+[SPEAKER_00]: I don't know.
+[SPEAKER_00]: It's kind of funny because I still talk to some of my friends I did it with and I'm like, I don't know if I'd do that again knowing now what I like went through doing it.
+[SPEAKER_00]: But the fact that we like made it through and did a lot of it together was a lot of fun.
+[SPEAKER_02]: Well, sure, of course.
+[SPEAKER_02]: It's, it's always an interesting thing to knock on somebody a stranger's door and say, Hi, I'm selling this thing.
+[SPEAKER_02]: Do you need it?
+[SPEAKER_02]: Essentially, right.
+[SPEAKER_02]: And
+[SPEAKER_02]: They don't know when you knock on the door if you're selling solar or you're one of the people knocking on it from a religious perspective, or if you're a neighbor needing help, or if you're just somebody bringing cookies.
+[SPEAKER_02]: You just never know.
+[SPEAKER_02]: And I always found that to be really kind of one of the more fascinating things that, because I did door-to-door sales.
+[SPEAKER_02]: I sold all kinds of stuff.
+[SPEAKER_02]: I did door-to-door sales where I knocked on people's doors.
+[SPEAKER_02]: I did appointment-only sales where I would drive to their location and then meet with them in their house, at their kitchen table, and go through the sales process with them.
+[SPEAKER_02]: I've done business to business sales where I would go I did a lot of car sales in the past But I didn't really work on a lot.
+[SPEAKER_02]: I worked in car sales.
+[SPEAKER_02]: I worked in the financing department Where we did all the loans and then I worked in the fleet department where we would sell you know four or five trucks at a time or whatever and
+[SPEAKER_02]: And then I also worked in some of the ancillary things.
+[SPEAKER_02]: At one point, I sold hubcaps, okay?
+[SPEAKER_02]: So in the past, if you had hubcaps on your car, when most of the cars had steel wheels, this was a long time ago, when they had steel wheels, if you had just the steel plate hubcap, it was worth whatever, $100.
+[SPEAKER_02]: If you upgraded to the wire-rimmed hubcaps,
+[SPEAKER_02]: then the whole overall value of the car would go up by you know let's say 10-15% so it'd go up by so let's say a $4,000 car you put hubcaps on it's now $4,800 because the
+[SPEAKER_02]: The blue book value goes up by $800.
+[SPEAKER_02]: And so you sell the hubcaps for $400.
+[SPEAKER_02]: They buy the $400.
+[SPEAKER_02]: They put them on the car.
+[SPEAKER_02]: Now the car's worth $4,800.
+[SPEAKER_02]: So they make an extra $400 by spending $400.
+[SPEAKER_02]: So I did a lot of that.
+[SPEAKER_02]: I did that for a while.
+[SPEAKER_02]: I sold dating services.
+[SPEAKER_02]: At the same time, I was working in restaurants as a waiter.
+[SPEAKER_02]: And then I moved into the
+[SPEAKER_02]: banquet divisions this is a long time ago and then I sold banquets so every time your company has a big party I managed all of that for a restaurant and then a couple of them and then I delivered everything and by myself with two or three people we could handle about a hundred and fifty people it was pretty good pretty good gig and um... and instead of a salary I got paid
+[SPEAKER_02]: by a percentage of what I brought in.
+[SPEAKER_02]: So I actually canvassed businesses and had them send me stuff.
+[SPEAKER_02]: I would have repeat customers.
+[SPEAKER_02]: I would schedule everything.
+[SPEAKER_02]: So for a couple months, I worked essentially all on commission and tips.
+[SPEAKER_02]: And I made the restaurant a lot of money.
+[SPEAKER_02]: But I also made more money than all the other waiters combined.
+[SPEAKER_02]: So I mean, I made a lot.
+[SPEAKER_02]: And that was a lot of fun.
+[SPEAKER_02]: Anyway.
+[SPEAKER_02]: Interesting.
+[SPEAKER_02]: Hello Patricia and other folks.
+[SPEAKER_02]: Cherilyn, thanks for joining.
+[SPEAKER_02]: We're talking about your voice print.
+[SPEAKER_02]: So when you want to create a personal brand, the first most important thing you have to have is what is your voice?
+[SPEAKER_02]: It's very difficult to figure it out and what I had mentioned earlier before you guys all joined was
+[SPEAKER_02]: When you're talking to lawyers, you've got to talk in the lawyer language with lawyer vocabulary.
+[SPEAKER_02]: But then you go next door and you talk to the guy that runs the restaurant.
+[SPEAKER_02]: you have to talk about things in a restaurant business entrepreneurial kind of language with those kind of words to that person and so naturally as a human we all do this when you're in math class you talk about things in math and then you leave and go to a different class and you talk about that and in the hallway when you talk to your friends you use a different type of language a different type of vocabulary and structure
+[SPEAKER_02]: And that is a human condition.
+[SPEAKER_02]: We all do that.
+[SPEAKER_02]: We do it naturally.
+[SPEAKER_02]: Nobody teaches us.
+[SPEAKER_02]: We just naturally, it's a capability of humans.
+[SPEAKER_02]: When I say you need to create your voice for your personal brand, it becomes very confusing because my clients and people, they don't know.
+[SPEAKER_02]: They don't know what their voice is.
+[SPEAKER_02]: And so I typically go the opposite.
+[SPEAKER_02]: So the brand blueprint is three steps.
+[SPEAKER_02]: And this is what I do.
+[SPEAKER_02]: Other people can have their own opinion.
+[SPEAKER_02]: But when you create your voice and you choose your audience and you talk about your superpowers, most people can figure out what their superpower is.
+[SPEAKER_02]: Most people can choose their audience because they have an idea of what they want to provide services for.
+[SPEAKER_02]: And then we back into them talking about it
+[SPEAKER_02]: gives me an indication of what their voice actually is.
+[SPEAKER_02]: Hi, Patricia.
+[SPEAKER_02]: How are you this beautiful and wonderful 4th of November?
+[SPEAKER_02]: 4th of November.
+[SPEAKER_05]: I am good.
+[SPEAKER_05]: I was going to give you a little grief about that, but you beat me to it.
+[SPEAKER_05]: I'm doing good, especially now that I know I'm not 24 hours behind where I thought I was.
+[SPEAKER_02]: Well, sorry about that.
+[SPEAKER_02]: Earlier, I had said that it's the 5th of November, which is an interesting day anyway.
+[SPEAKER_02]: So what else is going on?
+[SPEAKER_02]: What now?
+[SPEAKER_02]: I've seen a lot of really interesting things happening in the royal world.
+[SPEAKER_02]: I've caught some of your posts, but seems like there's a bit of a shakeup going on.
+[SPEAKER_02]: Are you there?
+[SPEAKER_02]: Oh, I can't hear you.
+[SPEAKER_02]: Can anybody else hear Patricia?
+[SPEAKER_02]: Give me a thumbs up if you can hear.
+[SPEAKER_02]: No, okay, no.
+[SPEAKER_02]: We can't hear you, Patricia.
+[SPEAKER_02]: But anyway, I love Patricia's voice.
+[SPEAKER_02]: And I mean, not just her speaking voice, that's wonderful, but I love the way that she looks at things and the way she describes things.
+[SPEAKER_02]: It's really fascinating to me how she does that.
+[SPEAKER_02]: Oh, hopefully we'll get her back.
+[SPEAKER_02]: But you should follow her
+[SPEAKER_02]: her posts and all the things she talks about.
+[SPEAKER_02]: Very interesting.
+[SPEAKER_02]: When you decide, by the way, when you decide to create a personal brand, it is a journey of self-discovery.
+[SPEAKER_02]: You will have to figure out who you are, who you want to talk to, what you want to be known for, and what you want to sell or serve to other people.
+[SPEAKER_02]: It's a lovely thing, but it is a bit challenging for most people.
+[SPEAKER_02]: Anyway, yes, you know, Sherilyn, you should grab a mic and come up here and have a discussion, bring some of that wisdom.
+[SPEAKER_02]: Because see, I don't know if you guys know this, but Sherilyn actually wrote a book about personal branding.
+[SPEAKER_02]: And you can go get it, look her up.
+[SPEAKER_02]: And you can find her book, although right off the top of my head, I don't remember the actual title.
+[SPEAKER_02]: So you're going to have to ping me and tell me or put it in the purple pill so we can figure out what it is and we can go get your book.
+[SPEAKER_03]: Right.
+[SPEAKER_03]: This is a big topic.
+[SPEAKER_03]: I just jumped up here, but it's a big deal.
+[SPEAKER_03]: Your voice is a big deal.
+[SPEAKER_03]: It is your brand to a large degree.
+[SPEAKER_03]: So yeah, I have lots of thoughts on this from old school branding to what I call story clouds to what I'm playing with right now.
+[SPEAKER_03]: Right.
+[SPEAKER_03]: So yeah.
+[SPEAKER_03]: Yeah, where do you want to talk with your voice print?
+[SPEAKER_03]: Because you have your map.
+[SPEAKER_03]: How do you map it on your map, the voice print, or does it currently belong there?
+[SPEAKER_02]: You know, I just, I usually describe it as your, okay, so your voice, plus your audience, plus your superpower is the definition of you and your personal brand.
+[SPEAKER_02]: The funny thing is, as I'm working with more and more clients, they typically know who they wanna talk to, but they think it's too big, and then we help them narrow that down to a smaller number, which is good.
+[SPEAKER_02]: But then we ask about, what's your superpower?
+[SPEAKER_02]: And they usually think it's the thing they're selling.
+[SPEAKER_02]: And I go, yeah, maybe, maybe not.
+[SPEAKER_02]: And let's talk about what you actually do, right?
+[SPEAKER_02]: If you're selling, like my company provides
+[SPEAKER_02]: consulting and management services to big companies to put software into place.
+[SPEAKER_02]: That's what my company does.
+[SPEAKER_02]: And in order to do that, it requires a list of things.
+[SPEAKER_02]: You have to be able to communicate, understand technology, understand human behavior, understand the organization to the point where you can create a plan on how long it's going to take, decide who the right stakeholders are so that they can start championing the idea so that when you actually do the cutover that the organization accepts the
+[SPEAKER_02]: the new thing.
+[SPEAKER_02]: It's kind of like surgery.
+[SPEAKER_02]: You're cutting this thing out, you're putting this new thing in, and then the organization has to accept it.
+[SPEAKER_02]: If it doesn't accept it, then it's a waste of time, everything you're doing.
+[SPEAKER_02]: So a lot of effort is spent on that type of thinking and structure.
+[SPEAKER_02]: As you apply that to personal branding, it's easy to say, this is what I do, so this is my audience.
+[SPEAKER_02]: But what is my superpower?
+[SPEAKER_02]: I don't know.
+[SPEAKER_02]: For me, one of the things in my superpower is the ability to get large amounts of information, condense it down into what's the most important thing, and then create a step-by-step process to go, in order to get to this result we're choosing, whatever we choose, here's at least the big rock steps to get there.
+[SPEAKER_02]: We'll get details later, but at least we have to do these kind of things.
+[SPEAKER_02]: Maybe you've got to switch them around a little bit, but these are the big milestones we have to hit.
+[SPEAKER_02]: And if you can, that's what I've been able to do.
+[SPEAKER_02]: And then helping people understand things, being able to translate technology to non-technical people and non-technical desires to technical requirements.
+[SPEAKER_02]: I've had to learn that over the years as something that we can do, but those are some of my superpowers, but
+[SPEAKER_02]: The biggest superpower that I have is, and this is through my own self-discovery process, is the ability to communicate an idea out of my head into yours.
+[SPEAKER_02]: I know that sounds like it's simple.
+[SPEAKER_03]: No, that's a superpower actually.
+[SPEAKER_02]: I have spent my entire life refining my ability to say, I have this thought.
+[SPEAKER_02]: I want you to be able to understand the thought that I have.
+[SPEAKER_02]: That's it.
+[SPEAKER_02]: And again, one of the most amazing things in the whole wide world is the fact that I can take air from my lungs, press it through my mouth, wiggle my mouth and tongue around to the point where it makes sounds and you understand those sounds and the idea that I'm trying to express through those sounds, you get.
+[SPEAKER_02]: It, you know, when you go to another country and they speak a different language, they're using the same equipment you have.
+[SPEAKER_02]: Lungs, muscles, voice, tongue, mouth, lips to produce sounds.
+[SPEAKER_02]: But when you hear the sounds, they don't make the same connection in your brain.
+[SPEAKER_02]: And that, to me, is a fascinating thing.
+[SPEAKER_02]: So I love the idea that
+[SPEAKER_02]: In the simplest form, I can just make sound.
+[SPEAKER_02]: Take an idea, make sound with my mouth, and you understand that sound as an idea.
+[SPEAKER_02]: That is cool and unbelievably awesome to me.
+[SPEAKER_02]: But that's the voice.
+[SPEAKER_02]: How do we say it?
+[SPEAKER_02]: How do we say it in a way that makes sure that
+[SPEAKER_02]: Sherilyn understands what I'm talking about, not just I. I can understand what I'm talking about.
+[SPEAKER_02]: I can talk to myself all day long.
+[SPEAKER_02]: I can turn on a little recorder and do my thing, fine.
+[SPEAKER_02]: But if you listen to it and it doesn't make sense to you, it's a waste of my time.
+[SPEAKER_02]: So I focused on how to make sure that you're understanding what I'm saying and not just me talking because I like hearing myself talk.
+[SPEAKER_03]: Yeah, and I see we have Patricia back up on the stage now so we can jump over to her.
+[SPEAKER_03]: But yeah, as far as brand voice, kind of the old school, which still is relevant, you know, and this is something you would see and if you got the build your brand book, right, is you want to voice the discipline of voice often comes down to
+[SPEAKER_03]: being able to communicate consistently under the umbrella of three adjectives.
+[SPEAKER_03]: Like, who are you?
+[SPEAKER_03]: Because when you're branding yourself, a personal brand isn't just you raw dogging it out on the world stage, right?
+[SPEAKER_03]: And kind of winging it left, right, and center.
+[SPEAKER_03]: A personal brand has to do what a regular brand does, and it has to find what the world
+[SPEAKER_03]: wants to interact with you about, and it needs to put it into a structure that becomes predictable.
+[SPEAKER_03]: that people know where to look for your voice, right?
+[SPEAKER_03]: What topic are you talking about?
+[SPEAKER_03]: Why, what perspective do you have?
+[SPEAKER_03]: Why is important?
+[SPEAKER_03]: What insight or what benefit can you give people who listen to you, whether they agree with you or not, right?
+[SPEAKER_03]: And so within that, you want three adjectives that you put all of your messaging through.
+[SPEAKER_03]: You know, if you're a funny person, like the first person might be, is it funny?
+[SPEAKER_03]: Is it true?
+[SPEAKER_03]: Is it, you know, a little on the edge?
+[SPEAKER_03]: Right.
+[SPEAKER_03]: Whereas if you're, you know, a more corporate person, you might be like, is it compliant?
+[SPEAKER_03]: Is it accurate?
+[SPEAKER_03]: Is it easy to understand?
+[SPEAKER_03]: Right.
+[SPEAKER_03]: You would take three descriptors and you would say you pass all of your language through those things.
+[SPEAKER_03]: And if it doesn't pass through the filter, you cut it, right?
+[SPEAKER_03]: That's a kill your darlings moment where you just say, okay, it doesn't pass.
+[SPEAKER_03]: It doesn't pass.
+[SPEAKER_03]: And then you find the messaging that passes through and you make it consistent.
+[SPEAKER_03]: And then you speak within that voice whenever you're interacting with people who are, you know, customers or clients or people that are hiring you in any way.
+[SPEAKER_03]: And, and that way you can be authentic without being random.
+[SPEAKER_03]: If that makes sense.
+[SPEAKER_02]: Yes, I like that.
+[SPEAKER_02]: It's, um, uh, Dunning, Dunning-Kruger effect.
+[SPEAKER_02]: It's like the Dunning-Kruger effect.
+[SPEAKER_02]: It's worked for such a long time that it becomes kind of the standard.
+[SPEAKER_02]: And no matter what we do, we can rely upon the fact that that's what's worked for a long time.
+[SPEAKER_02]: Therefore, we won't be incompetent if we use that thing.
+[SPEAKER_02]: Yeah.
+[SPEAKER_02]: Same thing with your voice.
+[SPEAKER_02]: Yeah, cool.
+[SPEAKER_02]: Hey, Patricia, how are you this beautiful 4th of November?
+[SPEAKER_05]: Wait, I'm doing okay.
+[SPEAKER_05]: Can you hear me now?
+[SPEAKER_02]: Yes, we can.
+[SPEAKER_02]: I'm so glad.
+[SPEAKER_05]: All right.
+[SPEAKER_05]: I don't know what happened.
+[SPEAKER_05]: Somehow my phone's speaker is now, determines whether or not I can talk.
+[SPEAKER_05]: I have no idea.
+[SPEAKER_05]: Anyway, I think, and I don't, I caught some of what you were saying about my brain voice and what I do, but
+[SPEAKER_05]: I think what my voice is, especially when I'm in my royal element, and yes, I said the problem child was being put in a dungeon, but I think what I do is I come at it in a very clear-cut, easy-to-understand manner that is respectful but not reverent, right?
+[SPEAKER_05]: Like, I can be respectful of the king.
+[SPEAKER_05]: I can tell you when he's screwed up.
+[SPEAKER_02]: Yes.
+[SPEAKER_02]: Speaking of being respectful.
+[SPEAKER_02]: I mean is there is Prince Andrew still a prince, or is he just He's not Prince Andrew.
+[SPEAKER_02]: No he is now Andrew whatever the rest of his middle names are Mountbatten Windsor period done end up Crazy The only reason I know that is because I was actually named after him that's why I'm my first name is Andy because my mom was a
+[SPEAKER_02]: infatuated with the with Andrew being a prince and so when I being the first child in my family got the princely name and my middle name is a family name but I'm actually named after Prince Andrew which is not a prince anymore.
+[SPEAKER_05]: But I can tell you that your mother was not the only one who was infatuated with him and all of that so yeah.
+[SPEAKER_05]: He was the royal pinup for the longest time.
+[SPEAKER_05]: He really was.
+[SPEAKER_05]: He was the Navy, you know, pilot who fought in a war and, you know, looked great in uniform and all of that, but he grew up, he got some habits and did some things that we don't really want to talk about, but yeah.
+[SPEAKER_02]: Nobody well first of all okay.
+[SPEAKER_02]: Let's just be clear nobody is Innocent we're all stupid.
+[SPEAKER_02]: We all do dumb things.
+[SPEAKER_05]: We just don't do them in the public eye being you know royalty
+[SPEAKER_05]: I mean, I think that's my brand voice, especially in my world segment.
+[SPEAKER_05]: What do you think Andy?
+[SPEAKER_02]: Well what I was saying when you fortunately your mic dropped or whatever it was was that I love the way that you describe things Like you just did right the way you just took that idea you then expressed it in a way that was both real and direct but also
+[SPEAKER_02]: gracious and respectful, that is your voice.
+[SPEAKER_02]: That is you.
+[SPEAKER_02]: And being able to capture that nuance, capture that ability to both say something that is true and possibly a bit challenging, but say it in a respectful and direct way is what you've always been able to do.
+[SPEAKER_02]: And I really appreciate that.
+[SPEAKER_02]: But here's the hard part, being able to do it.
+[SPEAKER_02]: Being able to describe it, so that you can then reproduce it, a little more challenging.
+[SPEAKER_05]: Yeah.
+[SPEAKER_02]: Right?
+[SPEAKER_05]: This is why I come to you, so I can learn how to describe it.
+[SPEAKER_02]: Well, my mom was a vocabulary teacher.
+[SPEAKER_02]: My mom was an English teacher.
+[SPEAKER_02]: I grew up in an educational household, academic household.
+[SPEAKER_02]: Academics were always important.
+[SPEAKER_02]: And the ability to describe things, is what I said, is like my
+[SPEAKER_02]: My, one of my, my lifelong passions turns into, you know, it's kind of a superpower that I can take a brain idea and then through just, you know, making noise, you guys get that idea too.
+[SPEAKER_02]: You have to be able to look at things objectively and describe them.
+[SPEAKER_02]: Let me use an analogy that might make sense.
+[SPEAKER_02]: I don't know if it's true or not.
+[SPEAKER_02]: You guys tell me if I totally blew all this, then fine.
+[SPEAKER_02]: But an artist takes a flat piece of paper, and let's say a pen, and draws a three-dimensional view of the thing they see on the paper.
+[SPEAKER_02]: And I have a good friend who's an artist, and I asked, how do you do that?
+[SPEAKER_02]: And they said, because I thought, okay, how do you know that the angles do this so that it looks like it's a building and it's in the background, not in the foreground?
+[SPEAKER_02]: How do you build all that, right?
+[SPEAKER_02]: And he said, he goes, oh, no, no, no.
+[SPEAKER_02]: I go, what do you mean?
+[SPEAKER_02]: He goes, oh, no, no.
+[SPEAKER_02]: He says, I just draw exactly the way I see it.
+[SPEAKER_02]: I went, what?
+[SPEAKER_02]: And he goes, I don't think about any of that.
+[SPEAKER_02]: If the line comes down like this, I just draw the line down like this.
+[SPEAKER_02]: If the line goes this way, I just draw the line like that and I put them all together and then it looks like I see it as if it's flat.
+[SPEAKER_02]: I draw it as if it's flat.
+[SPEAKER_02]: You are the one that interprets that things are forward or backward or whatever.
+[SPEAKER_02]: I just draw the flat view of what I see.
+[SPEAKER_02]: And see, the fascinating thing to me is I've never looked at anything and thought,
+[SPEAKER_02]: That's just, if I draw the flat version of that, the picture will come out exactly the way it looks.
+[SPEAKER_02]: Because in my mind, I've never ever seen things as being just, if you take a picture and you print it out, you get the flat version of it.
+[SPEAKER_02]: But that's the way he looks at everything.
+[SPEAKER_05]: Yeah, artists' brains are amazing like that.
+[SPEAKER_05]: I'm choosing a positive adjective on that one.
+[SPEAKER_02]: Well, it's either it well, it's different than the way I look at things I look at things and think I know exactly what's behind that thing in the way There's a clock and behind the clock is a bunch of wires But I I can close my eyes and see what the wires look like I can imagine how you know Maybe that's the weird part that they go.
+[SPEAKER_02]: What are you talking about?
+[SPEAKER_02]: I can't see that I just see exactly what this wire comes over here and that clocks there and I You know, it's just different.
+[SPEAKER_02]: That's why I
+[SPEAKER_02]: Your brand, your voice print.
+[SPEAKER_02]: is so important to your brand.
+[SPEAKER_02]: And the reason it's important is because it's you.
+[SPEAKER_02]: It's the personalization, right?
+[SPEAKER_02]: Well, I always talk about personalized in your voice means we have to define what your voice is.
+[SPEAKER_02]: We have to describe it in a way that sounds like you.
+[SPEAKER_02]: Customized to your audience, we have to choose an audience that resonates with the things you say.
+[SPEAKER_02]: And you have to use the right language to talk about it.
+[SPEAKER_02]: You have to use the right
+[SPEAKER_02]: Language and vocabulary, the style, the tone.
+[SPEAKER_02]: You're talking to an accountant, you gotta talk about accounting things.
+[SPEAKER_02]: Talk to an insurance salesman, talk about insurance things.
+[SPEAKER_02]: You gotta use that vocabulary, they're different.
+[SPEAKER_02]: And you have to learn each one.
+[SPEAKER_02]: And we all do it.
+[SPEAKER_02]: We all do it, right?
+[SPEAKER_02]: When we're at home and then we step outside and talk to our friends about the dinner date that we're having later, switch language.
+[SPEAKER_02]: The language and the tone and the everything switches.
+[SPEAKER_02]: And we just switch back and forth from environments, which is why it's so difficult for me to ask someone, tell me about your voice, which has produced bad results.
+[SPEAKER_02]: You know what actually works?
+[SPEAKER_02]: Here's what actually works.
+[SPEAKER_02]: What is the thing you're talking about?
+[SPEAKER_02]: What is the thing you're selling?
+[SPEAKER_02]: Tell me about that.
+[SPEAKER_02]: And when they start to talk to you, that's the true voice.
+[SPEAKER_02]: That's the voice you have to create, the voice print.
+[SPEAKER_02]: You have to imprint that
+[SPEAKER_02]: into the words and the structure and definition of their voice so that their brand can always use that along the way.
+[SPEAKER_02]: By the way, here's a academic tip to everybody, and we'll get to Netta.
+[SPEAKER_02]: If I say something like, if I preface a question and then ask you the question, no matter what, 100% of the time, you're going to filter your answer by what I've asked.
+[SPEAKER_02]: Okay, don't use the word or, and tell me something that is a contrast of two different colors.
+[SPEAKER_02]: You're gonna, your brain is gonna stumble.
+[SPEAKER_02]: But if I said, what's your favorite color?
+[SPEAKER_02]: You would just tell me.
+[SPEAKER_02]: And they go, what color don't you like?
+[SPEAKER_02]: Well, I don't really like this other one.
+[SPEAKER_02]: Why?
+[SPEAKER_02]: Well, this one's better, or that one could be.
+[SPEAKER_02]: You will use all of those contrasting words.
+[SPEAKER_02]: But if I, you know, it's kind of like the idea if I said,
+[SPEAKER_02]: Don't think of the Dumbo scene where the mom is being pulled away from Dumbo.
+[SPEAKER_02]: Don't think of it.
+[SPEAKER_02]: Don't think of the elephant.
+[SPEAKER_02]: Don't think of the little train car.
+[SPEAKER_02]: Right now, if you've ever seen Dumbo, if it made an impact to you like it did to me, I could see exactly that scene in the movie, right?
+[SPEAKER_02]: And if I said, don't talk about it.
+[SPEAKER_02]: Okay, now picture a flying elephant.
+[SPEAKER_02]: Are you gonna picture anything other than Dumbo?
+[SPEAKER_02]: No, because I have
+[SPEAKER_02]: prefaced the communication by giving you a frame and then inserting the idea into the frame.
+[SPEAKER_05]: Well, but also to be fair, Dumbo's the only elephant I ever know of that's capable of flying.
+[SPEAKER_05]: So you say flying elephant, my brain automatically goes Dumbo whether you mention him or not.
+[SPEAKER_02]: Fair.
+[SPEAKER_02]: That's true.
+[SPEAKER_02]: Um, but in the same, in the same vein, I can say picture a pink elephant.
+[SPEAKER_02]: Now picture a pink elephant with purple polka dots.
+[SPEAKER_02]: First of all, before I started talking about elephants, probably nobody was thinking about an elephant.
+[SPEAKER_02]: Now everyone has a picture of one in their mind.
+[SPEAKER_02]: Where did that come from?
+[SPEAKER_02]: It came from your knowledge in your brain, how your brain works.
+[SPEAKER_02]: And then when I said to make it pink, you had to pick of all the colors, pink.
+[SPEAKER_02]: Could have been a bright pink, a light pink, this kind of pink.
+[SPEAKER_02]: And then you put that right on top.
+[SPEAKER_02]: And when I said purple, you had to picture purple and then you had to picture the polka dots and put it on the elephant, which doesn't exist in anywhere.
+[SPEAKER_02]: And I don't know if they were like three big giant polka dots or like a whole bunch of little dots or something in the middle.
+[SPEAKER_02]: You chose because it's your brain, which is why your voice print is so important and so powerful.
+[SPEAKER_02]: Because no matter what we say,
+[SPEAKER_02]: The sounds we make with our mouth impact the way people think.
+[SPEAKER_02]: Anyway, let's go to Netta.
+[SPEAKER_02]: Hello, Netta.
+[SPEAKER_02]: Thank you for being so patient.
+[SPEAKER_02]: How are you this beautiful and fine Tuesday?
+[SPEAKER_04]: Very good, actually.
+[SPEAKER_04]: So I'm going to connect the two dots, especially about the artist part that you were talking about, and Patricia, I believe.
+[SPEAKER_04]: Being an artist is someone something that anyone can do.
+[SPEAKER_04]: No one is born an artist Oh, I just noticed cherylin too and jim.
+[SPEAKER_04]: Hi everyone and edwin.
+[SPEAKER_04]: Sorry for not saying this sooner So anyone can be an artist anyone can learn how to draw And artists are very much in touch with their intuition intuition to me is you having a stronger connection to your subconscious
+[SPEAKER_04]: Very interesting Andy that you brought up elephants.
+[SPEAKER_04]: I was in a live stream earlier and one of the people there He's in He works he raised funds to save elephants So my subconscious is telling me out of all of the things that you could have used to bring up your example was an elephant and I was really interested in what he was doing and
+[SPEAKER_04]: So the universe or our subconscious has different ways of connecting to us.
+[SPEAKER_04]: And it's by opening our eyes and ears and our heart and our other senses to receive those signals.
+[SPEAKER_04]: So I received the signal of an elephant.
+[SPEAKER_04]: Maybe I'm reading too much into it.
+[SPEAKER_04]: I don't know, but it deserves my attention.
+[SPEAKER_04]: So I'll pay attention to that.
+[SPEAKER_04]: Something's up with elephants for me right now.
+[SPEAKER_02]: Thank you.
+[SPEAKER_02]: Well, cool.
+[SPEAKER_02]: I'm using that example because that example was used in a book called Mind Hacking Happiness by Sean Webb.
+[SPEAKER_02]: I think it's a fascinating book.
+[SPEAKER_02]: And he describes it.
+[SPEAKER_02]: He uses that example to say, you have more than one mind going on.
+[SPEAKER_02]: You have more than one train of thought going on at any one time.
+[SPEAKER_02]: And you need to interrupt that train of thought in order to make a difference.
+[SPEAKER_02]: And here's a way to do that.
+[SPEAKER_02]: And then he say, he brings up the, okay, think of an elephant.
+[SPEAKER_02]: Okay, he probably hadn't thought of one.
+[SPEAKER_02]: I don't know.
+[SPEAKER_02]: Is that a real picture?
+[SPEAKER_02]: Is that, is it a cartoon?
+[SPEAKER_02]: Is it whatever?
+[SPEAKER_02]: And then, okay, make it pink.
+[SPEAKER_02]: And so then while you're talking and I'm using language to describe things, in the back of your mind, you're searching for the picture.
+[SPEAKER_02]: Right?
+[SPEAKER_02]: And so I'm just using his example.
+[SPEAKER_02]: That's the only reason I brought it up because it was so powerful.
+[SPEAKER_02]: When I first read that, I thought, Oh yeah, that makes sense.
+[SPEAKER_02]: Here I am trying to consume information from a book and then my mind in the back is trying to organize that information and put it in the places where it thinks it's supposed to go and then restructure them whenever it puts it in the wrong place.
+[SPEAKER_02]: Oh yeah, well that, Oh, let's put that one over there too.
+[SPEAKER_02]: And um,
+[SPEAKER_02]: It's fascinating to me how the mind works, how language works, which is why I love personal branding so much because it's using those things to tell a story of you and promoting you as a product, right?
+[SPEAKER_02]: So personal branding is essentially saying, instead of selling a product, I'm gonna sell me or you.
+[SPEAKER_02]: I'm gonna sell Netta.
+[SPEAKER_02]: Netta, we're gonna do a personal brand for Netta.
+[SPEAKER_02]: Netta is the product and we're gonna now market it.
+[SPEAKER_02]: Here's how we're gonna do that.
+[SPEAKER_02]: We're going to create some organic content.
+[SPEAKER_02]: We're going to write some stuff about it.
+[SPEAKER_02]: We're going to do some things so that all the other things in the world, when they're looking for some combination, which to me is usually your voice and your voice and your audience and your superpower, when you put those three things together, that three trifecta of information creates something that lands on you, only you, nobody but you.
+[SPEAKER_02]: And so you've got to figure out how to capture your voice.
+[SPEAKER_02]: And I'm not sure if voice print is the right way to put it, but it was the idea that if I record it, it's always going to sound the same.
+[SPEAKER_02]: If I can use that as a template, then if I put something else in there, then when I run it through that template, I'm going to get the same kind of voice.
+[SPEAKER_02]: That was my idea.
+[SPEAKER_02]: Let's go to Eric.
+[SPEAKER_02]: Hi.
+[SPEAKER_02]: Oh.
+[SPEAKER_01]: Hey, Andy.
+[SPEAKER_01]: Hey, I just wanted to say something about Netta's comment.
+[SPEAKER_01]: She kind of caught this point where she said, maybe I'm looking too much into it.
+[SPEAKER_01]: That's a cognitive overload statement.
+[SPEAKER_01]: That's where the mind kind of self-gaslights to ignite that and just kind of be like, okay, we're just going to throw that into the repository.
+[SPEAKER_01]: If you throw water on it, then the thought remains, but it's kind of like diminished.
+[SPEAKER_04]: Where if you are like maybe I'm like too much into it the pattern recognizer is like oh We don't need to deal with that right now Yeah, I can see that did net does that make sense It does it's interesting because I'm I'm on tick-tock telling people to look into their intuition and I'm like saying something like that
+[SPEAKER_02]: Well, it's kind of like the red car theory, right?
+[SPEAKER_02]: If I said, for every single red car you see today, I'll pay you 50 bucks.
+[SPEAKER_02]: You're going to find a lot of red cars.
+[SPEAKER_02]: But if I say, for every white car, I'll give you $50.
+[SPEAKER_02]: You're going to find a lot of white cars.
+[SPEAKER_02]: It's only a matter of me preemptively framing the conversation in your mind.
+[SPEAKER_02]: And that's what I was saying earlier to Patricia and what everyone else is saying.
+[SPEAKER_02]: If I preemptively ask you a question, you're going to create a frame and then give me an answer based on that question.
+[SPEAKER_02]: Which is why it's difficult for me to actually get the real voice print from people.
+[SPEAKER_02]: By the way, I'll tell you exactly how I do it.
+[SPEAKER_02]: So if you ever join my services or you hire me directly, this is how I do it.
+[SPEAKER_02]: I ask you to tell me about the thing that you want to sell and who you want to talk to about it.
+[SPEAKER_02]: And I capture
+[SPEAKER_02]: the manner in which you describe it to me.
+[SPEAKER_02]: And then I ask questions like, that's interesting, can you tell me a little more about it?
+[SPEAKER_02]: How do you actually do that?
+[SPEAKER_02]: How did you come up with this idea?
+[SPEAKER_02]: What was the genesis?
+[SPEAKER_02]: How did you figure out that that's what?
+[SPEAKER_02]: And I ask, and I just, I try to just go one step at a time, deeper and deeper into where they truly
+[SPEAKER_02]: where their true heart is, where they truly feel like they found something special and they want to share it with the world.
+[SPEAKER_02]: Because if you can get people to describe that, that is what gives you the understanding of what their best voice is.
+[SPEAKER_02]: So that's what you can do for yourself.
+[SPEAKER_02]: I recommend having somebody else help you.
+[SPEAKER_02]: Because it's hard to define the frame, ask yourself the question, and then try to answer
+[SPEAKER_02]: without a filter when you've defined the filter before you started.
+[SPEAKER_02]: So give someone the instruction to ask you these questions and really be curious and interested in what your answers are.
+[SPEAKER_02]: Record the whole thing so that you can listen to yourself describe the thing that you're the most passionate about.
+[SPEAKER_02]: That is the right now.
+[SPEAKER_02]: That is the best way I've found to get your real voice.
+[SPEAKER_02]: the one that you probably want to use to share with the world, the one that you share with the world that when you finally get asked to be a keynote speaker, or you write your book, or you create your course, or you have your consulting or coaching or whatever it is you do, that authenticity is what comes through.
+[SPEAKER_02]: Yeah, go ahead, Eric.
+[SPEAKER_01]: Yeah, and I was just going to say Andy's giving a perfect explanation of elevated awareness of confirmation bias and using that awareness of confirmation bias in real time to guide a person's perspective.
+[SPEAKER_02]: Yeah, it's easy to do the opposite too, by the way, to create condition where whatever you tell me is what I wanted you to tell me.
+[SPEAKER_02]: This is what magicians do.
+[SPEAKER_02]: They create cognitive awareness and cognitive bias, and then they help you understand which card to pick, if they like the red ones or the black ones, if they like the low numbers or the high numbers.
+[SPEAKER_02]: They go through the process and they describe things to you.
+[SPEAKER_02]: Your mind is just creating a frame and a filter, and they're just narrowing down that frame and filter, which is why it seems like it's so crazy, but in reality,
+[SPEAKER_02]: just cognitive awareness from one person who's disrupting the thinking of the other person.
+[SPEAKER_02]: In the opposite sense, I'm trying to give you the most open runway and permission for you to go down that runway with whatever is truly in your heart, expressing things truly from your own
+[SPEAKER_02]: mind, your own heart, your own sense of communication.
+[SPEAKER_02]: And even though I say it's difficult,
+[SPEAKER_02]: I don't tell people it's difficult when we start doing it.
+[SPEAKER_02]: I just go, tell me what's going on.
+[SPEAKER_02]: Tell me what this cool thing is.
+[SPEAKER_02]: Wow, how exactly do you want to do that?
+[SPEAKER_02]: Wow, that sounds like a fantastic way.
+[SPEAKER_02]: Do you think about these other ideas or have you already solved those?
+[SPEAKER_02]: Oh, you did?
+[SPEAKER_02]: How did you do that?
+[SPEAKER_02]: And then I just ask them curiosity questions, encouraging them to be more and more and more open.
+[SPEAKER_01]: Yes, go ahead.
+[SPEAKER_01]: That's a beautiful way to encourage expansion over collapse.
+[SPEAKER_01]: A lot of people try to tell a person an answer where you're literally, you're not trying to give them the answer.
+[SPEAKER_01]: You have your answer, you know the question behind the answer that you have, so you provide the question to them and then you and they grow.
+[SPEAKER_02]: Yes, but the purpose of this exercise that I'm describing is to get my clients to open up and use their true voice
+[SPEAKER_02]: when they're telling me what's going on so that way I can produce results that is closest to their true authentic voices I can.
+[SPEAKER_02]: And the only way to do that is to have them tell me exactly what they want and how they want to deliver it.
+[SPEAKER_02]: It doesn't matter if you're talking about
+[SPEAKER_02]: How do you create Chateaubriand with little baby carrots and butter?
+[SPEAKER_02]: Or if you want to draw a picture, or if you want to tell people how to invest, or you want to sell a piece of real estate, or you want people to buy the camera because you got 25 of them in your closet.
+[SPEAKER_02]: It doesn't matter, right?
+[SPEAKER_02]: What matters is what is your authentic voice?
+[SPEAKER_02]: How does that sound?
+[SPEAKER_02]: Because if I'm trying to help you create a personal brand, which is what I'm doing, if I'm trying to help you create a personal brand, you don't have to be, but you will be more successful if you're your own authentic self.
+[SPEAKER_02]: Most people are afraid and they filter everything.
+[SPEAKER_02]: We all have masks, and that's why we're able to code switch when we go from room to room, environment to environment, we switch from the,
+[SPEAKER_02]: the legal speak, to the math speak, to the IT speak, to the business speak, to the CEO budgeting meetings.
+[SPEAKER_02]: As some people go, like I have, you know, these four meetings in a row, I have to have the context of those four different types of things.
+[SPEAKER_02]: We all do it, right?
+[SPEAKER_02]: You're talking to your friends about going out and watching the game on Thursday night, and then your mom calls, and you instantly switch to son voice talking to mom.
+[SPEAKER_02]: and you talk about things in that frame, in that kind of channel of communication.
+[SPEAKER_02]: And when I'm working with my clients, my goal is to remove the channels and let them choose their own channel.
+[SPEAKER_02]: Whatever's their authentic voice channel, that's what I wanna hear the most of.
+[SPEAKER_02]: And because of my personality, because of the way I present things, I have a tendency to provide
+[SPEAKER_02]: frameworks to people before they give me answers.
+[SPEAKER_02]: And I really truly want to, in this situation, I want to remove all those frameworks and encourage them to tell me from their authentic point of view, from their authentic voice, using their authentic language, talking about the things that they're interested in, describing and giving to people, but with
+[SPEAKER_02]: their voice, not with my filter definition of here's the frame, put your voice inside it.
+[SPEAKER_02]: And that's what most coaches and consultants do.
+[SPEAKER_02]: People are wild in their vision of what they are capable of doing, even though they're experts in this little tiny box.
+[SPEAKER_02]: That's totally fine.
+[SPEAKER_02]: I want them to imagine they're capable of telling me anything from anywhere.
+[SPEAKER_02]: And then I'll help them understand and see where those primary kind of voices are, right?
+[SPEAKER_02]: It's kind of like you take a piano, you have keys on a piano, you can't play all the notes at the same time, it doesn't sound right.
+[SPEAKER_02]: But if you pick a key and you play the dominant note and then the supporting notes, all of a sudden it creates much more pleasing sound to everyone.
+[SPEAKER_02]: And that's my attempt at helping people use their voice print.
+[SPEAKER_02]: Is this making sense?
+[SPEAKER_02]: I feel like I've gone to level 50, and I don't want to lose the audience.
+[SPEAKER_01]: It made perfect sense, Andy.
+[SPEAKER_01]: Thank you.
+[SPEAKER_02]: OK.
+[SPEAKER_02]: So most people think when I start talking with them and I start working with them on their brands or on their
+[SPEAKER_02]: coaching on their leadership.
+[SPEAKER_02]: They think that they can play the piano and they can play any kind of music and they are experts.
+[SPEAKER_02]: And in reality, they're really experts in like three or four notes.
+[SPEAKER_02]: And they can play those three or four notes in a three or four note pattern.
+[SPEAKER_02]: And that pattern is very successful to produce the result they're looking for.
+[SPEAKER_03]: And that is such a good point, not to jump in, but sometimes the things we think we're best at are actually the things we're just hyper fixated on.
+[SPEAKER_03]: Right.
+[SPEAKER_03]: And there are things that we actually put more effort into.
+[SPEAKER_03]: And because we put more effort into it, we value it.
+[SPEAKER_03]: And we think it's a strength when really our strength is that thing that we do without thinking.
+[SPEAKER_03]: Right, that's kind of just in our back pocket.
+[SPEAKER_03]: We just kind of whip it out That's our strength not necessarily the thing that we had to put through the ropes and the rigor to get Equal or right as someone else.
+[SPEAKER_02]: Yeah, so I do I think it's a good point, you know, yep that To go down the music analogy Maybe you have an amazing sense of rhythm.
+[SPEAKER_02]: You know exactly when to play the note
+[SPEAKER_02]: Maybe you have a sense of dynamicism in the music, when to play it softly and when to play it loud.
+[SPEAKER_02]: Maybe you know when to create the crescendo so that the music builds to the point of then the soft note and making the impact.
+[SPEAKER_02]: Maybe that's your superpower and you focus the entire time on banging the key.
+[SPEAKER_02]: How many keys do I bang?
+[SPEAKER_02]: How many times do I bang it?
+[SPEAKER_02]: When do I, right?
+[SPEAKER_02]: The things that we do easily, naturally, without effort.
+[SPEAKER_02]: Think of it this way, right?
+[SPEAKER_02]: So we're gonna talk about your superpowers tomorrow, but as a precursor in this last few minutes about your superpower, your voice is the way you describe the things.
+[SPEAKER_02]: Your superpower is the stuff that you didn't have to actually learn.
+[SPEAKER_02]: Somebody just told you the vocabulary and you now instantly have a way to describe the things that you never had to learn.
+[SPEAKER_02]: Think about that as we talk about the rest of the voice today.
+[SPEAKER_02]: And then tomorrow, we're gonna talk about your superpower, how to figure out what that is.
+[SPEAKER_02]: That's the way, by the way, a little teaser for tomorrow.
+[SPEAKER_02]: And that is, you never had to learn it, you already knew it.
+[SPEAKER_02]: They just gave you vocabulary to describe the things you already knew.
+[SPEAKER_02]: Some people who are musically gifted, when they give you the keys, they go, oh, okay,
+[SPEAKER_02]: And they, because they already knew how the music worked.
+[SPEAKER_02]: They just didn't have the vocabulary to describe it.
+[SPEAKER_02]: That's a superpower.
+[SPEAKER_02]: If you already know how the computers operate, and then they teach you about how the network connects to this piece or that piece, that's a superpower.
+[SPEAKER_02]: If you already know how language and human people work, and then they gave you the, using the descriptors that I've, maybe that's your superpower, right?
+[SPEAKER_02]: So we're going to talk about that tomorrow, but back to the voice print.
+[SPEAKER_02]: What is it?
+[SPEAKER_02]: How does it work?
+[SPEAKER_02]: It is your most authentic version of the way you describe things when you're excited and you're passionate and you really, really care that somebody else understands what you're trying to get across.
+[SPEAKER_02]: That is your most truest, authentic voice.
+[SPEAKER_02]: And the only way to get that is usually to
+[SPEAKER_02]: When I'm talking to someone, I strip away the layers.
+[SPEAKER_02]: My goal in discussion with them is to remove layer after layer, kind of like taking off a mask.
+[SPEAKER_02]: Okay, that's good.
+[SPEAKER_02]: What else?
+[SPEAKER_02]: Oh my goodness, how did you come up with that?
+[SPEAKER_02]: Where did he get that?
+[SPEAKER_02]: Where was your inspiration?
+[SPEAKER_02]: How do you use this?
+[SPEAKER_02]: How did you build it?
+[SPEAKER_02]: Can you envision things in the future that you haven't been able to do yet with this idea?
+[SPEAKER_02]: And then they,
+[SPEAKER_02]: They just start to gush the ideas to you, that.
+[SPEAKER_02]: That's their true voice.
+[SPEAKER_02]: That's their true person using all of their capacity to take these ideas in their head and, you know, squeeze their mouth and tongue around to make words and take these ideas and put them into your head.
+[SPEAKER_02]: And that transfer of communication is both unbelievably amazing, but also the most cool thing there is in all of the universe.
+[SPEAKER_02]: There's nothing more fascinating, nothing more valuable than the ability for us to just squeeze sounds and for you to understand them to me.
+[SPEAKER_02]: So, um, mullet.
+[SPEAKER_02]: Give me give me your give me like one.
+[SPEAKER_02]: I've got three minutes left Give me one minute of your thoughts so far for today and we'll close up in a couple minutes.
+[SPEAKER_00]: Um, no, it's been super great It's probably like I love to talk and I probably talk too much This has probably been one of the best spaces to not talk and just to take notes in um, this is something that i've really been looking into obviously like with my pfp you can tell i'm more into nfts and stuff, but lately i've been
+[SPEAKER_00]: trying to get more into like building my own brand and doing my own thing.
+[SPEAKER_00]: So I think it's super awesome to just like pop up in the list space when you open it was perfect timing.
+[SPEAKER_00]: I know I've seen Sherilyn, I think I've seen you around in some Avani spaces.
+[SPEAKER_00]: It was great to hear what you were saying too.
+[SPEAKER_00]: I was curious, you did mention a book earlier, Sherilyn, what was that book that you said?
+[SPEAKER_03]: Yeah.
+[SPEAKER_03]: So the one that Andy mentioned is called build your brand.
+[SPEAKER_03]: I actually wrote it 10 years ago.
+[SPEAKER_03]: So in the background on that is just that I've worked with a lot of like fortune 500 companies and stuff like that.
+[SPEAKER_03]: And there's just some practices that the big boys have in place that, um,
+[SPEAKER_03]: they just do as standard practice.
+[SPEAKER_03]: Right.
+[SPEAKER_03]: And so I wrote that book, uh, 10 years ago, kind of for the little guys to say, Hey, so, you know, basically if you're building a brand and you're competing with the big guys, there's 16 things they're doing right all the time that establishes them as a brand and maintains their, um, like their, their reputation and their promise of their product and what your expectations of them.
+[SPEAKER_03]: And it can all be summarized.
+[SPEAKER_03]: And so if you are a small guy who's building and you can answer these 16 questions and do it every day, all the time, then you are neck and neck with, and you're able.
+[SPEAKER_03]: You're where you want to be, right?
+[SPEAKER_03]: So, um, yeah, the build your brand.
+[SPEAKER_03]: Sometimes I don't bring it up cause it's not a, I, you know, it's more, but it was, it's more of the basic principles, right.
+[SPEAKER_03]: And kind of in plain speak and saying, do you have this, this is what this looks like.
+[SPEAKER_03]: This is why this is important.
+[SPEAKER_03]: And it's just kind of, so it's build your brand.
+[SPEAKER_03]: I'll actually drop it in the purple pill if you want, but with,
+[SPEAKER_03]: Yeah, with that expectation is that that's literally why I wrote it is because I had some friends who were like, Hey, how about the little guy?
+[SPEAKER_03]: And I was like, Okay, like, here's, here's the map, like get this and it works.
+[SPEAKER_03]: I will say that, because the challenge with growing a lot is that the challenge of getting your first customer is different than getting your hundredth customer, which is different than getting your thousandth, your millionth and your hundred millionth, right?
+[SPEAKER_03]: That's one thing you learn as you grow little guys is that, for example, I started out mostly in book signings, right?
+[SPEAKER_03]: And there's a big leap between an author that gets, you know, five, sells five books in the signing.
+[SPEAKER_03]: And then from there, they typically jump up to like 30.
+[SPEAKER_03]: And then from 30, they typically jump up to 70.
+[SPEAKER_03]: And then once they kind of reach that thing where they go past 70, then they're like 100 to 200, right?
+[SPEAKER_03]: And so there's this thing where if you can find your lane and do your thing, then all of a sudden, you know, someone who, you know, is working their tail off, you know, and only sells two books versus someone who has a really clean system and can show up for two hours and sell 200 with a line.
+[SPEAKER_03]: Right.
+[SPEAKER_03]: It's just doing different things in different ways that create different outcomes.
+[SPEAKER_03]: And so, yeah, that's where that came from.
+[SPEAKER_03]: And that's why I did it.
+[SPEAKER_03]: And I'll drop it in the purple bill.
+[SPEAKER_02]: Thank you, Cheryl.
+[SPEAKER_02]: I appreciate that.
+[SPEAKER_02]: We have come to the end of our time.
+[SPEAKER_02]: I really appreciate every one of you.
+[SPEAKER_02]: Thanks for co-hosting Netta, Patricia, Sherilyn, Chris and the other speakers.
+[SPEAKER_02]: Thank you so much for being here.
+[SPEAKER_02]: This is something that is important to me that everybody start their personal brand.
+[SPEAKER_02]: The reason is pretty simple because if you only give your life to an employer
+[SPEAKER_02]: or to a particular thing.
+[SPEAKER_02]: Sometimes, and this has happened to me, through no fault of my own, the company went under, the projects end, the funding goes away, the whatever.
+[SPEAKER_02]: All kinds of reasons happened.
+[SPEAKER_02]: And then you're out looking for work again.
+[SPEAKER_02]: When you're looking for work again, when you're doing any of those things,
+[SPEAKER_02]: If you don't have a personal brand, you can still be successful.
+[SPEAKER_02]: But if you have a personal brand, you will be way more successful.
+[SPEAKER_02]: Way, way more.
+[SPEAKER_02]: Like 10x, maybe 100x.
+[SPEAKER_02]: more valuable with a personal brand.
+[SPEAKER_02]: And this comes out directly if you go to Forbes, Gartner, McKinsey, Boston, any of the big consulting companies.
+[SPEAKER_02]: There's a ton of research out there right now that basically says a company with a visible leadership with a personal brand
+[SPEAKER_02]: That company has a 10 to 40% jump in valuation, has up to 80%, not always, but up to an 80% increase in customer trust on their products and services because leadership is visible and leadership has a personal brand.
+[SPEAKER_02]: And think about what I just said.
+[SPEAKER_02]: If you have a $10 million company and your leader doesn't have a good personal brand, we add a personal brand to them.
+[SPEAKER_02]: That company is now going to be worth 10.1.
+[SPEAKER_02]: That's $100,000 increase in valuation.
+[SPEAKER_02]: $100,000.
+[SPEAKER_02]: By just doing some posts and talking on a space or maybe even not even on a space, maybe just creating a blog and putting some stuff on TikTok or putting some stuff on X will increase the company valuation by 10%.
+[SPEAKER_02]: That is a massive return on investment.
+[SPEAKER_02]: Massive.
+[SPEAKER_02]: And it's free.
+[SPEAKER_02]: It's relatively simple to do.
+[SPEAKER_02]: So that is what we're talking about.
+[SPEAKER_02]: I strongly believe everybody should have a personal brand.
+[SPEAKER_02]: I strongly believe everybody should have a side hustle because there are people, including me, occasionally on my hands and knees praying to God for help.
+[SPEAKER_02]: You guys are the ones that have the help.
+[SPEAKER_02]: So I encourage you to start your own thing, to become independent, to build your own plans, to create your own companies, your own side hustles, because in the startup circle, we're here to help people with startups.
+[SPEAKER_02]: I'm assuming that's what you're here for.
+[SPEAKER_02]: So grab your torch, light it, carry it out into the dark world, because the world needs you.
+[SPEAKER_02]: Thank you for coming.
+[SPEAKER_02]: We'll see you again tomorrow.
+[SPEAKER_02]: Have a great day, bye.

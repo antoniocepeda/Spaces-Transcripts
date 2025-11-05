@@ -1,0 +1,145 @@
+[SPEAKER_00]: Hello.
+[SPEAKER_00]: Hello, everybody.
+[SPEAKER_00]: Apologies for that.
+[SPEAKER_00]: I think there was an issue with my internet for the previous space and seems like we had to disconnect.
+[SPEAKER_00]: But I'm back here once again.
+[SPEAKER_00]: And thanks once again for joining in, my dear friends.
+[SPEAKER_00]: So, let's continue from where we left off.
+[SPEAKER_00]: We were talking about, we had covered the four habits from atomic habits that, you know, how do you build a habit of, in terms of, sorry, how do you build a habit in terms of capturing your notes?
+[SPEAKER_00]: How do you build that habit?
+[SPEAKER_00]: So, we spoke about the four things that are required, which is,
+[SPEAKER_00]: make it obvious, make it easy, make it attractive, make it satisfying.
+[SPEAKER_00]: We spoke about that.
+[SPEAKER_00]: Now then we were just jumping into how you can actually organize your notes now.
+[SPEAKER_00]: We learned about how to capture or make it a habit of writing notes, but now we should learn about how to
+[SPEAKER_00]: actually capture organize distill and execute your notes so let's dive into that at this point now the code method let's talk about the code method because that is precisely what uh we are going to be talking about right now um so code
+[SPEAKER_00]: C stands for capture, O stands for organize, D stands for distill, E stands for express.
+[SPEAKER_00]: right so you capture only what resonates with your current projects this we discussed in one of our previous spaces at length we don't want to capture things that are not necessarily or that you may or may not use in the future that's not our criteria to capture we want to capture the things only that
+[SPEAKER_00]: are absolutely necessary at this point in time and what is necessary the current projects that you're working on okay at one point in time so we may not be having 10 projects that we are working on right we shouldn't have 10 projects that we are working on at one point because that will just spread ourselves too thin and we can't really focus on one or two things
+[SPEAKER_00]: We want to focus on few things at once.
+[SPEAKER_00]: So perhaps you want to build an online business.
+[SPEAKER_00]: That may be one project.
+[SPEAKER_00]: Another one is perhaps you want to become extremely fit as a human being.
+[SPEAKER_00]: So that can be your second project.
+[SPEAKER_00]: another one you you perhaps want to improve your knowledge so that can be third project or maybe relationships or family something like that right so you want to have about three to five projects you're working on you don't want to have a lot of projects and based on these projects only you will capture your notes in your notes app and then of course
+[SPEAKER_00]: then you go into organizing them because you don't want to capture anything else at this point in time.
+[SPEAKER_00]: So C stands for capture, O stands for organize, D stands for distill, E stands for express.
+[SPEAKER_00]: My express workflow, let me talk about it.
+[SPEAKER_00]: So expressing is the whole point of why you capture your notes in the first place.
+[SPEAKER_00]: And the step one for expressing would be intermediate packets.
+[SPEAKER_00]: This is a term coined by Tiago Forte in his book, Building a Second Brain, where every note you capture becomes a potential building block.
+[SPEAKER_00]: You don't want to kind of create masterpieces right away.
+[SPEAKER_00]: You want to create some kind of Lego bricks, right?
+[SPEAKER_00]: Combine bricks to build modules, bonuses or content.
+[SPEAKER_00]: For example, you have specific notes that you are writing, right?
+[SPEAKER_00]: You have specific notes that you are capturing as well.
+[SPEAKER_00]: So you combine about 5 to 10 notes and then turn them into a thread.
+[SPEAKER_00]: The thread that I've posted on top in the Jumbotron, they are a combination of about 15 notes that I had written down in my notes app.
+[SPEAKER_00]: Simple and clear over there.
+[SPEAKER_00]: So every note, maybe let's say three, you capture about three to five notes, you write, you post one of those notes on X.
+[SPEAKER_00]: You capture about 10 to 15 notes, you combine those notes and write it into a thread.
+[SPEAKER_00]: Right.
+[SPEAKER_00]: You don't create masterpieces right away.
+[SPEAKER_00]: You create kind of Lego bricks one by one.
+[SPEAKER_00]: Let me give you another example.
+[SPEAKER_00]: I finished reading the book Hundred Million Offers from Alex Ormosi.
+[SPEAKER_00]: I had captured, let's say, about 50 notes on value equation.
+[SPEAKER_00]: I distilled those 50 notes into 12 key frameworks.
+[SPEAKER_00]: I combined those key frameworks.
+[SPEAKER_00]: And now I also wrote a thread about it, by the way.
+[SPEAKER_00]: onyx and i also made those threads into a module 5 of the product that i'm building the module 5 is named as offer design so
+[SPEAKER_00]: it's uh me reading the book was not useless me saving the highlights of the book did not go useless i wrote threads on it i combined those threads into my module 5 so i kind of reused those notes to build the offer design which is a module 5 as well as build the office stack template of my product so that's a i'm offering it as a bonus on my product
+[SPEAKER_00]: the same notes same highlights but multiple outputs right um that's pretty much what should be done guys what what i used to do before was simply capture notes and maybe one or two threads maybe one or two posts and that's it what is it leading to absolutely nothing those threads after one month no point right it's forgotten so everything everything that you post online should
+[SPEAKER_00]: move into the creation of something bigger right um that's step one use intermediate packets small kind of packets uh ip right in short form that's that's what they call it step two is called archipelago of ideas
+[SPEAKER_00]: So what does it mean is you don't start a product from a blank page.
+[SPEAKER_00]: You don't start a post from a blank page.
+[SPEAKER_00]: You start by searching the existing notes.
+[SPEAKER_00]: You might have some notes saved up in your Notion, in your Google Docs, in your Apple Notes, whatever you're using.
+[SPEAKER_00]: Right.
+[SPEAKER_00]: So you might have your notes saved up somewhere already.
+[SPEAKER_00]: You start your product from there.
+[SPEAKER_00]: And then, of course, you pivot from there if need be.
+[SPEAKER_00]: But you do not start from a blank page.
+[SPEAKER_00]: That's called archipelago of ideas.
+[SPEAKER_00]: You start by searching the existing notes for your current project.
+[SPEAKER_00]: It might be fitness like we talked about.
+[SPEAKER_00]: It might be building a business.
+[SPEAKER_00]: And then you pull relevant highlights from those notes.
+[SPEAKER_00]: And then, of course, you start writing posts, combine five, six posts, it becomes a thread.
+[SPEAKER_00]: Once you write two or three threads, you realize, hey, man, I can actually make something out of this.
+[SPEAKER_00]: And that's where the aha moment comes in.
+[SPEAKER_00]: Right.
+[SPEAKER_00]: That is the step two of Archipelago of Ideas.
+[SPEAKER_00]: The step three would be to dial down the scope.
+[SPEAKER_00]: OK, what do you mean by dialing down the scope?
+[SPEAKER_00]: For example, if you have to create a deadline.
+[SPEAKER_00]: So let me give you an example of any app, even WhatsApp or Telegram, these kind of apps, they set a deadline for themselves and
+[SPEAKER_00]: They said that, OK, by this deadline, I will, let's say, have this feature built up, have this benefit built up, have so and so built up.
+[SPEAKER_00]: But as and when you get closer to the deadline, you realize that there are a lot of things that you have to take care of.
+[SPEAKER_00]: Let's say the financial aspects of it.
+[SPEAKER_00]: Let's say the back end and the front end of building that app, let's say even managing the team and so many things will get in the way that sometimes you may not be able to include all the features inside your app.
+[SPEAKER_00]: right so at that time what you do you dial down the scope you don't include all the features but you still launch if november 30th is your launch date you still launch on november 30th without those features and then you announce to the public that you know what these features will come down in the version 2 of the product
+[SPEAKER_00]: So you simply put in the core features of the product and then the other features that you were not able to add in because you set yourself a deadline comes in version 2, version 3, version 4, whatever.
+[SPEAKER_00]: That's why we see new updates coming in the apps and products or softwares as we go about it.
+[SPEAKER_00]: They don't create perfect softwares with all the features immediately.
+[SPEAKER_00]: they add in features as version one, version two, version three, so on and so forth.
+[SPEAKER_00]: So that's how you dial down the scope.
+[SPEAKER_00]: And then finally, let's talk about creative execution.
+[SPEAKER_00]: And I'll start by giving my own example is that at this point, I'm at my AI chat GPT says that I'm at 52% of completion in terms of what my product
+[SPEAKER_00]: is so far and that's cool which means that by November 38 I'll be able to execute 100% of it but this is how my mornings, afternoons and evenings look like.
+[SPEAKER_00]: So in the mornings I wake up at 5 o'clock
+[SPEAKER_00]: Obviously, I go into an immediate movement session.
+[SPEAKER_00]: I can't, I wouldn't want to put any kind of inputs right away.
+[SPEAKER_00]: So I move my body a little bit.
+[SPEAKER_00]: And then after, let's say, 60 to 80 minutes of movement is when I start reading and writing.
+[SPEAKER_00]: Writing and reading come hand in hand.
+[SPEAKER_00]: You can write 2000 words or even more if you have knowledge in your head.
+[SPEAKER_00]: So reading is absolutely vital when it comes to writing.
+[SPEAKER_00]: So my morning phase is basically moment plus reading plus writing.
+[SPEAKER_00]: And I capture only what, when I'm reading, I only capture what resonates with my current product.
+[SPEAKER_00]: So I capture only what resonates with the current module.
+[SPEAKER_00]: I tag my notes with project name immediately.
+[SPEAKER_00]: right in the afternoon is where I distill my notes whatever I write in the right up in the morning I organize and distill those notes I move those notes into the project folder I bold on the key points I highlight critical insights I write the executive summary as well now in terms of how to distill your notes as well as write down executive summary
+[SPEAKER_00]: We spoke about that in our previous spaces.
+[SPEAKER_00]: You can go through the recording if you would like to learn more about it.
+[SPEAKER_00]: But yes, and of course, if you have any questions, please feel free to ask them in the purple pill.
+[SPEAKER_00]: I would go through the comments immediately, of course, and answer them.
+[SPEAKER_00]: And in the evening is when afternoon slash evening is when I start to express my notes, whatever I noted down, organized and distilled.
+[SPEAKER_00]: It comes up as posts on on X.
+[SPEAKER_00]: It comes up as threads on X.
+[SPEAKER_00]: You see the thread that I've written, which is in the Jumbotron right now.
+[SPEAKER_00]: It's it's the notes that I captured in the morning and it's just come out in the form of threads.
+[SPEAKER_00]: Right.
+[SPEAKER_00]: So this is my process.
+[SPEAKER_00]: And in the night, of course, you have to reflect where you update yourself, update the tracker, which we have built for ourselves.
+[SPEAKER_00]: We spoke about how building a habit tracker is very important to make your habits easy and your systems easy.
+[SPEAKER_00]: So you update your tracker, you mark them as complete.
+[SPEAKER_00]: You understand what worked today.
+[SPEAKER_00]: You understand what is tomorrow's focus.
+[SPEAKER_00]: You maintain your identity.
+[SPEAKER_00]: Creating the identity of an entrepreneur is absolute vital.
+[SPEAKER_00]: Beforehand, I used to tell myself that I am an aspiring entrepreneur and that was what was holding me back.
+[SPEAKER_00]: The word aspiring was holding me back.
+[SPEAKER_00]: But now I am creating myself, creating the identity of myself as an entrepreneur by writing every day, by reading every day, by showing up every day, by building products every single day.
+[SPEAKER_00]: So that's how you build an identity of an entrepreneur.
+[SPEAKER_00]: The system forced expression.
+[SPEAKER_00]: We will talk about what forced expression is, but probably in the next space.
+[SPEAKER_00]: That being said, guys.
+[SPEAKER_00]: Your notes should not be a graveyard.
+[SPEAKER_00]: Your notes actually die because there's no output system.
+[SPEAKER_00]: The stack atomic habits, the stack of building a second brain and the execution daily loop is how you make things happen.
+[SPEAKER_00]: Your loop should be captured with purpose, process for reuse, express daily.
+[SPEAKER_00]: This works because guys, I'm living proof of this, right?
+[SPEAKER_00]: 66, 67 days I'm building it in public.
+[SPEAKER_00]: You can see, you can see the posts.
+[SPEAKER_00]: You can see me talking about it in the spaces.
+[SPEAKER_00]: And this is, this is how it works.
+[SPEAKER_00]: Most people won't do it.
+[SPEAKER_00]: They'll save this space.
+[SPEAKER_00]: They'll save this post.
+[SPEAKER_00]: They'll save the thread that's in the JumboTron and do actually absolutely nothing about it.
+[SPEAKER_00]: But,
+[SPEAKER_00]: But yes, that's how it is.
+[SPEAKER_00]: We spoke about how to build a habit of writing.
+[SPEAKER_00]: We spoke about how to capture your notes using the Para system.
+[SPEAKER_00]: And in the end, we also spoke about how I'm applying it to my product.
