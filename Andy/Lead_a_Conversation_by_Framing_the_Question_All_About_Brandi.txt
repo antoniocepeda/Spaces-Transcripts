@@ -1,0 +1,711 @@
+[SPEAKER_01]: Okay, good afternoon.
+[SPEAKER_01]: It is Friday, the 7th of November.
+[SPEAKER_01]: We're going to talk about branding today, all about branding, but we're going to talk specifically about leading conversations by framing the question.
+[SPEAKER_01]: I was wondering if everybody knows what that means, or maybe I'm just a little paranoid.
+[SPEAKER_01]: But if you frame the question before you ask it, you will in the mind of
+[SPEAKER_01]: whoever's answering, you will filter all of their responses, and it will give you something that's a little closer to what you're expecting.
+[SPEAKER_01]: However, most of the time, it's not used for good.
+[SPEAKER_01]: It's used to lead you down a path that you may or may not want to go.
+[SPEAKER_01]: And so I want to both identify how it works, why it works, how you can use it, and what you need to do to be careful of it.
+[SPEAKER_01]: All right, so let's get into it.
+[SPEAKER_01]: Hi, Alex.
+[SPEAKER_01]: Thanks for joining.
+[SPEAKER_01]: Hopefully, we'll get some other folks in here shortly.
+[SPEAKER_01]: But we've got some interesting kind of perspectives.
+[SPEAKER_01]: When we talk about framing questions,
+[SPEAKER_01]: It's, it's kind of like this.
+[SPEAKER_01]: If you are talking to your LLM, you're talking to Grok or chat GPT and you say, how do I, we'll just use branding.
+[SPEAKER_01]: How do I create a personal brand?
+[SPEAKER_01]: It'll tell you some answer.
+[SPEAKER_01]: And then if you go, okay, if I wanted to create a personal brand for executives in
+[SPEAKER_01]: California, how would I do a built brand?
+[SPEAKER_01]: It will instantly eliminate everything else and only frame the results in the question of the parameter of executives in California.
+[SPEAKER_01]: And if I said, well, executives in Northern California, don't worry about those people in Southern California.
+[SPEAKER_01]: Just give me the idea and the particular way to track and manage and talk to questions and make an offer specifically to executives in Northern California.
+[SPEAKER_01]: it will eliminate everything that it thinks people from Southern California, and if I said, you know, not the Central Valley, but just the Bay Area, not the northern part of it, not up near Oregon, no, no, no, just the Bay Area.
+[SPEAKER_01]: In fact, not even the whole Bay Area, just San Jose.
+[SPEAKER_01]: Can you target and give me information about executives for branding in San Jose?
+[SPEAKER_01]: And it will, it will eliminate
+[SPEAKER_01]: everything that might work in France, everything that might work in South Africa, everything that might work in Malaysia, or in Russia, or even in Canada, or Mexico, or Argentina, and it will only give me answers it thinks work specifically in the area that I'm giving it.
+[SPEAKER_01]: Now here's how that's good and bad.
+[SPEAKER_01]: It's good because
+[SPEAKER_01]: as you narrow down your niche, you know, we've talked about audience this week.
+[SPEAKER_01]: If you narrow down your audience, you can ask questions specifically around what things can I say, what specific words and phrases are impactful to my audience and then define your audience.
+[SPEAKER_01]: And the LLM will help you redefine all of your marketing materials and results that way.
+[SPEAKER_01]: But there's a dark side to it, too.
+[SPEAKER_01]: Here's the dark side.
+[SPEAKER_01]: Let's do it the other way around.
+[SPEAKER_01]: Your work, and by the way, I'm using an LLM because it's a non-human responsive entity.
+[SPEAKER_01]: This works with people, too.
+[SPEAKER_01]: If you ask humans the same thing and you frame a question, hey, Dad, hey, Uncle Dave, tell me about, and then,
+[SPEAKER_01]: frame a box.
+[SPEAKER_01]: They will all try to answer you in that box.
+[SPEAKER_01]: Here's how it works against you.
+[SPEAKER_01]: When you come up on stage and I give you the microphone and I ask you a question, what's happening today?
+[SPEAKER_01]: And then I ask a leading question like,
+[SPEAKER_01]: Have you ever been framed or how do you use framing questions?
+[SPEAKER_01]: You are going to limit all your responses specifically to answering that type of question.
+[SPEAKER_01]: That's a good thing in a show, in a conversational interaction like this.
+[SPEAKER_01]: But let's imagine that you're talking to someone who's selling you insurance that you don't want or need and they go,
+[SPEAKER_01]: Well, don't you want your kids to be taken care of?
+[SPEAKER_01]: Don't you want this to happen?
+[SPEAKER_01]: Don't you want that to happen?
+[SPEAKER_01]: And as you frame or boundary the conversation, what happens is you end up changing the thinking process of the human being that you're interacting with.
+[SPEAKER_01]: This is the part that is really, really interesting.
+[SPEAKER_01]: Also,
+[SPEAKER_01]: I posted on my timeline just as a quick note while we're still getting people together.
+[SPEAKER_01]: And Noah, I've sent you a...
+[SPEAKER_01]: Okay, there we go.
+[SPEAKER_01]: It says you can now speak, but my screen isn't updating for some reason.
+[SPEAKER_01]: Let me try this again.
+[SPEAKER_01]: Noah, can you say hi?
+[SPEAKER_01]: Okay, I don't see that.
+[SPEAKER_01]: Let's go back to the framing conversation.
+[SPEAKER_01]: if we create Oh, it looks like it's taking a little extra time.
+[SPEAKER_01]: I don't know why x is being weird again today.
+[SPEAKER_01]: Okay, there we go.
+[SPEAKER_01]: As you frame the conversation as you are walked through these things with other people as other people talk to you about things, be aware of the boundaries that they're giving you when they ask you a question.
+[SPEAKER_01]: And it's easiest to think of things that are non-confrontational and not really impactful.
+[SPEAKER_01]: I really like hamburger tonight.
+[SPEAKER_01]: Hey, what's the name of that hamburger place?
+[SPEAKER_01]: Hey, I'm hungry for dinner, where do you think we should go?
+[SPEAKER_01]: You've already given them three things to predefine their mind and eliminate, well, I really wanted pasta.
+[SPEAKER_01]: Nope, hamburgers are a really good thing today.
+[SPEAKER_01]: And it is a interesting human communication phenomenon that happens.
+[SPEAKER_01]: We talked about it a little bit yesterday.
+[SPEAKER_01]: We talked about it a lot this morning.
+[SPEAKER_01]: But I wanted to have more of a conversation.
+[SPEAKER_01]: This is me just stretching it out while everybody joins.
+[SPEAKER_01]: But I'd love to hear from Noah.
+[SPEAKER_01]: Hi, Noah.
+[SPEAKER_01]: How you doing?
+[SPEAKER_05]: I'm not bad.
+[SPEAKER_05]: How are you?
+[SPEAKER_01]: That's great.
+[SPEAKER_01]: Did you enjoy Bonfire Night the other evening?
+[SPEAKER_05]: Wow, you know all about British culture a little bit.
+[SPEAKER_01]: Well, I very much I very much like the idea that Guy Fawkes wanted to blow up Parliament because they were Outside of what should happen and what not not that I I think you should totally blow up Parliament But I definitely think that you should vote people out and get new people in in every government for the same reason that you change dirty diapers because eventually
+[SPEAKER_01]: They all, you know, are full of manure and need to be changed.
+[SPEAKER_01]: Anyway, that's, I just, I like the Guy Fawkes thing.
+[SPEAKER_01]: So in my heart, I am a little bit of a rebel.
+[SPEAKER_01]: I would prefer less restrictions than more.
+[SPEAKER_01]: I would prefer the ability to fail on my own than be protected by the government.
+[SPEAKER_01]: That's just my own personal opinion.
+[SPEAKER_01]: But anyway, that's why I know about Remember, Remember the 5th of November.
+[SPEAKER_05]: Yeah, I mean, it was good.
+[SPEAKER_05]: I can't complain.
+[SPEAKER_05]: To be honest, I watched all the fireworks from my house.
+[SPEAKER_05]: There's a lot of fireworks that happened right by my house.
+[SPEAKER_05]: I could just look out the window and enjoy it.
+[SPEAKER_05]: For me, I think I've got to a point now in my age where I don't really want to walk in a muddy field just to stare at some fireworks that I can just as well see.
+[SPEAKER_00]: That's so true.
+[SPEAKER_00]: Walk out into the muddy field just so you can stand next to the bonfire and watch everything blow up and then walk back in the mud and then, yeah, get your wellies all thrashed.
+[SPEAKER_05]: Yeah, exactly.
+[SPEAKER_05]: And it's cold as well.
+[SPEAKER_05]: But no, it was good.
+[SPEAKER_05]: Thanks.
+[SPEAKER_05]: So we're doing leading a conversation by framing the question.
+[SPEAKER_05]: Okay.
+[SPEAKER_05]: Yes, a little bit more.
+[SPEAKER_01]: If I said, let's talk about branding, you would instantly think about branding.
+[SPEAKER_01]: If I said, Noah, how exactly do you use AI to generate the next set of content ideas?
+[SPEAKER_01]: You're instantly going to frame your answer and the thinking about how I ask the question.
+[SPEAKER_01]: If I said, what do you think about the sovereignty of the UK versus the sovereignty of the United States?
+[SPEAKER_01]: It's going to create a whole different mindset in your mind about how to answer the question.
+[SPEAKER_01]: That's what I mean by framing the question.
+[SPEAKER_01]: When I define the boundaries of what I'm asking you, even if it's direct like I'm doing or indirect subtly,
+[SPEAKER_01]: You change the way the human being thinks about how to answer the question and the expectation of what they're trying to give to you because all of us are people pleasers.
+[SPEAKER_01]: We all want to please the person who's asking the question.
+[SPEAKER_01]: And even if the answer is just, no, I didn't, I don't want to talk to you, leave me alone.
+[SPEAKER_01]: You're still acknowledging they asked a question and you've just decided how to, how to answer it.
+[SPEAKER_01]: You've decided to reframe it your own way.
+[SPEAKER_01]: And my point is, when we're talking and having conversations in everyday life, in every situation, every single time, people are, by the way they ask the question, framing and managing how they want you to respond.
+[SPEAKER_05]: Yeah, I mean, you're right.
+[SPEAKER_05]: I think framing is really critical and important like I only had a 20 minute meeting today with a prospective customer.
+[SPEAKER_05]: And so I, instead of using my presentation deck I had instead I just straight away went into, you know, showing him the product, demoing the product, and then framing the questions right after.
+[SPEAKER_05]: just because sometimes you have a very short period of time and so framing questions are critical because you don't frame it and you don't wow someone within the first 60 seconds of speaking to them if you have only 15 minutes with them.
+[SPEAKER_05]: That's the only way, you know?
+[SPEAKER_01]: Absolutely.
+[SPEAKER_01]: In fact, most, I was watching some things on venture capitalists and private equity people in presentations and all of them universally say pretty much the same thing.
+[SPEAKER_01]: And it goes like this.
+[SPEAKER_01]: In the first 10 or 15 seconds, they evaluate whether you're the kind of person they want to work with.
+[SPEAKER_01]: And within 10 minutes, they know for sure whether they're going to give you money or not.
+[SPEAKER_01]: So if you're doing a presentation as a pitch, if it's a 30-minute window, you should do what I call a 50-50 meeting, which, by the way, I got from a guy named Judd Boyce, who wrote a great book called The Right Side of the Equation.
+[SPEAKER_01]: Shout out to Judd.
+[SPEAKER_01]: He's a fantastic guy.
+[SPEAKER_01]: 50-50 meeting.
+[SPEAKER_01]: Talk about, do a little bit of engagement, right to the point, and then the second half of the meeting is question and answers.
+[SPEAKER_01]: Get to the point, give it to them directly.
+[SPEAKER_01]: They know if they like it, they know if they don't.
+[SPEAKER_01]: No need to go into an hour or two hour long presentation, right?
+[SPEAKER_01]: So short and sweet usually is more effective than long and drawn out.
+[SPEAKER_01]: show all of the value, either they get it right away or they don't.
+[SPEAKER_01]: Is that your experience?
+[SPEAKER_05]: Yeah.
+[SPEAKER_05]: Yeah, I mean, you're right, to an extent, but then when it's a discovery call, and it's not a product led meeting, like this was a product led meeting, you know, we had the product already, and we wanted him to resell it to his client base, then that's a whole different argument, you know, in the conversation.
+[SPEAKER_05]: like if it's a client that we don't you don't know what they need and it's a discovery call then it's more about asking them and you know making sure that you do fund the link questions you know like a great example is if i'm speaking to a prospective client and they say to me oh i checked out your details i'd love to have a chat i say okay we'll have a chat
+[SPEAKER_05]: talk a bit more about what they need and the first question is okay um you know sorry the first question I have to them is tell me a bit more about your current challenge um or another classic one I've seen someone talk about it say tell me about your worst Tuesday you know tell me about your terrible day-to-day operation of your Tuesday and suddenly they go what do you mean and then you say to them well we want to understand a bit more about you know
+[SPEAKER_05]: What is the pain right now of your day to day operations of that specific day?
+[SPEAKER_05]: And then you start funneling further and further and further as they explain a bit more.
+[SPEAKER_05]: But, um, the thing is for me, um, and it's quite difficult because I haven't done any cold meetings or anything like that in probably almost two years because of my personal brand presence.
+[SPEAKER_05]: So yeah, I think I'm not so much of an expert to convince someone in like 30 minutes on a cold meeting.
+[SPEAKER_01]: Well, but.
+[SPEAKER_01]: Okay, so let me expand upon this idea for just a second while more people are joining.
+[SPEAKER_01]: If you frame your content by creating a narrow niche, I do personal branding, I target executives who are trying to help their company, executives and leaders, who are trying to help their company grow valuation-wise by creating a personal brand.
+[SPEAKER_01]: If you are in that box, you're like, what did you say and how does that work?
+[SPEAKER_01]: And if you're outside that box, you might go, what are you talking about, right?
+[SPEAKER_01]: Different perspective, totally fine.
+[SPEAKER_01]: I still get people asking me all the time, what do you mean?
+[SPEAKER_01]: Well, a company that has a leader with a visible, credible, personal brand,
+[SPEAKER_01]: increases their valuation because the customers like them more, customers trust the product more because people buy from people, they don't buy from brands.
+[SPEAKER_01]: And so people buy from people, therefore if you're personable, if you're a person, if they like what you're saying or they know you or they just have an awareness of you, you get a bump in credibility in every single category.
+[SPEAKER_01]: Valuation, purchase, purchase price, total volume, total, everything, right?
+[SPEAKER_01]: Retention, secondary sales, all of this stuff is a benefit because you have a personal brand.
+[SPEAKER_01]: We buy Alex Hermosi's books because we've seen the big, hairy, awesome guy on everything everywhere.
+[SPEAKER_01]: Okay, so then you go, I like what he says, I'll buy his book.
+[SPEAKER_01]: Same kind of thing.
+[SPEAKER_01]: narrow framing the question.
+[SPEAKER_01]: This is what I'm doing.
+[SPEAKER_01]: Therefore, if you're inside that box, cool, you're my ideal customer.
+[SPEAKER_01]: If you're outside the box, cool, I'll tell you who my ideal customer is.
+[SPEAKER_01]: So if you know anyone, you can let them know.
+[SPEAKER_01]: And if you follow the path that Hermozi says, which by the way, I really like Alex Hermozi, in case you didn't know.
+[SPEAKER_01]: Reach out to 100 people for 100 days, that's 10,000.
+[SPEAKER_01]: So create an ICP of 10,000 ideal customers.
+[SPEAKER_01]: Reach out to them, DM them, create a relationship with each of them, 100 every day for 100 days.
+[SPEAKER_01]: You'll have customers, you'll have business.
+[SPEAKER_01]: And so then the question is, well, who's my ideal customer?
+[SPEAKER_01]: Squeeze your niche, narrow it down.
+[SPEAKER_01]: Well, what do I offer?
+[SPEAKER_01]: What is the problem that, what's the overlap between that list of targeted customers and your superpower, your core competency, the three content ideas that you want to be known for, the three super words that are about you.
+[SPEAKER_01]: And Noah, you do AI automation for.
+[SPEAKER_01]: Exactly.
+[SPEAKER_01]: And so the point is, if you if you talk about those things, you can frame the conversation through your content, you can frame the conversation with your customers.
+[SPEAKER_01]: And you will, your customers will come in already inside the narrow niche.
+[SPEAKER_01]: And so you don't have to explain why it's important, you just have to explain what they do in order to achieve the outcome they are expecting.
+[SPEAKER_01]: And so you just eliminate 20 30% of your, your presentations, because
+[SPEAKER_01]: They already kind of know what you're doing and they're interested in whatever outcome you've described.
+[SPEAKER_01]: Yeah.
+[SPEAKER_05]: Yeah, exactly.
+[SPEAKER_05]: I mean, the thing is, you know, I started just selling AI solutions like chatbots, phone receptionists, and these things, and I realized that
+[SPEAKER_05]: Most people were doing the same thing at that point.
+[SPEAKER_05]: So I stopped selling those and I started posting content about how to build them.
+[SPEAKER_05]: Um, and then I started to get partnership requests from other big companies, like for examples, uh, Flowwise and some others, um, including Vercel as well, that started reaching out to me.
+[SPEAKER_05]: And then off the back of that, I started to niche down into more showing the value of not using AI.
+[SPEAKER_05]: Um, and also, and business process solutions.
+[SPEAKER_05]: So that's more where I've been involved in more recently, Andy of, of, you know, client deliverables like, um, you know, working with a recent client, which is a social media talent management agency.
+[SPEAKER_05]: You know, they're making multimillion dollars a month and, you know, um, I'm helping them build out a automation solution that makes sure that they don't have to do manual data entry.
+[SPEAKER_05]: That probably takes them 10 hours a week.
+[SPEAKER_05]: Amazing.
+[SPEAKER_05]: Now, we're not using AI for the solution, but we're using AI to allow us to optimize, to build a solution for them.
+[SPEAKER_05]: Yes.
+[SPEAKER_01]: Well, what you're doing is you're using AI in the analyst function and the architecture function, not in the solution function.
+[SPEAKER_01]: So as you solve the problem, you're using AI to help you get to the best architecture solution
+[SPEAKER_01]: quickly with AI instead of using AI to be the part of that solution stack.
+[SPEAKER_01]: Totally fine.
+[SPEAKER_01]: You're still using AI.
+[SPEAKER_01]: Just not using it the way they expect.
+[SPEAKER_01]: I posted on my TikTok channel earlier, and I even posted it on X, a brief discussion.
+[SPEAKER_01]: And basically what I'm saying is, in that video, you can go watch it.
+[SPEAKER_01]: But the video basically says, if you're not a human being right now and people know you as a human being today, in one to 12 to 24 months, AI will be so good it can take my picture and my voice, because there's hundreds of hours of my voice.
+[SPEAKER_01]: You can take my voice, take my picture, take and create a voice print of me, and then type in whatever you want and make me say anything.
+[SPEAKER_01]: Me, Andy.
+[SPEAKER_01]: Okay.
+[SPEAKER_01]: But that means you can do it for
+[SPEAKER_01]: The Prime Minister, the President of the United States, the pro tem of the Senate, and you can have any world leader say anything you want.
+[SPEAKER_01]: At some point, that quote-unquote personal brand
+[SPEAKER_01]: the trust will go away and unless you knew somebody back in the day like today, if you have a personal brand today and you're on Spaces and you talk to people and we know you're a human being, we are much more likely to trust you in the future because in the future you won't know whether it's me talking or just I'm typing in a response because I had a bad day and I don't have a voice.
+[SPEAKER_01]: You're not going to be able to tell the difference.
+[SPEAKER_01]: I won't be able to tell the difference.
+[SPEAKER_01]: The news will be untrustworthy.
+[SPEAKER_01]: it literally will be untrustworthy.
+[SPEAKER_01]: We, you won't.
+[SPEAKER_01]: No, it reminds me of the scene, do you ever see the movie Sneakers?
+[SPEAKER_01]: In the movie Sneakers, he said, well, who approached you?
+[SPEAKER_01]: And he shows the pictures of the guy in the limousine and he looks at him and he says, oh, I'm so sorry.
+[SPEAKER_01]: You won't know who to trust.
+[SPEAKER_01]: And that's what's gonna happen because AI is rapidly accelerating.
+[SPEAKER_01]: Remember, Noah, a year ago, we were talking about
+[SPEAKER_01]: How do we connect AI with databases?
+[SPEAKER_01]: In the AI Biz Hour show a year ago in October, November, we were worried about, well, how do we actually make the data go?
+[SPEAKER_01]: And now it's inherent, it's in every single tool.
+[SPEAKER_01]: We've had all of these tools show up and become available.
+[SPEAKER_01]: And they all integrate with each other.
+[SPEAKER_01]: They all can talk to each other.
+[SPEAKER_01]: The APIs are free or very, very low cost.
+[SPEAKER_01]: And it's, it is a remarkable space.
+[SPEAKER_01]: But it's also where you can create, you can start linking things together in a way that we haven't seen yet.
+[SPEAKER_01]: Exactly.
+[SPEAKER_01]: And the ability to create.
+[SPEAKER_01]: Okay, in the past, the movie CGI was amazing, we could create these images of
+[SPEAKER_01]: Starships flying through space and a big battle going on.
+[SPEAKER_01]: We could CGI a airliner crashing into a building, right?
+[SPEAKER_01]: But those things cost millions of dollars and huge amount of compute cycles.
+[SPEAKER_01]: Now that same type of computing possibilities and capability is available online for a few dollars.
+[SPEAKER_01]: few hundred dollars, you can recreate the exact same thing or better.
+[SPEAKER_01]: It is.
+[SPEAKER_01]: And it's going to it's going to become it's ubiquitous, right?
+[SPEAKER_01]: Everything all the time everywhere.
+[SPEAKER_01]: It's just going to become more and more and more everywhere we go.
+[SPEAKER_01]: And it's going to be remarkable.
+[SPEAKER_01]: The only thing you're ever true you shortly within
+[SPEAKER_01]: I think it's within two years, maybe sooner, five years for sure.
+[SPEAKER_01]: The only thing you're going to be able to trust is if you're sitting in an auditorium looking at a person who's walking around and shaking hands and proving they're not a hologram.
+[SPEAKER_01]: Then you can know for sure that that's the person that we're talking to.
+[SPEAKER_01]: Otherwise, you won't know.
+[SPEAKER_01]: And so you're just ahead of the curve by saying,
+[SPEAKER_01]: We're using the human element to do the solutioning.
+[SPEAKER_01]: We're using AI to help us do the engineering to get to the right architecture.
+[SPEAKER_01]: And then humans do the results.
+[SPEAKER_05]: Yeah, you're right.
+[SPEAKER_05]: I mean, to give you an idea of how crazy it is, like a year ago, you guys were talking about storage and memory in your spaces.
+[SPEAKER_05]: Um, and you know, today, you know, in just the weekend, last weekend, it's absolutely crazy.
+[SPEAKER_05]: I managed to take my last, since I had my chat GPT subscription.
+[SPEAKER_05]: So that's when the subscription came out.
+[SPEAKER_05]: Cause I was one of the early users almost four years ago.
+[SPEAKER_05]: Uh, whenever it, whatever it was, um, I pulled it all as a zip file.
+[SPEAKER_05]: I put it into, um, cursor and I made curse and make me a knowledge database about my entire chat.
+[SPEAKER_01]: You haven't run your chat bot full yet.
+[SPEAKER_01]: Your, your chat GPT.
+Oh,
+[SPEAKER_01]: I filled mine up three times.
+[SPEAKER_01]: So I filled it, and then did a summary of it, and then extracted everything to a zip file, and then took the summary and added it back into the chats, and added the chats I wanted to keep.
+[SPEAKER_01]: And then I kept going, and I filled it up again.
+[SPEAKER_01]: And then I did the same thing again, and then I filled it up again.
+[SPEAKER_01]: And I'm pretty close to doing it the third time.
+[SPEAKER_01]: And I also do, so the only thing I don't like is,
+[SPEAKER_01]: I like the voice function to a degree, but the voice function with ChatGPT it limits you to an hour of advanced voice conversations per day.
+[SPEAKER_01]: Grok doesn't.
+[SPEAKER_01]: Although the ChatGPT can read everything in your history, Grok can only read everything in that thread.
+[SPEAKER_01]: So I have three or four threads that are maxed
+[SPEAKER_01]: all the way to you know couple hundred thousand tokens they're like full and as soon as I start to add something else to it glitches on me so anyway I use it a lot and I use it like you're like you were describing I use it to narrow down
+[SPEAKER_01]: The ICP, the target audience, the most likely place they're going to be, the most likely times they're online.
+[SPEAKER_01]: I go check against other people doing things and then I go back and I run the thread again to make sure that
+[SPEAKER_01]: just because chat GPT said so or grok said, that's a good idea.
+[SPEAKER_01]: It doesn't mean it is.
+[SPEAKER_01]: It just means that it took your current framed conversation and said, yeah, that's a good idea.
+[SPEAKER_01]: Inside the frame, it doesn't say it out loud, but the inside is inside the frame of what you just said, that's a good idea.
+[SPEAKER_01]: I'm like, well, maybe my frame is wrong.
+[SPEAKER_05]: Yep.
+[SPEAKER_05]: So I've added in the Jumbotron in the purple pill, a screenshot of what I am talking about.
+[SPEAKER_05]: Awesome.
+[SPEAKER_05]: So if anyone's interested, it's in the Jumbotron, I've taken a quick screenshot.
+[SPEAKER_05]: So all that is, is just the conversations and the topic of programming.
+[SPEAKER_05]: That's just one topic.
+[SPEAKER_05]: The last four years, how many times I looked into programming.
+[SPEAKER_05]: Wow.
+[SPEAKER_00]: That's cool.
+[SPEAKER_00]: I'm looking at it right now.
+[SPEAKER_00]: I'm like, man, that's amazing.
+[SPEAKER_04]: It's amazing.
+[SPEAKER_01]: it's uh yeah it's it's very interesting the uh to me reframing the so framing the conversation is about defining the boundary of what you want the answer to be that's really what i mean so if you're having a conversation with someone and you say something like i like i prompted noah by saying let's talk about ai and how you use it in context of your business
+[SPEAKER_01]: All of a sudden you take that information and move forward.
+[SPEAKER_01]: Do you want to know a particular technique in order to make this like 10 or 100 times more effective?
+[SPEAKER_05]: Yeah.
+[SPEAKER_05]: I think so.
+[SPEAKER_05]: I just love to see the visualization.
+[SPEAKER_05]: Yeah, you ask too.
+[SPEAKER_05]: It's like, like, Oh, so I'm just putting the other one, the Jumbotron.
+[SPEAKER_05]: This one's awesome.
+[SPEAKER_00]: The, the way to wow.
+[SPEAKER_00]: I love those visuals.
+[SPEAKER_00]: Those are so cool.
+[SPEAKER_00]: The wow.
+[SPEAKER_01]: I love that, man.
+[SPEAKER_01]: Talk about.
+[SPEAKER_05]: Linking together me if you want me to open source that you can DM me Andy I'll set it up for you if you want Wow, that's awesome.
+[SPEAKER_05]: Um, huh the Visualizing your journey of education and knowledge.
+[SPEAKER_05]: You can't just put a number you can't just yeah, it's I don't know how to describe the feeling of that That was last weekend's fun.
+[SPEAKER_05]: Wow That is really cool
+[SPEAKER_01]: Amazing.
+[SPEAKER_05]: And it goes to leading conversation by framing, I think, because the whole point of, you know, when you're when you're conversating with someone is you're trying to have a connection with them and find a way that there's common ground.
+[SPEAKER_01]: Sort of.
+[SPEAKER_01]: That's one objective in conversation.
+[SPEAKER_01]: It's not always the objective.
+[SPEAKER_01]: Sometimes the objective is, I have a gap.
+[SPEAKER_01]: Can you please
+[SPEAKER_01]: tell me what I have so that I can at least have some kind of reference to what you're talking about.
+[SPEAKER_01]: You're using vocabulary words I don't really know what they are.
+[SPEAKER_01]: Help me understand what that is.
+[SPEAKER_01]: Give me context.
+[SPEAKER_01]: And so that's a lot of the time what I'm doing when I'm asking questions is how do I get context with how do I encourage you to give me the context of the gaps that I have?
+[SPEAKER_01]: Because if I have gaps, I don't know the gaps I have.
+[SPEAKER_01]: I don't know the right vocabulary to use to fill the gaps, and I don't really know how to ask the right question.
+[SPEAKER_01]: Because if I don't have the vocabulary or the way to describe it, I'll just fumble around.
+[SPEAKER_01]: And so what, if you notice, I fumble a lot, but that's because I'm trying to fill the gaps of things I don't know.
+[SPEAKER_01]: And you can't describe the thing.
+[SPEAKER_01]: It's like, how does a blind person describe the color red?
+[SPEAKER_01]: There's no context, right?
+[SPEAKER_01]: They have no ability to have the context for the color, the difference between the color red and the color green or the color yellow and blue or purple.
+[SPEAKER_01]: They just know the words and they imagine something in their mind based on only the context that they have.
+[SPEAKER_01]: Right?
+[SPEAKER_01]: And so when you're trying to fill a gap, you recognize there's, oh, there's people using words I don't know what they mean.
+[SPEAKER_01]: tell me what those words mean.
+[SPEAKER_01]: Now that gives a, uh, like a wireframe of context.
+[SPEAKER_01]: And then you can use those vocabulary words to ask other questions as intelligently as you're capable, which usually is badly, but at least you're using the right kind of words.
+[SPEAKER_01]: And then people will correct you.
+[SPEAKER_01]: You add that to your own brain knowledge base.
+[SPEAKER_01]: And then eventually,
+[SPEAKER_01]: the synapses connect and you make the connection between ICP vocabulary and ideal customer profile and audience and customer, same thing.
+[SPEAKER_01]: The ideal customer is my audience.
+[SPEAKER_01]: The audience is them plus other people who are interested in what I'm talking about, right?
+[SPEAKER_01]: That's how you start to build this framework of leading questions, which allows you to frame the question in order to get more information in the places you have gaps.
+[SPEAKER_01]: So leading questions, everyone uses them.
+[SPEAKER_01]: Everyone does them.
+[SPEAKER_01]: Everyone answers things in their way.
+[SPEAKER_01]: My only point is to help everybody be aware that when you ask a question and you frame it, you are
+[SPEAKER_01]: Communicating to the other person, I'm only looking for answers in this, within the frame, which means the other person, because we're all people pleasers and want to communicate effectively, they will instantly frame their question within that same frame so that you guys can be more effective in your communication.
+[SPEAKER_01]: And this happens at scale levels that are amazing when you talk about large presentations to the country,
+[SPEAKER_01]: via TV, radio, whatever.
+[SPEAKER_01]: What is the frame of the conversation when you create a TikTok video?
+[SPEAKER_01]: Or when we're here on the call and I say, hey, let's talk to Netta or let's talk to Brenda or let's talk to Luis or Patricia.
+[SPEAKER_01]: Every one of them will have their own mindset.
+[SPEAKER_01]: And then if I ask a framed question,
+[SPEAKER_01]: Okay, tell me about your wins for the week.
+[SPEAKER_01]: Tell me about how you lead a conversation.
+[SPEAKER_01]: Tell me one time that you felt led in a conversation or only realized it three or four or five steps down the road instead of right at the beginning.
+[SPEAKER_01]: Now, what I'm doing is I'm saying, don't tell me about the 99% of the other stuff.
+[SPEAKER_01]: Focus on this one thing and tell me about this one answer.
+[SPEAKER_01]: And if you've ever noticed, very effective communicators do that step so seamlessly and easily that you want to share with them the answers.
+[SPEAKER_01]: You want to tell them the story.
+[SPEAKER_01]: And you probably have that same experience when you have eager customers.
+[SPEAKER_01]: and you start telling them the story and they're just nodding along going, yeah, yeah, yeah, okay, well, how do we do this other part?
+[SPEAKER_01]: What goes on over here?
+[SPEAKER_01]: How do we get to that point?
+[SPEAKER_01]: Or what do we get to the objective?
+[SPEAKER_01]: And you can just then frame the next question, give them the next answer, and it fills in the gap that they have, because that's what they're really looking for.
+[SPEAKER_04]: Yep, 100%.
+[SPEAKER_01]: Yeah.
+[SPEAKER_01]: It is both.
+[SPEAKER_01]: Everyone uses it every day.
+[SPEAKER_01]: It's not good or bad.
+[SPEAKER_01]: It is simply a tool.
+[SPEAKER_01]: If you're aware of it, you can agree or disagree with the frame of the question.
+[SPEAKER_01]: If you're unaware, you will always answer within the frame of the question.
+[SPEAKER_01]: But what will happen is,
+[SPEAKER_01]: and everyone's experienced this, so let me explain how this works secondly.
+[SPEAKER_01]: If I frame a question you don't have any context with, if I say, tell me a time when the stakeholders got upset, what are you talking about?
+[SPEAKER_01]: Are you talking about, you know, and then you would, you instantly have that pause and the question about stakeholder in what context, in what way, and you will, in your brain,
+[SPEAKER_01]: try to find it's like I gave you fog and you're trying to find your way through the fog so that you and you ask questions about stakeholder what do you mean stakeholder you mean like software stakeholder when we're delivering a product yes exactly that's what I meant okay now we have explanation we have context we have answers and we have
+[SPEAKER_01]: a way for that frame now to take hold in the responder's mind and now they can answer the question.
+[SPEAKER_01]: Otherwise, this is why communication is the hardest part.
+[SPEAKER_01]: It's why I'm the most fascinated with it.
+[SPEAKER_01]: It's also why it's the most valuable thing to develop.
+[SPEAKER_01]: Of all the skills you have in the entire world, the most important skill you can develop is communication.
+[SPEAKER_01]: Without question.
+[SPEAKER_01]: There is no second.
+[SPEAKER_01]: You can think strategically, but if you can't communicate it, it's irrelevant.
+[SPEAKER_01]: You can be the strongest person in the world, but without being able to communicate, you end up just being a big mule.
+[SPEAKER_01]: If you can see strategically exactly what's going to happen next, but have the inability to communicate it,
+[SPEAKER_01]: you'll get relegated as a quack or a psycho or a idiot.
+[SPEAKER_01]: And then when whatever you said comes true, they'll think that you were lucky or stupid or, or insane or whatever, but without the ability to communicate to other people, you are at a severe disadvantage.
+[SPEAKER_01]: And if you are one of the beautiful people who are here from another country and you want to do business in the United States,
+[SPEAKER_01]: The most important thing you can do is work on your English American accent, or at least your English, so that you can converse with people and understand the American way of speaking and structure and thinking.
+[SPEAKER_01]: If you want to do work with people in the UK, you need to understand how they work, how they think, how they talk.
+[SPEAKER_01]: It's critical, right?
+[SPEAKER_01]: If you're in France, you need to learn how French people speak, how they think, because how people think and how they speak are the same.
+[SPEAKER_01]: If you're in Germany and you start to speak German, eventually you'll think in German, but that will change the way you think, because the way the language is,
+[SPEAKER_01]: They move the verbs and conjugate things all in different ways.
+[SPEAKER_01]: If you're in Turkey, you'll be able to speak perfectly, and yet the harmonization of the vowels and the harmonization of the endings will cause you stress.
+[SPEAKER_01]: So if you really want to be effective in the area in which you're working, you must, must learn the language of your audience.
+[SPEAKER_04]: Definitely.
+[SPEAKER_04]: Fully agree.
+[SPEAKER_05]: Yeah.
+[SPEAKER_05]: Yeah.
+[SPEAKER_05]: Um, yeah, it's, it's really interesting to learn and listen into your UX space.
+[SPEAKER_05]: Um, I mean, it's so important to focus on distribution and go to market strategy and sales nowadays more than ever, you know, all the technical parts are very important, but nowhere near as important as sales.
+[SPEAKER_01]: Yeah.
+[SPEAKER_01]: You know, ironically,
+[SPEAKER_01]: I work as a, I've worked and been paid as a project manager, program manager for a long, long time.
+[SPEAKER_01]: Okay.
+[SPEAKER_01]: I've come to realize that the two most important skill sets you can develop as a project manager are communication and influence.
+[SPEAKER_01]: And that is what I'm describing today.
+[SPEAKER_01]: I'm describing influence in a way that you can use language to clearly influence other people.
+[SPEAKER_01]: And I'm just calling it framing the question.
+[SPEAKER_01]: The way to lead a conversation is to ask.
+[SPEAKER_01]: And the best way to ask a question is to frame it.
+[SPEAKER_01]: Not everything, not all things, not even a lot of things.
+[SPEAKER_01]: Can you tell me about this one little tiny thing?
+[SPEAKER_01]: Oh, that's amazing.
+[SPEAKER_01]: Response, confirmation, ask another question.
+[SPEAKER_01]: Did you mean this one?
+[SPEAKER_01]: Give me a little more on that.
+[SPEAKER_01]: Boom, give me more.
+[SPEAKER_01]: And then you confirm it.
+[SPEAKER_01]: Wow.
+[SPEAKER_01]: I've had that same thing happen right over here.
+[SPEAKER_01]: So let's, and if you are a student of communication and influence, because as a project manager, I've never been able to fire anyone directly.
+[SPEAKER_01]: No one has ever worked for me.
+[SPEAKER_01]: I've never signed a time card.
+[SPEAKER_01]: I have approved invoices.
+[SPEAKER_01]: but I've never signed a time card, I've never been able to fire someone, I've never written a performance review, no one has ever worked directly for me, which means every project I have led has been with influence alone.
+[SPEAKER_01]: It is the only tool and lever that I have at my disposal.
+[SPEAKER_01]: It's the only club in my golf bag.
+[SPEAKER_01]: Communication is the golf bag and the tool
+[SPEAKER_01]: is influence.
+[SPEAKER_01]: That's it.
+[SPEAKER_01]: And you can lead teams and you can change the world by using your voice, communicating, and framing the question.
+[SPEAKER_01]: Patricia, I keep trying to add you, but it doesn't add you.
+[SPEAKER_01]: Netta, I tried to add you too, but
+[SPEAKER_01]: The invitations something either my version of X has been upgraded and I didn't click the phrase It's X Fridays.
+[SPEAKER_01]: Usually it works up sometimes.
+[SPEAKER_01]: I think I Mean, it's kind of like the Microsoft release schedule, right?
+[SPEAKER_01]: They go on there the first Tuesday of every month and or the second Tuesday of every month and that this week they went on a Monday so, you know, that's how bad it is something's broke and they had to fix it ah and
+[SPEAKER_01]: I see Netta is here.
+[SPEAKER_01]: Hello, Netta.
+[SPEAKER_01]: How are you doing on this beautiful afternoon on a Friday?
+[SPEAKER_02]: I'm doing good, but I'm working.
+[SPEAKER_00]: Yes, wonderful.
+[SPEAKER_00]: Isn't that good?
+[SPEAKER_00]: It's a good thing.
+[SPEAKER_02]: It's great.
+[SPEAKER_02]: I wish.
+[SPEAKER_02]: Anyway, I just had something to say.
+[SPEAKER_02]: Thank you for attempting to invite me when I saw it.
+[SPEAKER_02]: When you told me, I jumped up.
+[SPEAKER_02]: But as I was hearing the conversation, it's important to also address the nonverbal communication as well, aka the body language.
+[SPEAKER_02]: I think that when two people communicate, whether it be verbally or nonverbally, there is a dance that happens.
+[SPEAKER_02]: So yeah, let's address that.
+[SPEAKER_01]: Yes, absolutely.
+[SPEAKER_01]: If we are communicating in person, body language is 60% of the communication.
+[SPEAKER_01]: Tone, pace, emphasis, loudness, all of that is 30% of the other remaining.
+[SPEAKER_01]: And the words you actually use are 10% of the communication, which is why speaking is more impactful than writing or reading.
+[SPEAKER_01]: But writing and reading is more impactful than nothing.
+[SPEAKER_01]: So from zero to 10% words, written words in the best way possible.
+[SPEAKER_01]: But if they can be read to you, you get more of the inflection and the cadence and the emphasis because of the way that we say it.
+[SPEAKER_01]: And then if you're seeing them in person,
+[SPEAKER_01]: you can see the body language of, you know, the uprightness of the stance, the directionality of your person, how close you are, that if you're too close in the personal space, it's affronting, it's aggressive.
+[SPEAKER_01]: If you're back a little bit, you're still kind of in that, right, there's an intimate space, a personal space, and then a
+[SPEAKER_01]: presentation space and then a, you know, far away kind of thing.
+[SPEAKER_01]: And there's like four, four kind of places.
+[SPEAKER_01]: And
+[SPEAKER_01]: you know, ironically on zoom or whatever, if you put your big face right up on the camera, it's almost as if you are too close in the personal space, which is why if you've noticed mine, you can always see more of my background.
+[SPEAKER_01]: Hopefully you can see my shoulders.
+[SPEAKER_01]: So it's more like instead of just from my neck to my head, it's more like a bust from my chest, my shoulders, arms, you can see my hands move.
+[SPEAKER_01]: Um, and I do that on purpose because
+[SPEAKER_01]: If we were in person, I wouldn't be nose to nose with you.
+[SPEAKER_01]: I would be arms reach away or a little further.
+[SPEAKER_01]: And then if we were acquaintances in a group, we might be another five or six feet away from each other, which means that your perspective of me is further and further and further away, which creates more safety in communication.
+[SPEAKER_01]: But yes, you are absolutely right.
+[SPEAKER_01]: Nonverbal communication is
+[SPEAKER_01]: 60% of it tone and the audio is 30%, the words are 10%.
+[SPEAKER_01]: Roughly, it's not exactly that, but it's a whole lot easier to count up to 100 by, you know, 60, 30, 10 than it is to, you know, eight and a half and 27 and 64, but whatever, something along those lines.
+[SPEAKER_01]: How do you frame conversations?
+[SPEAKER_01]: I know you work in the product management space, so you help teams understand the urgency of the product, what it does, how it impacts the users.
+[SPEAKER_01]: How do you use this kind of a technique in your day-to-day life?
+[SPEAKER_02]: Are you asking me?
+[SPEAKER_02]: Yes, I work in release management, but I have done some product management in the past.
+[SPEAKER_01]: And, okay, in your release management, which means coordinating a lot of activity for those people that don't know, coordinating a lot of activities, so that all the software can be moved from environment to environment at a specific schedule time.
+[SPEAKER_01]: That's pretty much release management.
+[SPEAKER_02]: You couldn't have said it any better.
+[SPEAKER_02]: So how do I make sure that the important actions get done in a timely fashion?
+[SPEAKER_01]: Or how do you use framing of questions to lead the conversation so that you can get everything all kind of set up and ready to roll?
+[SPEAKER_01]: Have you thought about that?
+[SPEAKER_02]: I have.
+[SPEAKER_02]: I lead with kindness.
+[SPEAKER_02]: But I'm patient too.
+[SPEAKER_02]: Well, I customize my language depending on who I'm talking to.
+[SPEAKER_02]: Obviously, to an executive director, I will not send an emoji.
+[SPEAKER_02]: But what I will say is, depending on who I'm talking to, depending on the urgency, my language will defer.
+[SPEAKER_02]: I'm not saying I'll be professional at all times, but if, for example,
+[SPEAKER_02]: There's a requester that I've followed up with him four times and it got to a point where I had to tell him this is the fourth time I had to bold the word fourth.
+[SPEAKER_02]: uh, in my message and tell him I need a follow up.
+[SPEAKER_02]: I need a response.
+[SPEAKER_02]: And I emailed him a message.
+[SPEAKER_02]: Um, and I made sure everyone else saw it and I made sure that we have an urgent request that requires your attention.
+[SPEAKER_02]: So once again, if I see someone is not paying attention to what I'm saying,
+[SPEAKER_02]: Well, the letters are going to be bolded, they're going to be in red, and I'll make sure it gains more visibility, right?
+[SPEAKER_02]: Also depends on a category of request, urgency of the request, and so on and so forth.
+[SPEAKER_02]: So there's a lot of things that I need to take into consideration.
+[SPEAKER_02]: I work for, without going into too much details, I work for a company that has 110,000 employees.
+[SPEAKER_02]: So bear in mind, and it's very international, so I need to take into consideration cultural differences, different style of, you know, different, every country has like a different work ethic depending on their culture.
+[SPEAKER_02]: You know what I mean?
+[SPEAKER_02]: So there's a lot of nuances as well.
+[SPEAKER_02]: So it's not gray, and it's not black or white.
+[SPEAKER_02]: You know what I mean?
+[SPEAKER_01]: Yes, it's never black and white.
+[SPEAKER_01]: It's always some shade of gray.
+[SPEAKER_01]: Some people are happy in the gray.
+[SPEAKER_01]: Some people like me always try to push it one way or the other doesn't matter to me if it's, you know, goes towards the, the, you know, plus sign or the negative sign it, you know, it's either going to be on the positive
+[SPEAKER_01]: plane or the negative, it doesn't matter because a magnet works, you just flip it around if it goes the other way.
+[SPEAKER_01]: But I'm not happy with everything being in the center and it being fluidly movable.
+[SPEAKER_01]: I prefer things to be definitive so that they can have, so that if they go wrong, we know exactly how to fix it.
+[SPEAKER_01]: If everything is gray and something goes wrong, we speculate on how to fix it and then we have to test.
+[SPEAKER_01]: I prefer things to be
+[SPEAKER_01]: Polared so that it doesn't matter where it goes.
+[SPEAKER_01]: It just matters that we know it is specifically this is a positive test or a negative test for example and If the negative test was inconclusive, we know we need to go focus more time there That that's really the only reason why I prefer the polar kind of communication.
+[SPEAKER_01]: That's why it my unfiltered newsletter works so well because
+[SPEAKER_01]: There's no gray.
+[SPEAKER_01]: Sometimes it's all the negative pole on the magnet, and sometimes it's all the positive pole on the magnet, and if you bounce them together, they bounce away.
+[SPEAKER_01]: If you turn them together, they smack each other and don't come apart.
+[SPEAKER_01]: But they're definitely polared, and they definitely have a perspective every time.
+[SPEAKER_01]: I think that's important from a communication perspective.
+[SPEAKER_01]: I've found that
+[SPEAKER_01]: With, like I said before, the only tool I truly have is leverage.
+[SPEAKER_01]: I mean, the only leverage I currently have is influence.
+[SPEAKER_01]: If influence is the only tool, I want that influence to be obvious and direct so that it can have the most impact.
+[SPEAKER_01]: If the leverage is just everybody's nice, cool, but when, you know, if the storm comes and we're all about to sink on the ship,
+[SPEAKER_01]: I want to be able to have everyone instantly respond if we all need to get below deck I don't want everyone to go what what did you say?
+[SPEAKER_01]: I want them to say okay and jump below deck and make sure that we're all safe and then we'll figure out what to do next and that requires polar communication anyway, I see Cameron has Accepted this the micro quest.
+[SPEAKER_01]: I haven't talked to you for a while.
+[SPEAKER_01]: How you doing today Cameron?
+[SPEAKER_03]: Doing excellent, thanks.
+[SPEAKER_03]: It's very cool to see you leading the conversation with with a question.
+[SPEAKER_03]: I'm always a big fan of the practical nature of communication and being able to bridge just unfamiliar things and rather than making statements or claims, sometimes asking questions creates that nice necessary tension.
+[SPEAKER_03]: Wouldn't you agree?
+[SPEAKER_01]: I do agree 100% and I've learned from
+[SPEAKER_01]: Chris Voss in the book, Never Split the Difference, the FBI negotiator.
+[SPEAKER_01]: It's a fantastic book, everybody should read it, 100%, you should totally read it, you should go get it.
+[SPEAKER_01]: I don't have an Amazon link, but I would love one if you guys would, anyway, but just go buy the book and get it.
+[SPEAKER_01]: But here's a crazy thing.
+[SPEAKER_01]: If I ask you, why did you do that?
+[SPEAKER_01]: You instantly have a negative response.
+[SPEAKER_01]: I'm gonna defend myself because you're attacking me, no matter what it is that I'm asking.
+[SPEAKER_01]: Even if my intent is truly, hey, can you tell me why this is going on?
+[SPEAKER_01]: I don't understand.
+[SPEAKER_01]: The word why creates a negative response.
+[SPEAKER_01]: Because everything was, when you were a kid, was like, why did you do that?
+[SPEAKER_01]: Why did you do this?
+[SPEAKER_01]: What happened here?
+[SPEAKER_01]: And a better way to do it is to say, what's happening?
+[SPEAKER_01]: How did we get to this point?
+[SPEAKER_01]: It accomplishes the same result.
+[SPEAKER_01]: I get the answer of whatever I'm trying to find, but without you being instantly defensive with it.
+[SPEAKER_01]: So yes, asking questions is fantastic, but if you ask with why, you should, by the way, you should stop doing that.
+[SPEAKER_01]: You should never say, why did this happen?
+[SPEAKER_01]: It is purposely, here's the only time to use the word why.
+[SPEAKER_01]: And that is when you know for sure what you're about to ask, they're going to defend in the way that makes them look great.
+[SPEAKER_01]: Okay?
+[SPEAKER_01]: So if you wanna make people look great, say, why did this happen so that they look so like an idiot?
+[SPEAKER_01]: Well, because I did this cool thing.
+[SPEAKER_01]: Okay, cool, awesome, right?
+[SPEAKER_01]: Otherwise, everything else should be a how and a what question.
+[SPEAKER_01]: What conditions contributed to this?
+[SPEAKER_01]: How did we get in this situation?
+[SPEAKER_01]: Okay, I understand, how can we fix it?
+[SPEAKER_01]: How do you think we should do it?
+[SPEAKER_01]: What steps do you think we should take?
+[SPEAKER_01]: Which way should we go?
+[SPEAKER_01]: Where are all the tools?
+[SPEAKER_01]: Do we have any idea what's happening?
+[SPEAKER_01]: These are great questions.
+[SPEAKER_01]: Especially if you are trying to lead from an influence perspective, this is the way to do it.
+[SPEAKER_01]: I'm speaking from decades of experience.
+[SPEAKER_01]: This is the way.
+[SPEAKER_01]: As soon as you say, why did this happen, innocently, totally without malice, and just really trying to understand, you will get a defensive response.
+[SPEAKER_01]: So just don't go there.
+[SPEAKER_03]: You know, it's clear that you do speak from experience, and I'm glad that you brought up all of the question words.
+[SPEAKER_03]: You know, you can imagine a journalist that's asking the who, what, when, what, why, how, which, do you, I mean, it's kind of fun to choose a topic.
+[SPEAKER_03]: and then to ask all of those question words at the same time to yourself.
+[SPEAKER_03]: It's actually very pragmatic, but there is a caution.
+[SPEAKER_03]: Like you said, it creates a necessary tension
+[SPEAKER_03]: And questions are probing and I've observed that anybody who's asking the questions, they're actually in charge of the conversation.
+[SPEAKER_03]: They're the dominant one, which is kind of funny to think when you have like an employee or an intern.
+[SPEAKER_03]: that's asking their boss repeated, repeated questions.
+[SPEAKER_03]: It's dominating the conversation in a negative way.
+[SPEAKER_03]: But that being said, it is kind of empowering for everyone here.
+[SPEAKER_03]: I see familiar faces like Fabio, Edwin, Brenda, Nita.
+[SPEAKER_03]: How are you doing, guys?
+[SPEAKER_03]: It's like, when you ask questions,
+[SPEAKER_03]: It's a great way of being able to practice assertiveness, you know, giving a proposition forward and then being reminded that you're actually the one in charge when you actually ask the questions.
+[SPEAKER_01]: Yes, absolutely.
+[SPEAKER_01]: However, the caution is don't ask the why questions or that will create defensiveness and negativity.
+[SPEAKER_01]: So if you, if you ask,
+[SPEAKER_01]: What's happening?
+[SPEAKER_01]: Where's it going?
+[SPEAKER_01]: What do we do?
+[SPEAKER_01]: How did we fix this?
+[SPEAKER_01]: What do you think we should do about it?
+[SPEAKER_01]: And we turn it on asking for their advice.
+[SPEAKER_01]: That's what I typically do.
+[SPEAKER_01]: What do we do?
+[SPEAKER_01]: What happened?
+[SPEAKER_01]: I'll give you a practical example.
+[SPEAKER_01]: So this week on one of my projects, the architects have always built this particular service request.
+[SPEAKER_01]: But there was a change.
+[SPEAKER_01]: I probably missed it somewhere.
+[SPEAKER_01]: And for two weeks, I said, well, you know, who's gonna, who's gonna get this done?
+[SPEAKER_01]: Or how is this gonna happen?
+[SPEAKER_01]: Which person do we assign it to?
+[SPEAKER_01]: And they were all kind of like, what do you mean?
+[SPEAKER_01]: And so in the meeting I had earlier this week, I said, it seems like you guys are expecting me to, am I supposed to be doing this?
+[SPEAKER_01]: Yes.
+[SPEAKER_01]: Oh man, I must have missed that.
+[SPEAKER_01]: Let me let me go fit.
+[SPEAKER_01]: And you know, like in a day, okay, okay, I've got it all done.
+[SPEAKER_01]: Here we go.
+[SPEAKER_01]: Take a look at it.
+[SPEAKER_01]: But it was all because I missed it.
+[SPEAKER_01]: I didn't know that's what they wanted.
+[SPEAKER_01]: That particular team that my role does that piece of the pie.
+[SPEAKER_01]: In my other teams, the architects do that piece of the pie.
+[SPEAKER_01]: And okay,
+[SPEAKER_01]: No big deal.
+[SPEAKER_01]: But if I would have said, why isn't this happening?
+[SPEAKER_01]: It would have been, Andy, cause you're an idiot.
+[SPEAKER_01]: You didn't do it.
+[SPEAKER_01]: Oh, and then, you know, asking the question that if you ask it in a softer way, you're perceived as trying to get to an answer.
+[SPEAKER_01]: If you ask a why question, why question will give you the polar response.
+[SPEAKER_01]: So you, it is, it is the last question you ask.
+[SPEAKER_01]: It's the one that you use when you need to get everybody out of the theater when there's fire.
+[SPEAKER_01]: It's the one that you need to get everybody below deck when there's a storm.
+[SPEAKER_01]: It's not the one you use every day to find out if we're doing all the right things or not.
+[SPEAKER_01]: So framing the question, you will lead a conversation by framing the question, absolutely.
+[SPEAKER_01]: You will create
+[SPEAKER_01]: And I see Michael, thanks for requesting.
+[SPEAKER_01]: I'm going to get you a speaker, but I'm not going to be able to go to you because I'm going to have to leave in two minutes because I have another meeting.
+[SPEAKER_01]: I have an executive meeting.
+[SPEAKER_01]: I know, Friday's at one o'clock, really.
+[SPEAKER_01]: But I've got a meeting in two minutes.
+[SPEAKER_01]: But leading a conversation by asking questions and helping people understand the best way you're trying to receive the information is by framing the question.
+[SPEAKER_01]: putting a boundary around it, asking it with conditions.
+[SPEAKER_01]: That's what framing the question means.
+[SPEAKER_01]: What kind of food do you want tonight?
+[SPEAKER_01]: I can't go out.
+[SPEAKER_01]: I don't have enough time.
+[SPEAKER_01]: We'll have to either eat in or I'll have to get it brought.
+[SPEAKER_01]: That's framing the question.
+[SPEAKER_01]: Because otherwise it could be, let's all get dressed up and go sit and stand in line for 35 minutes and then go sit somewhere.
+[SPEAKER_01]: Okay, but if you can't do that, you frame the question.
+[SPEAKER_01]: Lead conversations.
+[SPEAKER_01]: When you frame the question, you will change the other person's mind and narrow their capabilities of responding to you into a little tiny space.
+[SPEAKER_01]: If you do it too much, they'll push back you and say, I don't understand what you're asking.
+[SPEAKER_01]: Fine, you can, that's, again, still conversation, but framing the question will definitely change the mind of the other person without a doubt.
+[SPEAKER_01]: and we all do it, and we are all, people do it to us all the time.
+[SPEAKER_01]: This isn't a good or bad thing, this is just a tool.
+[SPEAKER_01]: You can use it for good, you can use it for evil.
+[SPEAKER_01]: But now that you have had this discussion and this time, you should at least be aware of it.
+[SPEAKER_01]: And now that you're aware of it, you can see it happening, and watch
+[SPEAKER_01]: whatever your favorite TV show or movie or whatever it is, you will see it happen.
+[SPEAKER_01]: It is in every single human communication.
+[SPEAKER_01]: Every time they say because or and anytime they add to their question, they're framing the question and expecting you to respond within that frame.
+[SPEAKER_01]: It is critical for communication.
+[SPEAKER_01]: It is a massively amazing tool and we use it every day, but most people are unaware of what I've just described for the last hour.
+[SPEAKER_01]: I recommend that you listen to this again, you go back, take notes.
+[SPEAKER_01]: Ask me questions.
+[SPEAKER_01]: If you want more information, if we want to have a seminar on this, I'd love to go through and describe exactly how to create positive influence, how to create more things.
+[SPEAKER_01]: If you need people to be upset, you can instantly twist them and make them upset by framing the questions in a certain way.
+[SPEAKER_01]: And it is simply a communication technique, but most people are just unaware.
+[SPEAKER_01]: Anyway, please take this information.
+[SPEAKER_01]: I share this all out of my deep, deep and heartfelt desire that you create your own business, that you become a sovereign entity of your own, that you make enough money to handle yourself, your family, your community, and deal with any of the other financial situations that you see in the world that you have an importance on.
+[SPEAKER_01]: I think that it's critical for you to be successful in your life.
+[SPEAKER_01]: I think it's critical for men to be successful, for the world to be a better place.
+[SPEAKER_01]: That is my opinion.
+[SPEAKER_01]: I love ladies.
+[SPEAKER_01]: I appreciate you.
+[SPEAKER_01]: If you want to be a business, go for it.
+[SPEAKER_01]: Yeah, thanks.
+[SPEAKER_01]: Okay, so with that in mind, and here's why, and I end every day with the same thing.
+[SPEAKER_01]: There are people right now on their hands and knees begging God for the answer that you have.
+[SPEAKER_01]: You are the answer to their prayers.
+[SPEAKER_01]: So you need to start your business.
+[SPEAKER_01]: You need to make your offer.
+[SPEAKER_01]: You need to stand up and step out into the world, into the cold dark world with your torch lit saying, I will help you fix this one thing.
+[SPEAKER_01]: Because like you, I've been on my hands and knees praying to God for answers too.
+[SPEAKER_01]: and you guys are the ones that have them.
+[SPEAKER_01]: So please, pick up your torch, carry it out into the cold, dark world, because we need magic, we need entrepreneurs, we need you.
+[SPEAKER_01]: Thanks, I'll see you guys next week.
+[SPEAKER_01]: Take care, have a great day.
+[SPEAKER_04]: Bye.
+[SPEAKER_04]: Thanks Andy, have a great weekend, great to hear from you, great to meet some new faces as well.
+[SPEAKER_00]: Thanks Noah, bye.
